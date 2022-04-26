@@ -26,7 +26,7 @@ define( 'DB_NAME', 'idfood_net_helpdesk_undb' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Dig@311' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -83,7 +83,11 @@ $table_prefix = 'undb_';
  *
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', false);
+
+define('WP_MEMORY_LIMIT', '1024M');
 
 /* Add any custom values between this line and the "stop editing" line. */
 
