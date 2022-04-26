@@ -54,4 +54,8 @@ jQuery(document).ready(function ($) {
             }
         });
     }
+
+    $('.select-subproject').change(function () {
+       location.href = $(this).val();
+    });
 });

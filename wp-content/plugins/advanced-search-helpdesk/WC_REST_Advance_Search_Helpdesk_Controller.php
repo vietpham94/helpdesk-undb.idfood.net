@@ -97,58 +97,91 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $args['page'] = $request->get_param('page');
         }
 
-        $meta_query = array('relation' => 'AND');
+        $meta_query = array();
 
-        if (!empty($request->get_param('subject_type'))) {
+        if (!empty($request->get_param('project'))) {
             $meta_query[] = array(
-                'key' => 'helpdesk_subject_type',
-                'value' => $request->get_param('subject_type')
-            );
-        }
-
-        if (!empty($request->get_param('phase'))) {
-            $meta_query[] = array(
-                'key' => 'helpdesk_phase',
-                'value' => $request->get_param('phase')
+                'key' => 'helpdesk_project',
+                'value' => $request->get_param('project')
             );
         }
 
         if (!empty($request->get_param('action'))) {
             $meta_query[] = array(
                 'key' => 'helpdesk_action',
-                'value' => $request->get_param('action'),
+                'value' => $request->get_param('action')
+            );
+        }
+
+        if (!empty($request->get_param('phase'))) {
+            $meta_query[] = array(
+                'key' => 'helpdesk_phase',
+                'value' => $request->get_param('phase'),
+            );
+        }
+
+        if (!empty($request->get_param('subject_type'))) {
+            $meta_query[] = array(
+                'key' => 'helpdesk_subject_type',
+                'value' => $request->get_param('subject_type'),
                 'compare' => 'LIKE',
             );
         }
 
-        if (!empty($request->get_param('project_organizational'))) {
+        if (!empty($request->get_param('province')) && empty($request->get_param('district')) && empty($request->get_param('wards'))) {
             $meta_query[] = array(
-                'key' => 'project_organizational',
-                'value' => $request->get_param('project_organizational'),
-                'compare' => 'LIKE',
+                'key' => 'helpdesk_location',
+                'value' => $request->get_param('province'),
+                'compare' => 'IN',
             );
         }
 
-        if (!empty($request->get_param('project_subject'))) {
+        if (!empty($request->get_param('province')) && !empty($request->get_param('district')) && empty($request->get_param('wards'))) {
             $meta_query[] = array(
-                'key' => 'project_subject',
-                'value' => $request->get_param('project_subject'),
-                'compare' => 'LIKE',
+                'key' => 'helpdesk_location',
+                'value' => $request->get_param('district'),
+                'compare' => 'IN',
             );
         }
 
-        if (!empty($request->get_param('project_target'))) {
+        if (!empty($request->get_param('province')) && !empty($request->get_param('district')) && !empty($request->get_param('wards'))) {
             $meta_query[] = array(
-                'key' => 'project_subject',
-                'value' => $request->get_param('project_target'),
-                'compare' => 'LIKE',
+                'key' => 'helpdesk_location',
+                'value' => $request->get_param('wards'),
+                'compare' => 'IN',
             );
         }
+
+        if (sizeof($meta_query) > 0) {
+            $meta_query['relation'] = 'AND';
+            $args['meta_query'] = $meta_query;
+        }
+
+        if (!empty($tax_query)) {
+            $args['tax_query'] = $tax_query;
+        }
+
+        return get_posts($args);
     }
 
     public function get_project_directories(\WP_REST_Request $request)
     {
+        if (empty($request->get_param('project'))) {
+            return array();
+        }
 
+        if (!empty($request->get_param('page'))) {
+            $args['page'] = $request->get_param('page');
+        }
+
+        $args = array(
+            'numberposts' => -1,
+            'post_type' => 'project_directory',
+            'meta_key' => 'project_directory_id',
+            'meta_value' => $request->get_param('project')
+        );
+
+        return get_posts($args);
     }
 
     public function get_districts(\WP_REST_Request $request)
