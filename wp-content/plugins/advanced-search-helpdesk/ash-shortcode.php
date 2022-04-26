@@ -8,16 +8,7 @@ function create_search_form_shortcode($args, $content)
                 <span class="search-form-label"><?= __('Quý vị là ai?') ?></span>
             </div>
             <div class="col-12 col-md-8 col-lg-9">
-                <?php $subjects = get_posts(array('numberposts' => -1, 'post_type' => 'subject', 'order' => 'ASC')); ?>
-                <?php foreach ($subjects as $subject) { ?>
-                    <div class="form-check mb-2">
-                        <label class="form-check-label">
-                            <input type="radio" class="form-check-input" name="subject_type"
-                                   value="<?= $subject->ID; ?>">
-                            <p class="radio-labels"><?= get_the_title($subject) ?></p>
-                        </label>
-                    </div>
-                <?php }; ?>
+                <?php echo do_shortcode('[helpdesk_advance_subject_radio_group]'); ?>
             </div>
         </div>
 
@@ -25,33 +16,7 @@ function create_search_form_shortcode($args, $content)
             <div class="col-12 col-md-4 col-lg-3 m-auto">
                 <span class="search-form-label"><?= __('Địa bàn thực hiện ở khu vực nào?') ?></span>
             </div>
-            <div class="col-12 col-md-4 col-lg-3 m-auto">
-                <div class="form-group mb-0">
-                    <?php $provinces = get_posts(array('numberposts' => -1, 'post_type' => 'province', 'order_by' => 'title', 'order' => 'ASC')); ?>
-                    <select name="tinh" class="form-control form-control-sm select-province">
-                        <option value="">+ Tỉnh thành</option>
-                        <?php foreach ($provinces as $province) { ?>
-                            <option value="<?= $province->ID ?>"><?= get_the_title($province) ?></option>
-                        <?php } ?>
-                    </select>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4 col-lg-3 m-auto">
-                <div class="form-group mb-0">
-                    <select name="huyen" class="form-control form-control-sm select-district">
-                        <option value="">+ Quận huyện</option>
-                    </select>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-4 col-lg-3 m-auto">
-                <div class="form-group mb-0">
-                    <select name="xa" class="form-control form-control-sm select-wards">
-                        <option value="">+ Xã phường</option>
-                    </select>
-                </div>
-            </div>
+            <?php echo do_shortcode('[helpdesk_advance_address_selection]'); ?>
         </div>
 
         <div class="row mb-2 activity">
@@ -59,15 +24,7 @@ function create_search_form_shortcode($args, $content)
                 <span class="search-form-label"><?= __('Quý vị quan tâm đến hoạt động nào?') ?></span>
             </div>
             <div class="col-12 col-md-8 col-lg-9 m-auto">
-                <div class="form-group mb-0">
-                    <?php $action_projects = get_posts(array('numberposts' => -1, 'post_type' => 'project_action')); ?>
-                    <select name="action" class="form-control form-control-sm select-action">
-                        <option value="">+ Chọn hoạt động</option>
-                        <?php foreach ($action_projects as $action_project) { ?>
-                            <option value="<?= $action_project->ID ?>"><?= get_the_title($action_project) ?></option>
-                        <?php } ?>
-                    </select>
-                </div>
+                <?php echo do_shortcode('[helpdesk_advance_subject_selector_project_action]'); ?>
             </div>
         </div>
 
@@ -76,16 +33,7 @@ function create_search_form_shortcode($args, $content)
                 <span class="search-form-label"><?= __('Vấn đề quý vị quan tâm là?') ?></span>
             </div>
             <div class="col-12 col-md-8 col-lg-9">
-                <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => false)); ?>
-                <?php foreach ($helpdesk_categories as $helpdesk_category) { ?>
-                    <div class="form-check mb-2">
-                        <label class="form-check-label">
-                            <input type="radio" class="form-check-input" name="helpdesk_category"
-                                   value="<?= $helpdesk_category->term_id; ?>">
-                            <p class="radio-labels"><?= $helpdesk_category->name; ?></p>
-                        </label>
-                    </div>
-                <?php }; ?>
+                <?php echo do_shortcode('[helpdesk_advance_helpdesk_content_radio_group]'); ?>
             </div>
         </div>
 
@@ -196,3 +144,97 @@ function search_result_shortcode($args, $content)
 
 //[helpdesk_advance_search_result]
 add_shortcode('helpdesk_advance_search_result', 'search_result_shortcode');
+
+function selection_address_advance($args, $content)
+{
+    ?>
+    <div class="col-12 col-md-4 col-lg-3 mt-auto mb-auto">
+        <div class="form-group mb-0">
+            <?php $provinces = get_posts(array('numberposts' => -1, 'post_type' => 'province', 'order_by' => 'title', 'order' => 'ASC')); ?>
+            <select name="tinh" class="form-control form-control-sm select-province">
+                <option value="">+ Tỉnh thành</option>
+                <?php foreach ($provinces as $province) { ?>
+                    <option value="<?= $province->ID ?>"><?= get_the_title($province) ?></option>
+                <?php } ?>
+            </select>
+        </div>
+    </div>
+
+    <div class="col-12 col-md-4 col-lg-3 mt-auto mb-auto">
+        <div class="form-group mb-0">
+            <select name="huyen" class="form-control form-control-sm select-district">
+                <option value="">+ Quận huyện</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="col-12 col-md-4 col-lg-3 mt-auto mb-auto">
+        <div class="form-group mb-0">
+            <select name="xa" class="form-control form-control-sm select-wards">
+                <option value="">+ Xã phường</option>
+            </select>
+        </div>
+    </div>
+    <?php
+}
+
+//[helpdesk_advance_address_selection]
+add_shortcode('helpdesk_advance_address_selection', 'selection_address_advance');
+
+function subject_radio_group($args, $content)
+{
+    ?>
+    <?php $subjects = get_posts(array('numberposts' => -1, 'post_type' => 'subject', 'order' => 'ASC')); ?>
+    <?php foreach ($subjects as $subject): ?>
+    <div class="form-check mb-2">
+        <label class="form-check-label">
+            <input type="radio" class="form-check-input" name="subject_type"
+                   value="<?= $subject->ID; ?>">
+            <p class="radio-labels"><?= get_the_title($subject) ?></p>
+        </label>
+    </div>
+<?php endforeach; ?>
+<?php }
+
+//[helpdesk_advance_subject_radio_group]
+add_shortcode('helpdesk_advance_subject_radio_group', 'subject_radio_group');
+
+function project_actions_selector($args, $content)
+{ ?>
+    <div class="form-group mb-0">
+        <?php $action_projects = get_posts(array('numberposts' => -1, 'post_type' => 'project_action')); ?>
+        <select name="action" class="form-control form-control-sm select-action">
+            <option value="">+ Chọn hoạt động</option>
+            <?php foreach ($action_projects as $action_project) { ?>
+                <option value="<?= $action_project->ID ?>"><?= get_the_title($action_project) ?></option>
+            <?php } ?>
+        </select>
+    </div>
+    <?php
+}
+
+//[helpdesk_advance_subject_selector_project_action]
+add_shortcode('helpdesk_advance_subject_selector_project_action', 'project_actions_selector');
+
+function helpdesk_content_radio_group($agrs, $content)
+{
+    ?>
+    <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => false)); ?>
+    <?php foreach ($helpdesk_categories as $helpdesk_category) { ?>
+    <div class="form-check mb-2">
+        <label class="form-check-label">
+            <input type="radio" class="form-check-input" name="helpdesk_category"
+                   value="<?= $helpdesk_category->term_id; ?>">
+            <p class="radio-labels"><?= $helpdesk_category->name; ?></p>
+        </label>
+    </div>
+    <?php }; ?>
+    <?php
+}
+
+//[helpdesk_advance_helpdesk_content_radio_group]
+add_shortcode('helpdesk_advance_helpdesk_content_radio_group', 'helpdesk_content_radio_group');
+
+
+
+

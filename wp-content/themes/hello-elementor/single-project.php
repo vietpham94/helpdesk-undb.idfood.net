@@ -153,59 +153,65 @@ $project_action_ids = array();
                 <h2 class="title"><?php __('Thông tin liên hệ'); ?></h2>
             </div>
         </div>
+
         <div class="row">
             <div class="col-12">
                 <p class="title"><?= __('Quý vị cần thông tin liên hệ ở khu vực nào?'); ?></p>
             </div>
-
-            <div class="col-4">
-                <div class="form-group mb-0">
-                    <?php $provinces = get_posts(array('numberposts' => -1, 'post_type' => 'province', 'order_by' => 'title', 'order' => 'ASC')); ?>
-                    <select name="tinh" class="form-control form-control-sm select-province">
-                        <option value="">+ Tỉnh thành</option>
-                        <?php foreach ($provinces as $province) { ?>
-                            <option value="<?= $province->ID ?>"><?= get_the_title($province) ?></option>
-                        <?php } ?>
-                    </select>
-                </div>
-            </div>
-            <div class="col-4">
-                <div class="form-group mb-0">
-                    <select name="huyen" class="form-control form-control-sm select-district">
-                        <option value="">+ Quận huyện</option>
-                    </select>
-                </div>
-            </div>
-            <div class="col-4">
-                <div class="form-group mb-0">
-                    <select name="xa" class="form-control form-control-sm select-wards">
-                        <option value="">+ Xã phường</option>
-                    </select>
-                </div>
-            </div>
+            <?php echo do_shortcode('[helpdesk_advance_address_selection]'); ?>
         </div>
+
         <div class="row">
             <div class="col-12">
                 <?php
-                $project_directory = get_posts(array(
-                    'numberposts' => -1,
+                $project_directories = get_posts(array(
+                    'numberposts' => 20,
                     'post_type' => 'project_directory',
                     'meta_key' => 'enterprise_action',
                     'meta_value' => $project_action_ids,
                     'meta_compare' => 'IN'
                 ));
-                write_log($project_directory);
 
-
-                $enterprise_directory_ids = array();
-                foreach ($project_directory as $item) {
-                    if (!in_array(get_field('enterprise_directory', $item), $enterprise_directory_ids)) {
-                        $enterprise_directory_ids[] = get_field('enterprise_directory', $item);
+                $enterprise_directory_items = array();
+                $positions = array();
+                foreach ($project_directories as $item) {
+                    $ed = get_field('enterprise_directory', $item);
+                    if (empty($enterprise_directory_items[$ed->ID])) {
+                        $enterprise_directory_items[$ed->ID] = $ed;
+                        if (!in_array(get_field('role', $item), $positions)) {
+                            $positions[] = get_field('role', $item);
+                        }
                     }
                 }
 
-                write_log($enterprise_directory_ids);
                 ?>
+                <div class="row">
+                    <?php foreach ($positions as $role) { ?>
+                        <div class="col-12"></div>
+                        <p class="position-tite"><?= $role; ?></p></div>
+                        <?php foreach ($enterprise_directory_items as $item) { write_log($item->ID); write_log(get_fields($item->ID));?>
+                                <?php if ($role == get_field('role', $item->ID)) : ?>
+                                    <div class="col-12 col-md-4 col-lg-3">
+                                        <?php if (!empty(get_field('logo', $item->ID))) { ?>
+                                            <img class="logo" src="<?= get_field('logo', $item->ID); ?>">
+                                        <?php } ?>
+                                    </div>
+                                    <div class="col-12 col-md-8 col-lg-9">
+                                        <p class="enterprise-title"><?= get_the_title($item) ?></p>
+                                        <p class="address"><?= __('Địa chỉ'); ?></p>
+                                        <p class="phone">
+                                            <span class="enterprise-phone"><?= __('Điện thoại: ') . get_field('enterprise_phone', $item) ?></span>
+                                            <span class="enterprise-hotline"><?= __('Đường dây nóng: ') .  get_field('enterprise_hotline', $item) ?></span>
+                                        </p>
+                                        <p class="online-contact">
+                                            <span class="enterprise-phone"><?= __('Email: ') . get_field('enterprise_email', $item) ?></span>
+                                            <span class="enterprise-hotline"><?= __('Website: ') . get_field('enterprise_website', $item) ?></span>
+                                        </p>
+                                    </div>
+                                <?php endif; ?>
+                        <?php } ?>
+                    <?php } ?>
+                </div>
             </div>
         </div>
     </section>
