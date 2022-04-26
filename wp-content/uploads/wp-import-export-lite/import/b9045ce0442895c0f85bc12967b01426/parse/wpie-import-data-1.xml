@@ -1,0 +1,4826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <id><![CDATA[1017]]></id>
+    <title><![CDATA[Quận Ba Đình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00001]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1018]]></id>
+    <title><![CDATA[Quận Hoàn Kiếm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00002]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1019]]></id>
+    <title><![CDATA[Quận Tây Hồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00003]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1020]]></id>
+    <title><![CDATA[Quận Long Biên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00004]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1021]]></id>
+    <title><![CDATA[Quận Cầu Giấy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00005]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1022]]></id>
+    <title><![CDATA[Quận Đống Đa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00006]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1023]]></id>
+    <title><![CDATA[Quận Hai Bà Trưng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00007]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1024]]></id>
+    <title><![CDATA[Quận Hoàng Mai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00008]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1025]]></id>
+    <title><![CDATA[Quận Thanh Xuân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00009]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1026]]></id>
+    <title><![CDATA[Huyện Sóc Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00010]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1027]]></id>
+    <title><![CDATA[Huyện Đông Anh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00011]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1028]]></id>
+    <title><![CDATA[Huyện Gia Lâm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00012]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1029]]></id>
+    <title><![CDATA[Quận Nam Từ Liêm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00013]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1030]]></id>
+    <title><![CDATA[Huyện Thạnh Trị]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00014]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1031]]></id>
+    <title><![CDATA[Quận Bắc Từ Liêm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00015]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1032]]></id>
+    <title><![CDATA[Huyện Mê Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00016]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1033]]></id>
+    <title><![CDATA[Quận Hà Đông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00017]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1034]]></id>
+    <title><![CDATA[Thị xã Sơn Tây]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00018]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1035]]></id>
+    <title><![CDATA[Huyện Ba Vì]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00019]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1036]]></id>
+    <title><![CDATA[Huyện Phúc Thọ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00020]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1037]]></id>
+    <title><![CDATA[Huyện Đan Phượng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00021]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1038]]></id>
+    <title><![CDATA[Huyện Hoài Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00022]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1039]]></id>
+    <title><![CDATA[Huyện Quốc Oai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00023]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1040]]></id>
+    <title><![CDATA[Huyện Thạch Thất]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00024]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1041]]></id>
+    <title><![CDATA[Huyện Chương Mỹ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00025]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1042]]></id>
+    <title><![CDATA[Huyện Thanh Oai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00026]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1043]]></id>
+    <title><![CDATA[Huyện Thường Tín]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00027]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1044]]></id>
+    <title><![CDATA[Huyện Phú Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00028]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1045]]></id>
+    <title><![CDATA[Huyện Ứng Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00029]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1046]]></id>
+    <title><![CDATA[Huyện Mỹ Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00030]]></district_code>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1047]]></id>
+    <title><![CDATA[Thị xã Hà Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00031]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1048]]></id>
+    <title><![CDATA[Huyện Đồng Văn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00032]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1049]]></id>
+    <title><![CDATA[Huyện Mèo Vạc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00033]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1050]]></id>
+    <title><![CDATA[Huyện Yên Minh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00034]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1051]]></id>
+    <title><![CDATA[Huyện Quản Bạ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00035]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1052]]></id>
+    <title><![CDATA[Huyện Vị Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00036]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1053]]></id>
+    <title><![CDATA[Huyện Bắc Mê]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00037]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1054]]></id>
+    <title><![CDATA[Huyện Hoàng Su Phì]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00038]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1055]]></id>
+    <title><![CDATA[Huyện Xín Mần]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00039]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1056]]></id>
+    <title><![CDATA[Huyện Bắc Quang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00040]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1057]]></id>
+    <title><![CDATA[Huyện Quang Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00041]]></district_code>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1058]]></id>
+    <title><![CDATA[TP Cao Bằng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00042]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1059]]></id>
+    <title><![CDATA[Huyện Bảo Lâm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00043]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1060]]></id>
+    <title><![CDATA[Huyện Bảo Lạc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00044]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1061]]></id>
+    <title><![CDATA[Huyện Thông Nông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00045]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1062]]></id>
+    <title><![CDATA[Huyện Hà Quảng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00046]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1063]]></id>
+    <title><![CDATA[Huyện Trà Lĩnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00047]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1064]]></id>
+    <title><![CDATA[Huyện Trùng Khánh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00048]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1065]]></id>
+    <title><![CDATA[Huyện Hạ Lang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00049]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1066]]></id>
+    <title><![CDATA[Huyện Quảng Uyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00050]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1067]]></id>
+    <title><![CDATA[Huyện Phục Hoà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00051]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1068]]></id>
+    <title><![CDATA[Huyện Hoà An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00052]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1069]]></id>
+    <title><![CDATA[Huyện Nguyên Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00053]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1070]]></id>
+    <title><![CDATA[Huyện Thạch An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00054]]></district_code>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1071]]></id>
+    <title><![CDATA[TP Bắc Kạn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00055]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1072]]></id>
+    <title><![CDATA[Huyện Pác Nặm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00056]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1073]]></id>
+    <title><![CDATA[Huyện Ba Bể]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00057]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1074]]></id>
+    <title><![CDATA[Huyện Ngân Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00058]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1075]]></id>
+    <title><![CDATA[Huyện Bạch Thông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00059]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1076]]></id>
+    <title><![CDATA[Huyện Chợ Đồn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00060]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1077]]></id>
+    <title><![CDATA[Huyện Chợ Mới]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00061]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1078]]></id>
+    <title><![CDATA[Huyện Na Rì]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00062]]></district_code>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1079]]></id>
+    <title><![CDATA[TP Tuyên Quang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00063]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1080]]></id>
+    <title><![CDATA[Huyện Lâm Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00064]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1081]]></id>
+    <title><![CDATA[Huyện Nà Hang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00065]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1082]]></id>
+    <title><![CDATA[Huyện Chiêm Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00066]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1083]]></id>
+    <title><![CDATA[Huyện Hàm Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00067]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1084]]></id>
+    <title><![CDATA[Huyện Yên Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00068]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1085]]></id>
+    <title><![CDATA[Huyện Sơn Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00069]]></district_code>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1086]]></id>
+    <title><![CDATA[TP Lào Cai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00070]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1087]]></id>
+    <title><![CDATA[Huyện Bát Xát]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00071]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1088]]></id>
+    <title><![CDATA[Huyện Mường Khương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00072]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1089]]></id>
+    <title><![CDATA[Huyện Si Ma Cai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00073]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1090]]></id>
+    <title><![CDATA[Huyện Bắc Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00074]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1091]]></id>
+    <title><![CDATA[Huyện Bảo Thắng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00075]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1092]]></id>
+    <title><![CDATA[Huyện Bảo Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00076]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1093]]></id>
+    <title><![CDATA[Huyện Sa Pa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00077]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1094]]></id>
+    <title><![CDATA[Huyện Văn Bàn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00078]]></district_code>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1095]]></id>
+    <title><![CDATA[TP Điện Biên Phủ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00079]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1096]]></id>
+    <title><![CDATA[Thị Xã Mường Lay]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00080]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1097]]></id>
+    <title><![CDATA[Huyện Mường Nhé]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00081]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1098]]></id>
+    <title><![CDATA[Huyện Mường Chà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00082]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1099]]></id>
+    <title><![CDATA[Huyện Tủa Chùa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00083]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1100]]></id>
+    <title><![CDATA[Huyện Tuần Giáo]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00084]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1101]]></id>
+    <title><![CDATA[Huyện Điện Biên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00085]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1102]]></id>
+    <title><![CDATA[Huyện Điện Biên Đông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00086]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1103]]></id>
+    <title><![CDATA[Huyện Mường Ảng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00087]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1104]]></id>
+    <title><![CDATA[Huyện Nậm Pồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00088]]></district_code>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1105]]></id>
+    <title><![CDATA[TP Lai Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00089]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1106]]></id>
+    <title><![CDATA[Huyện Tam Đường]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00090]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1107]]></id>
+    <title><![CDATA[Huyện Mường Tè]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00091]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1108]]></id>
+    <title><![CDATA[Huyện Sìn Hồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00092]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1109]]></id>
+    <title><![CDATA[Huyện Phong Thổ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00093]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1110]]></id>
+    <title><![CDATA[Huyện Than Uyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00094]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1111]]></id>
+    <title><![CDATA[Huyện Tân Uyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00095]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1112]]></id>
+    <title><![CDATA[Huyện Nậm Nhùn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00096]]></district_code>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1113]]></id>
+    <title><![CDATA[TP Sơn La]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00097]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1114]]></id>
+    <title><![CDATA[Huyện Quỳnh Nhai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00098]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1115]]></id>
+    <title><![CDATA[Huyện Thuận Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00099]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1116]]></id>
+    <title><![CDATA[Huyện Mường La]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00100]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1117]]></id>
+    <title><![CDATA[Huyện Bắc Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00101]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1118]]></id>
+    <title><![CDATA[Huyện Phù Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00102]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1119]]></id>
+    <title><![CDATA[Huyện Mộc Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00103]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1120]]></id>
+    <title><![CDATA[Huyện Yên Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00104]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1121]]></id>
+    <title><![CDATA[Huyện Mai Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00105]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1122]]></id>
+    <title><![CDATA[Huyện Sông Mã]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00106]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1123]]></id>
+    <title><![CDATA[Huyện Sốp Cộp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00107]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1124]]></id>
+    <title><![CDATA[Huyện Vân Hồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00108]]></district_code>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1125]]></id>
+    <title><![CDATA[TP Yên Bái]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00109]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1126]]></id>
+    <title><![CDATA[Thị xã Nghĩa Lộ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00110]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1127]]></id>
+    <title><![CDATA[Huyện Lục Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00111]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1128]]></id>
+    <title><![CDATA[Huyện Văn Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00112]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1129]]></id>
+    <title><![CDATA[Huyện Mù Căng Chải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00113]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1130]]></id>
+    <title><![CDATA[Huyện Trấn Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00114]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1131]]></id>
+    <title><![CDATA[Huyện Trạm Tấu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00115]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1132]]></id>
+    <title><![CDATA[Huyện Văn Chấn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00116]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1133]]></id>
+    <title><![CDATA[Huyện Yên Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00117]]></district_code>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1134]]></id>
+    <title><![CDATA[TP Hòa Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00118]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1135]]></id>
+    <title><![CDATA[Huyện Đà Bắc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00119]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1136]]></id>
+    <title><![CDATA[Huyện Kỳ Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00120]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1137]]></id>
+    <title><![CDATA[Huyện Lương Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00121]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1138]]></id>
+    <title><![CDATA[Huyện Kim Bôi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00122]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1139]]></id>
+    <title><![CDATA[Huyện Cao Phong]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00123]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1140]]></id>
+    <title><![CDATA[Huyện Tân Lạc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00124]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1141]]></id>
+    <title><![CDATA[Huyện Mai Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00125]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1142]]></id>
+    <title><![CDATA[Huyện Lạc Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00126]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1143]]></id>
+    <title><![CDATA[Huyện Yên Thủy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00127]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1144]]></id>
+    <title><![CDATA[Huyện Lạc Thủy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00128]]></district_code>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1145]]></id>
+    <title><![CDATA[TP Thái Nguyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00129]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1146]]></id>
+    <title><![CDATA[TP Sông Công]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00130]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1147]]></id>
+    <title><![CDATA[Huyện Định Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00131]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1148]]></id>
+    <title><![CDATA[Huyện Phú Lương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00132]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1149]]></id>
+    <title><![CDATA[Huyện Đồng Hỷ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00133]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1150]]></id>
+    <title><![CDATA[Huyện Võ Nhai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00134]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1151]]></id>
+    <title><![CDATA[Huyện Đại Từ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00135]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1152]]></id>
+    <title><![CDATA[Thị xã Phổ Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00136]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1153]]></id>
+    <title><![CDATA[Huyện Phú Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00137]]></district_code>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1154]]></id>
+    <title><![CDATA[TP Lạng Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00138]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1155]]></id>
+    <title><![CDATA[Huyện Tràng Định]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00139]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1156]]></id>
+    <title><![CDATA[Huyện Bình Gia]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00140]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1157]]></id>
+    <title><![CDATA[Huyện Văn Lãng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00141]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1158]]></id>
+    <title><![CDATA[Huyện Cao Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00142]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1159]]></id>
+    <title><![CDATA[Huyện Văn Quan]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00143]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1160]]></id>
+    <title><![CDATA[Huyện Bắc Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00144]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1161]]></id>
+    <title><![CDATA[Huyện Hữu Lũng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00145]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1162]]></id>
+    <title><![CDATA[Huyện Chi Lăng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00146]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1163]]></id>
+    <title><![CDATA[Huyện Lộc Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00147]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1164]]></id>
+    <title><![CDATA[Huyện Đình Lập]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00148]]></district_code>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1165]]></id>
+    <title><![CDATA[TP Hạ Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00149]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1166]]></id>
+    <title><![CDATA[TP Móng Cái]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00150]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1167]]></id>
+    <title><![CDATA[TP Cẩm Phả]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00151]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1168]]></id>
+    <title><![CDATA[TP Uông Bí]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00152]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1169]]></id>
+    <title><![CDATA[Huyện Bình Liêu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00153]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1170]]></id>
+    <title><![CDATA[Huyện Tiên Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00154]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1171]]></id>
+    <title><![CDATA[Huyện Đầm Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00155]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1172]]></id>
+    <title><![CDATA[Huyện Hải Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00156]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1173]]></id>
+    <title><![CDATA[Huyện Ba Chẽ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00157]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1174]]></id>
+    <title><![CDATA[Huyện Vân Đồn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00158]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1175]]></id>
+    <title><![CDATA[Huyện Hoành Bồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00159]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1176]]></id>
+    <title><![CDATA[Thị xã Đông Triều]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00160]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1177]]></id>
+    <title><![CDATA[Thị xã Quảng Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00161]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1178]]></id>
+    <title><![CDATA[Huyện Cô Tô]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00162]]></district_code>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1179]]></id>
+    <title><![CDATA[TP Bắc Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00163]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1180]]></id>
+    <title><![CDATA[Huyện Yên Thế]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00164]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1181]]></id>
+    <title><![CDATA[Huyện Tân Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00165]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1182]]></id>
+    <title><![CDATA[Huyện Lạng Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00166]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1183]]></id>
+    <title><![CDATA[Huyện Lục Nam]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00167]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1184]]></id>
+    <title><![CDATA[Huyện Lục Ngạn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00168]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1185]]></id>
+    <title><![CDATA[Huyện Sơn Động]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00169]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1186]]></id>
+    <title><![CDATA[Huyện Yên Dũng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00170]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1187]]></id>
+    <title><![CDATA[Huyện Việt Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00171]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1188]]></id>
+    <title><![CDATA[Huyện Hiệp Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00172]]></district_code>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1189]]></id>
+    <title><![CDATA[TP Việt Trì]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00173]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1190]]></id>
+    <title><![CDATA[Thị xã Phú Thọ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00174]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1191]]></id>
+    <title><![CDATA[Huyện Đoan Hùng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00175]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1192]]></id>
+    <title><![CDATA[Huyện Hạ Hoà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00176]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1193]]></id>
+    <title><![CDATA[Huyện Thanh Ba]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00177]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1194]]></id>
+    <title><![CDATA[Huyện Phú Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00178]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1195]]></id>
+    <title><![CDATA[Huyện Yên Lập]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00179]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1196]]></id>
+    <title><![CDATA[Huyện Cẩm Khê]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00180]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1197]]></id>
+    <title><![CDATA[Huyện Tam Nông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00181]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1198]]></id>
+    <title><![CDATA[Huyện Lâm Thao]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00182]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1199]]></id>
+    <title><![CDATA[Huyện Thanh Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00183]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1200]]></id>
+    <title><![CDATA[Huyện Thanh Thuỷ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00184]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1201]]></id>
+    <title><![CDATA[Huyện Tân Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00185]]></district_code>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1202]]></id>
+    <title><![CDATA[TP Vĩnh Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00186]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1203]]></id>
+    <title><![CDATA[Thị xã Phúc Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00187]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1204]]></id>
+    <title><![CDATA[Huyện Lập Thạch]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00188]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1205]]></id>
+    <title><![CDATA[Huyện Tam Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00189]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1206]]></id>
+    <title><![CDATA[Huyện Tam Đảo]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00190]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1207]]></id>
+    <title><![CDATA[Huyện Bình Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00191]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1208]]></id>
+    <title><![CDATA[Huyện Yên Lạc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00192]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1209]]></id>
+    <title><![CDATA[Huyện Vĩnh Tường]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00193]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1210]]></id>
+    <title><![CDATA[Huyện Sông Lô]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00194]]></district_code>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1211]]></id>
+    <title><![CDATA[TP Bắc Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00195]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1212]]></id>
+    <title><![CDATA[Huyện Yên Phong]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00196]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1213]]></id>
+    <title><![CDATA[Huyện Quế Võ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00197]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1214]]></id>
+    <title><![CDATA[Huyện Tiên Du]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00198]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1215]]></id>
+    <title><![CDATA[Thị xã Từ Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00199]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1216]]></id>
+    <title><![CDATA[Huyện Thuận Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00200]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1217]]></id>
+    <title><![CDATA[Huyện Gia Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00201]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1218]]></id>
+    <title><![CDATA[Huyện Lương Tài]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00202]]></district_code>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1219]]></id>
+    <title><![CDATA[TP Hải Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00203]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1220]]></id>
+    <title><![CDATA[Thị xã Chí Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00204]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1221]]></id>
+    <title><![CDATA[Huyện Nam Sách]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00205]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1222]]></id>
+    <title><![CDATA[Huyện Kinh Môn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00206]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1223]]></id>
+    <title><![CDATA[Huyện Kim Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00207]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1224]]></id>
+    <title><![CDATA[Huyện Thanh Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00208]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1225]]></id>
+    <title><![CDATA[Huyện Cẩm Giàng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00209]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1226]]></id>
+    <title><![CDATA[Huyện Bình Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00210]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1227]]></id>
+    <title><![CDATA[Huyện Gia Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00211]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1228]]></id>
+    <title><![CDATA[Huyện Tứ Kỳ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00212]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1229]]></id>
+    <title><![CDATA[Huyện Ninh Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00213]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1230]]></id>
+    <title><![CDATA[Huyện Thanh Miện]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00214]]></district_code>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1231]]></id>
+    <title><![CDATA[Quận Hồng Bàng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00215]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1232]]></id>
+    <title><![CDATA[Quận Ngô Quyền]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00216]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1233]]></id>
+    <title><![CDATA[Quận Lê Chân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00217]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1234]]></id>
+    <title><![CDATA[Quận Hải An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00218]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1235]]></id>
+    <title><![CDATA[Quận Kiến An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00219]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1236]]></id>
+    <title><![CDATA[Quận Đồ Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00220]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1237]]></id>
+    <title><![CDATA[Quận Dương Kinh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00221]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1238]]></id>
+    <title><![CDATA[Huyện Thuỷ Nguyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00222]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1239]]></id>
+    <title><![CDATA[Huyện An Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00223]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1240]]></id>
+    <title><![CDATA[Huyện An Lão]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00224]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1241]]></id>
+    <title><![CDATA[Huyện Kiến Thuỵ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00225]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1242]]></id>
+    <title><![CDATA[Huyện Tiên Lãng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00226]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1243]]></id>
+    <title><![CDATA[Huyện Vĩnh Bảo]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00227]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1244]]></id>
+    <title><![CDATA[Huyện Cát Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00228]]></district_code>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1245]]></id>
+    <title><![CDATA[TP Hưng Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00229]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1246]]></id>
+    <title><![CDATA[Huyện Văn Lâm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00230]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1247]]></id>
+    <title><![CDATA[Huyện Văn Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00231]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1248]]></id>
+    <title><![CDATA[Huyện Yên Mỹ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00232]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1249]]></id>
+    <title><![CDATA[Huyện Mỹ Hào]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00233]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1250]]></id>
+    <title><![CDATA[Huyện Ân Thi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00234]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1251]]></id>
+    <title><![CDATA[Huyện Khoái Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00235]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1252]]></id>
+    <title><![CDATA[Huyện Kim Động]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00236]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1253]]></id>
+    <title><![CDATA[Huyện Tiên Lữ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00237]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1254]]></id>
+    <title><![CDATA[Huyện Phù Cừ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00238]]></district_code>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1255]]></id>
+    <title><![CDATA[TP Thái Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00239]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1256]]></id>
+    <title><![CDATA[Huyện Quỳnh Phụ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00240]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1257]]></id>
+    <title><![CDATA[Huyện Hưng Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00241]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1258]]></id>
+    <title><![CDATA[Huyện Đông Hưng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00242]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1259]]></id>
+    <title><![CDATA[Huyện Thái Thụy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00243]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1260]]></id>
+    <title><![CDATA[Huyện Tiền Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00244]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1261]]></id>
+    <title><![CDATA[Huyện Kiến Xương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00245]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1262]]></id>
+    <title><![CDATA[Huyện Vũ Thư]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00246]]></district_code>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1263]]></id>
+    <title><![CDATA[TP Phủ Lý]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00247]]></district_code>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1264]]></id>
+    <title><![CDATA[Huyện Duy Tiên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00248]]></district_code>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1265]]></id>
+    <title><![CDATA[Huyện Kim Bảng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00249]]></district_code>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1266]]></id>
+    <title><![CDATA[Huyện Thanh Liêm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00250]]></district_code>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1267]]></id>
+    <title><![CDATA[Huyện Bình Lục]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00251]]></district_code>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1268]]></id>
+    <title><![CDATA[Huyện Lý Nhân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00252]]></district_code>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1269]]></id>
+    <title><![CDATA[TP Nam Định]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00253]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1270]]></id>
+    <title><![CDATA[Huyện Mỹ Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00254]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1271]]></id>
+    <title><![CDATA[Huyện Vụ Bản]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00255]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1272]]></id>
+    <title><![CDATA[Huyện Ý Yên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00256]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1273]]></id>
+    <title><![CDATA[Huyện Nghĩa Hưng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00257]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1274]]></id>
+    <title><![CDATA[Huyện Nam Trực]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00258]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1275]]></id>
+    <title><![CDATA[Huyện Trực Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00259]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1276]]></id>
+    <title><![CDATA[Huyện Xuân Trường]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00260]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1277]]></id>
+    <title><![CDATA[Huyện Giao Thủy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00261]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1278]]></id>
+    <title><![CDATA[Huyện Hải Hậu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00262]]></district_code>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1279]]></id>
+    <title><![CDATA[TP Ninh Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00263]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1280]]></id>
+    <title><![CDATA[TP Tam Điệp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00264]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1281]]></id>
+    <title><![CDATA[Huyện Nho Quan]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00265]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1282]]></id>
+    <title><![CDATA[Huyện Gia Viễn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00266]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1283]]></id>
+    <title><![CDATA[Huyện Hoa Lư]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00267]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1284]]></id>
+    <title><![CDATA[Huyện Yên Khánh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00268]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1285]]></id>
+    <title><![CDATA[Huyện Kim Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00269]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1286]]></id>
+    <title><![CDATA[Huyện Yên Mô]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00270]]></district_code>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1287]]></id>
+    <title><![CDATA[Thanh Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00271]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1288]]></id>
+    <title><![CDATA[Thị xã Bỉm Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00272]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1289]]></id>
+    <title><![CDATA[Thị xã Sầm Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00273]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1290]]></id>
+    <title><![CDATA[Huyện Mường Lát]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00274]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1291]]></id>
+    <title><![CDATA[Huyện Quan Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00275]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1292]]></id>
+    <title><![CDATA[Huyện Bá Thước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00276]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1293]]></id>
+    <title><![CDATA[Huyện Quan Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00277]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1294]]></id>
+    <title><![CDATA[Huyện Lang Chánh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00278]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1295]]></id>
+    <title><![CDATA[Huyện Ngọc Lặc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00279]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1296]]></id>
+    <title><![CDATA[Huyện Cẩm Thủy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00280]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1297]]></id>
+    <title><![CDATA[Huyện Thạch Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00281]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1298]]></id>
+    <title><![CDATA[Huyện Hà Trung]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00282]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1299]]></id>
+    <title><![CDATA[Huyện Vĩnh Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00283]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1300]]></id>
+    <title><![CDATA[Huyện Yên Định]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00284]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1301]]></id>
+    <title><![CDATA[Huyện Thọ Xuân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00285]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1302]]></id>
+    <title><![CDATA[Huyện Thường Xuân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00286]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1303]]></id>
+    <title><![CDATA[Huyện Triệu Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00287]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1304]]></id>
+    <title><![CDATA[Huyện Thiệu Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00288]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1305]]></id>
+    <title><![CDATA[Huyện Hoằng Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00289]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1306]]></id>
+    <title><![CDATA[Huyện Hậu Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00290]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1307]]></id>
+    <title><![CDATA[Huyện Nga Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00291]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1308]]></id>
+    <title><![CDATA[Huyện Như Xuân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00292]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1309]]></id>
+    <title><![CDATA[Huyện Như Thanh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00293]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1310]]></id>
+    <title><![CDATA[Huyện Nông Cống]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00294]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1311]]></id>
+    <title><![CDATA[Huyện Đông Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00295]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1312]]></id>
+    <title><![CDATA[Huyện Quảng Xương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00296]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1313]]></id>
+    <title><![CDATA[Huyện Tĩnh Gia]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00297]]></district_code>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1314]]></id>
+    <title><![CDATA[TP Vinh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00298]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1315]]></id>
+    <title><![CDATA[Thị xã Cửa Lò]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00299]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1316]]></id>
+    <title><![CDATA[Thị xã Thái Hoà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00300]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1317]]></id>
+    <title><![CDATA[Huyện Quế Phong]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00301]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1318]]></id>
+    <title><![CDATA[Huyện Quỳ Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00302]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1319]]></id>
+    <title><![CDATA[Huyện Tương Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00303]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1320]]></id>
+    <title><![CDATA[Huyện Nghĩa Đàn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00304]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1321]]></id>
+    <title><![CDATA[Huyện Quỳ Hợp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00305]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1322]]></id>
+    <title><![CDATA[Huyện Quỳnh Lưu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00306]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1323]]></id>
+    <title><![CDATA[Huyện Con Cuông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00307]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1324]]></id>
+    <title><![CDATA[Huyện Tân Kỳ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00308]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1325]]></id>
+    <title><![CDATA[Huyện Anh Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00309]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1326]]></id>
+    <title><![CDATA[Huyện Diễn Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00310]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1327]]></id>
+    <title><![CDATA[Huyện Yên Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00311]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1328]]></id>
+    <title><![CDATA[Huyện Đô Lương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00312]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1329]]></id>
+    <title><![CDATA[Huyện Thanh Chương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00313]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1330]]></id>
+    <title><![CDATA[Huyện Nghi Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00314]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1331]]></id>
+    <title><![CDATA[Huyện Nam Đàn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00315]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1332]]></id>
+    <title><![CDATA[Huyện Hưng Nguyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00316]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1333]]></id>
+    <title><![CDATA[Thị xã Hoàng Mai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00317]]></district_code>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1334]]></id>
+    <title><![CDATA[TP Hà Tĩnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00318]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1335]]></id>
+    <title><![CDATA[Thị xã Hồng Lĩnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00319]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1336]]></id>
+    <title><![CDATA[Huyện Hương Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00320]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1337]]></id>
+    <title><![CDATA[Huyện Đức Thọ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00321]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1338]]></id>
+    <title><![CDATA[Huyện Vũ Quang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00322]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1339]]></id>
+    <title><![CDATA[Huyện Nghi Xuân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00323]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1340]]></id>
+    <title><![CDATA[Huyện Can Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00324]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1341]]></id>
+    <title><![CDATA[Huyện Hương Khê]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00325]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1342]]></id>
+    <title><![CDATA[Huyện Thạch Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00326]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1343]]></id>
+    <title><![CDATA[Huyện Cẩm Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00327]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1344]]></id>
+    <title><![CDATA[Huyện Kỳ Anh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00328]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1345]]></id>
+    <title><![CDATA[Huyện Lộc Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00329]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1346]]></id>
+    <title><![CDATA[Thị xã Kỳ Anh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00330]]></district_code>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1347]]></id>
+    <title><![CDATA[TP Đồng Hới]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00331]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1348]]></id>
+    <title><![CDATA[Huyện Minh Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00332]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1349]]></id>
+    <title><![CDATA[Huyện Tuyên Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00333]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1350]]></id>
+    <title><![CDATA[Huyện Quảng Trạch]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00334]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1351]]></id>
+    <title><![CDATA[Huyện Bố Trạch]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00335]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1352]]></id>
+    <title><![CDATA[Huyện Quảng Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00336]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1353]]></id>
+    <title><![CDATA[Huyện Lệ Thủy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00337]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1354]]></id>
+    <title><![CDATA[Thị xã Ba Đồn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00338]]></district_code>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1355]]></id>
+    <title><![CDATA[TP Đông Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00339]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1356]]></id>
+    <title><![CDATA[Thị xã Quảng Trị]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00340]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1357]]></id>
+    <title><![CDATA[Huyện Vĩnh Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00341]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1358]]></id>
+    <title><![CDATA[Huyện Hướng Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00342]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1359]]></id>
+    <title><![CDATA[Huyện Gio Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00343]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1360]]></id>
+    <title><![CDATA[Huyện Đa Krông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00344]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1361]]></id>
+    <title><![CDATA[Huyện Cam Lộ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00345]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1362]]></id>
+    <title><![CDATA[Huyện Triệu Phong]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00346]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1363]]></id>
+    <title><![CDATA[Huyện Hải Lăng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00347]]></district_code>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1364]]></id>
+    <title><![CDATA[TP Huế]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00348]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1365]]></id>
+    <title><![CDATA[Huyện Phong Điền]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00349]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1366]]></id>
+    <title><![CDATA[Huyện Quảng Điền]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00350]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1367]]></id>
+    <title><![CDATA[Huyện Phú Vang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00351]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1368]]></id>
+    <title><![CDATA[Thị xã Hương Thủy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00352]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1369]]></id>
+    <title><![CDATA[Thị xã Hương Trà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00353]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1370]]></id>
+    <title><![CDATA[Huyện A Lưới]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00354]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1371]]></id>
+    <title><![CDATA[Huyện Phú Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00355]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1372]]></id>
+    <title><![CDATA[Huyện Nam Đông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00356]]></district_code>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1373]]></id>
+    <title><![CDATA[Quận Liên Chiểu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00357]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1374]]></id>
+    <title><![CDATA[Quận Thanh Khê]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00358]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1375]]></id>
+    <title><![CDATA[Quận Hải Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00359]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1376]]></id>
+    <title><![CDATA[Quận Sơn Trà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00360]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1377]]></id>
+    <title><![CDATA[Quận Ngũ Hành Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00361]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1378]]></id>
+    <title><![CDATA[Quận Cẩm Lệ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00362]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1379]]></id>
+    <title><![CDATA[Huyện Hòa Vang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00363]]></district_code>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1380]]></id>
+    <title><![CDATA[TP Tam Kỳ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00364]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1381]]></id>
+    <title><![CDATA[TP Hội An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00365]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1382]]></id>
+    <title><![CDATA[Huyện Tây Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00366]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1383]]></id>
+    <title><![CDATA[Huyện Đông Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00367]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1384]]></id>
+    <title><![CDATA[Huyện Đại Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00368]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1385]]></id>
+    <title><![CDATA[Thị xã Điện Bàn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00369]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1386]]></id>
+    <title><![CDATA[Huyện Duy Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00370]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1387]]></id>
+    <title><![CDATA[Huyện Quế Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00371]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1388]]></id>
+    <title><![CDATA[Huyện Nam Giang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00372]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1389]]></id>
+    <title><![CDATA[Huyện Phước Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00373]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1390]]></id>
+    <title><![CDATA[Huyện Hiệp Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00374]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1391]]></id>
+    <title><![CDATA[Huyện Thăng Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00375]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1392]]></id>
+    <title><![CDATA[Huyện Tiên Phước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00376]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1393]]></id>
+    <title><![CDATA[Huyện Bắc Trà My]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00377]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1394]]></id>
+    <title><![CDATA[Huyện Nam Trà My]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00378]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1395]]></id>
+    <title><![CDATA[Huyện Núi Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00379]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1396]]></id>
+    <title><![CDATA[Huyện Nông Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00380]]></district_code>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1397]]></id>
+    <title><![CDATA[TP Quảng Ngãi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00381]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1398]]></id>
+    <title><![CDATA[Huyện Bình Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00382]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1399]]></id>
+    <title><![CDATA[Huyện Trà Bồng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00383]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1400]]></id>
+    <title><![CDATA[Huyện Tây Trà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00384]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1401]]></id>
+    <title><![CDATA[Huyện Sơn Tịnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00385]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1402]]></id>
+    <title><![CDATA[Huyện Tư Nghĩa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00386]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1403]]></id>
+    <title><![CDATA[Huyện Sơn Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00387]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1404]]></id>
+    <title><![CDATA[Huyện Sơn Tây]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00388]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1405]]></id>
+    <title><![CDATA[Huyện Minh Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00389]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1406]]></id>
+    <title><![CDATA[Huyện Nghĩa Hành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00390]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1407]]></id>
+    <title><![CDATA[Huyện Mộ Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00391]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1408]]></id>
+    <title><![CDATA[Huyện Đức Phổ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00392]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1409]]></id>
+    <title><![CDATA[Huyện Ba Tơ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00393]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1410]]></id>
+    <title><![CDATA[Huyện Lý Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00394]]></district_code>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1411]]></id>
+    <title><![CDATA[TP Qui Nhơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00395]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1412]]></id>
+    <title><![CDATA[Huyện Hoài Nhơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00396]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1413]]></id>
+    <title><![CDATA[Huyện Hoài Ân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00397]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1414]]></id>
+    <title><![CDATA[Huyện Phù Mỹ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00398]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1415]]></id>
+    <title><![CDATA[Huyện Vĩnh Thạnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00399]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1416]]></id>
+    <title><![CDATA[Huyện Tây Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00400]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1417]]></id>
+    <title><![CDATA[Huyện Phù Cát]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00401]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1418]]></id>
+    <title><![CDATA[Thị xã An Nhơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00402]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1419]]></id>
+    <title><![CDATA[Huyện Tuy Phước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00403]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1420]]></id>
+    <title><![CDATA[Huyện Vân Canh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00404]]></district_code>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1421]]></id>
+    <title><![CDATA[TP Tuy Hoà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00405]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1422]]></id>
+    <title><![CDATA[Thị xã Sông Cầu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00406]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1423]]></id>
+    <title><![CDATA[Huyện Đồng Xuân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00407]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1424]]></id>
+    <title><![CDATA[Huyện Tuy An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00408]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1425]]></id>
+    <title><![CDATA[Huyện Sơn Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00409]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1426]]></id>
+    <title><![CDATA[Huyện Sông Hinh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00410]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1427]]></id>
+    <title><![CDATA[Huyện Tây Hoà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00411]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1428]]></id>
+    <title><![CDATA[Huyện Phú Hoà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00412]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1429]]></id>
+    <title><![CDATA[Huyện Đông Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00413]]></district_code>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1430]]></id>
+    <title><![CDATA[TP Nha Trang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00414]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1431]]></id>
+    <title><![CDATA[TP Cam Ranh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00415]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1432]]></id>
+    <title><![CDATA[Huyện Cam Lâm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00416]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1433]]></id>
+    <title><![CDATA[Huyện Vạn Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00417]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1434]]></id>
+    <title><![CDATA[Thị xã Ninh Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00418]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1435]]></id>
+    <title><![CDATA[Huyện Khánh Vĩnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00419]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1436]]></id>
+    <title><![CDATA[Huyện Diên Khánh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00420]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1437]]></id>
+    <title><![CDATA[Huyện Khánh Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00421]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1438]]></id>
+    <title><![CDATA[Huyện Trường Sa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00422]]></district_code>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1439]]></id>
+    <title><![CDATA[Phan Rang-Tháp Chàm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00423]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1440]]></id>
+    <title><![CDATA[Huyện Bác Ái]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00424]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1441]]></id>
+    <title><![CDATA[Huyện Ninh Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00425]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1442]]></id>
+    <title><![CDATA[Huyện Ninh Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00426]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1443]]></id>
+    <title><![CDATA[Huyện Ninh Phước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00427]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1444]]></id>
+    <title><![CDATA[Huyện Thuận Bắc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00428]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1445]]></id>
+    <title><![CDATA[Huyện Thuận Nam]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00429]]></district_code>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1446]]></id>
+    <title><![CDATA[TP Phan Thiết]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00430]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1447]]></id>
+    <title><![CDATA[Thị xã La Gi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00431]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1448]]></id>
+    <title><![CDATA[Huyện Tuy Phong]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00432]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1449]]></id>
+    <title><![CDATA[Huyện Bắc Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00433]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1450]]></id>
+    <title><![CDATA[Huyện Hàm Thuận Bắc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00434]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1451]]></id>
+    <title><![CDATA[Huyện Hàm Thuận Nam]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00435]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1452]]></id>
+    <title><![CDATA[Huyện Tánh Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00436]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1453]]></id>
+    <title><![CDATA[Huyện Đức Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00437]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1454]]></id>
+    <title><![CDATA[Huyện Hàm Tân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00438]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1455]]></id>
+    <title><![CDATA[Huyện Phú Quí]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00439]]></district_code>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1456]]></id>
+    <title><![CDATA[TP Kon Tum]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00440]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1457]]></id>
+    <title><![CDATA[Huyện Đắk Glei]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00441]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1458]]></id>
+    <title><![CDATA[Huyện Ngọc Hồi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00442]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1459]]></id>
+    <title><![CDATA[Huyện Đắk Tô]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00443]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1460]]></id>
+    <title><![CDATA[Huyện Kon Plông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00444]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1461]]></id>
+    <title><![CDATA[Huyện Kon Rẫy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00445]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1462]]></id>
+    <title><![CDATA[Huyện Đắk Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00446]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1463]]></id>
+    <title><![CDATA[Huyện Sa Thầy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00447]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1464]]></id>
+    <title><![CDATA[Huyện Tu Mơ Rông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00448]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1465]]></id>
+    <title><![CDATA[Huyện Ia H' Drai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00449]]></district_code>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1466]]></id>
+    <title><![CDATA[TP Pleiku]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00450]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1467]]></id>
+    <title><![CDATA[Thị xã An Khê]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00451]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1468]]></id>
+    <title><![CDATA[Thị xã Ayun Pa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00452]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1469]]></id>
+    <title><![CDATA[Huyện KBang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00453]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1470]]></id>
+    <title><![CDATA[Huyện Đăk Đoa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00454]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1471]]></id>
+    <title><![CDATA[Huyện Chư Păh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00455]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1472]]></id>
+    <title><![CDATA[Huyện Ia Grai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00456]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1473]]></id>
+    <title><![CDATA[Huyện Mang Yang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00457]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1474]]></id>
+    <title><![CDATA[Huyện Kông Chro]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00458]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1475]]></id>
+    <title><![CDATA[Huyện Đức Cơ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00459]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1476]]></id>
+    <title><![CDATA[Huyện Chư Prông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00460]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1477]]></id>
+    <title><![CDATA[Huyện Chư Sê]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00461]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1478]]></id>
+    <title><![CDATA[Huyện Đăk Pơ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00462]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1479]]></id>
+    <title><![CDATA[Huyện Ia Pa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00463]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1480]]></id>
+    <title><![CDATA[Huyện Krông Pa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00464]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1481]]></id>
+    <title><![CDATA[Huyện Phú Thiện]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00465]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1482]]></id>
+    <title><![CDATA[Huyện Chư Pưh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00466]]></district_code>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1483]]></id>
+    <title><![CDATA[Buôn Ma Thuột]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00467]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1484]]></id>
+    <title><![CDATA[Thị Xã Buôn Hồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00468]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1485]]></id>
+    <title><![CDATA[Huyện Ea H'leo]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00469]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1486]]></id>
+    <title><![CDATA[Huyện Ea Súp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00470]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1487]]></id>
+    <title><![CDATA[Huyện Buôn Đôn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00471]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1488]]></id>
+    <title><![CDATA[Huyện Cư M'gar]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00472]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1489]]></id>
+    <title><![CDATA[Huyện Krông Búk]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00473]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1490]]></id>
+    <title><![CDATA[Huyện Krông Năng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00474]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1491]]></id>
+    <title><![CDATA[Huyện Ea Kar]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00475]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1492]]></id>
+    <title><![CDATA[Huyện M'Đrắk]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00476]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1493]]></id>
+    <title><![CDATA[Huyện Krông Bông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00477]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1494]]></id>
+    <title><![CDATA[Huyện Krông Pắc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00478]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1495]]></id>
+    <title><![CDATA[Huyện Krông A Na]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00479]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1496]]></id>
+    <title><![CDATA[Huyện Lắk]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00480]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1497]]></id>
+    <title><![CDATA[Huyện Cư Kuin]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00481]]></district_code>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1498]]></id>
+    <title><![CDATA[Thị xã Gia Nghĩa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00482]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1499]]></id>
+    <title><![CDATA[Huyện Đăk Glong]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00483]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1500]]></id>
+    <title><![CDATA[Huyện Cư Jút]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00484]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1501]]></id>
+    <title><![CDATA[Huyện Đắk Mil]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00485]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1502]]></id>
+    <title><![CDATA[Huyện Krông Nô]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00486]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1503]]></id>
+    <title><![CDATA[Huyện Đắk Song]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00487]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1504]]></id>
+    <title><![CDATA[Huyện Đắk R'Lấp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00488]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1505]]></id>
+    <title><![CDATA[Huyện Tuy Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00489]]></district_code>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1506]]></id>
+    <title><![CDATA[TP Đà Lạt]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00490]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1507]]></id>
+    <title><![CDATA[TP Bảo Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00491]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1508]]></id>
+    <title><![CDATA[Huyện Đam Rông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00492]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1509]]></id>
+    <title><![CDATA[Huyện Lạc Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00493]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1510]]></id>
+    <title><![CDATA[Huyện Lâm Hà]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00494]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1511]]></id>
+    <title><![CDATA[Huyện Đơn Dương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00495]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1512]]></id>
+    <title><![CDATA[Huyện Đức Trọng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00496]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1513]]></id>
+    <title><![CDATA[Huyện Di Linh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00497]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1514]]></id>
+    <title><![CDATA[Huyện Đạ Huoai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00498]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1515]]></id>
+    <title><![CDATA[Huyện Đạ Tẻh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00499]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1516]]></id>
+    <title><![CDATA[Huyện Cát Tiên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00500]]></district_code>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1517]]></id>
+    <title><![CDATA[Thị xã Phước Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00501]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1518]]></id>
+    <title><![CDATA[Thị xã Đồng Xoài]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00502]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1519]]></id>
+    <title><![CDATA[Thị xã Bình Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00503]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1520]]></id>
+    <title><![CDATA[Huyện Bù Gia Mập]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00504]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1521]]></id>
+    <title><![CDATA[Huyện Lộc Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00505]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1522]]></id>
+    <title><![CDATA[Huyện Bù Đốp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00506]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1523]]></id>
+    <title><![CDATA[Huyện Hớn Quản]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00507]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1524]]></id>
+    <title><![CDATA[Huyện Đồng Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00508]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1525]]></id>
+    <title><![CDATA[Huyện Bù Đăng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00509]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1526]]></id>
+    <title><![CDATA[Huyện Chơn Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00510]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1527]]></id>
+    <title><![CDATA[Huyện Phú Riềng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00511]]></district_code>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1528]]></id>
+    <title><![CDATA[TP Tây Ninh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00512]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1529]]></id>
+    <title><![CDATA[Huyện Tân Biên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00513]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1530]]></id>
+    <title><![CDATA[Huyện Tân Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00514]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1531]]></id>
+    <title><![CDATA[Huyện Dương Minh Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00515]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1532]]></id>
+    <title><![CDATA[Huyện Châu Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00516]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1533]]></id>
+    <title><![CDATA[Huyện Hòa Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00517]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1534]]></id>
+    <title><![CDATA[Huyện Gò Dầu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00518]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1535]]></id>
+    <title><![CDATA[Huyện Bến Cầu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00519]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1536]]></id>
+    <title><![CDATA[Huyện Trảng Bàng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00520]]></district_code>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1537]]></id>
+    <title><![CDATA[TP Thủ Dầu Một]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00521]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1538]]></id>
+    <title><![CDATA[Huyện Bàu Bàng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00522]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1539]]></id>
+    <title><![CDATA[Huyện Dầu Tiếng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00523]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1540]]></id>
+    <title><![CDATA[Thị xã Bến Cát]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00524]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1541]]></id>
+    <title><![CDATA[Huyện Phú Giáo]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00525]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1542]]></id>
+    <title><![CDATA[Thị xã Tân Uyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00526]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1543]]></id>
+    <title><![CDATA[Thị xã Dĩ An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00527]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1544]]></id>
+    <title><![CDATA[Thị xã Thuận An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00528]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1545]]></id>
+    <title><![CDATA[Huyện Bắc Tân Uyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00529]]></district_code>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1546]]></id>
+    <title><![CDATA[TP Biên Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00530]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1547]]></id>
+    <title><![CDATA[Thị xã Long Khánh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00531]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1548]]></id>
+    <title><![CDATA[Huyện Tân Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00532]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1549]]></id>
+    <title><![CDATA[Huyện Vĩnh Cửu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00533]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1550]]></id>
+    <title><![CDATA[Huyện Định Quán]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00534]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1551]]></id>
+    <title><![CDATA[Huyện Trảng Bom]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00535]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1552]]></id>
+    <title><![CDATA[Huyện Thống Nhất]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00536]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1553]]></id>
+    <title><![CDATA[Huyện Cẩm Mỹ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00537]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1554]]></id>
+    <title><![CDATA[Huyện Long Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00538]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1555]]></id>
+    <title><![CDATA[Huyện Xuân Lộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00539]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1556]]></id>
+    <title><![CDATA[Huyện Nhơn Trạch]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00540]]></district_code>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1557]]></id>
+    <title><![CDATA[TP Vũng Tàu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00541]]></district_code>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1558]]></id>
+    <title><![CDATA[TP Bà Rịa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00542]]></district_code>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1559]]></id>
+    <title><![CDATA[Huyện Châu Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00543]]></district_code>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1560]]></id>
+    <title><![CDATA[Huyện Xuyên Mộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00544]]></district_code>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1561]]></id>
+    <title><![CDATA[Huyện Long Điền]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00545]]></district_code>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1562]]></id>
+    <title><![CDATA[Huyện Đất Đỏ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00546]]></district_code>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1563]]></id>
+    <title><![CDATA[Huyện Tân Thạnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00547]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1564]]></id>
+    <title><![CDATA[Quận 1]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00548]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1565]]></id>
+    <title><![CDATA[Quận 12]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00549]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1566]]></id>
+    <title><![CDATA[Quận Thủ Đức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00550]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1567]]></id>
+    <title><![CDATA[Quận 9]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00551]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1568]]></id>
+    <title><![CDATA[Quận Gò Vấp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00552]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1569]]></id>
+    <title><![CDATA[Quận Bình Thạnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00553]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1570]]></id>
+    <title><![CDATA[Quận Tân Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00554]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1571]]></id>
+    <title><![CDATA[Quận Tân Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00555]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1572]]></id>
+    <title><![CDATA[Quận Phú Nhuận]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00556]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1573]]></id>
+    <title><![CDATA[Quận 2]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00557]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1574]]></id>
+    <title><![CDATA[Quận 3]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00558]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1575]]></id>
+    <title><![CDATA[Quận 10]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00559]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1576]]></id>
+    <title><![CDATA[Quận 11]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00560]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1577]]></id>
+    <title><![CDATA[Quận 4]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00561]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1578]]></id>
+    <title><![CDATA[Quận 5]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00562]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1579]]></id>
+    <title><![CDATA[Quận 6]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00563]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1580]]></id>
+    <title><![CDATA[Quận 8]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00564]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1581]]></id>
+    <title><![CDATA[Quận Bình Tân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00565]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1582]]></id>
+    <title><![CDATA[Quận 7]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00566]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1583]]></id>
+    <title><![CDATA[Huyện Củ Chi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00567]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1584]]></id>
+    <title><![CDATA[Huyện Hóc Môn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00568]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1585]]></id>
+    <title><![CDATA[Huyện Bình Chánh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00569]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1586]]></id>
+    <title><![CDATA[Huyện Nhà Bè]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00570]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1587]]></id>
+    <title><![CDATA[Huyện Cần Giờ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00571]]></district_code>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1588]]></id>
+    <title><![CDATA[TP Tân An]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00572]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1589]]></id>
+    <title><![CDATA[Thị xã Kiến Tường]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00573]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1590]]></id>
+    <title><![CDATA[Huyện Tân Hưng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00574]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1591]]></id>
+    <title><![CDATA[Huyện Vĩnh Hưng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00575]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1592]]></id>
+    <title><![CDATA[Huyện Mộc Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00576]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1593]]></id>
+    <title><![CDATA[Huyện Thạnh Hóa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00577]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1594]]></id>
+    <title><![CDATA[Huyện Đức Huệ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00578]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1595]]></id>
+    <title><![CDATA[Huyện Đức Hòa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00579]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1596]]></id>
+    <title><![CDATA[Huyện Bến Lức]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00580]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1597]]></id>
+    <title><![CDATA[Huyện Thủ Thừa]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00581]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1598]]></id>
+    <title><![CDATA[Huyện Tân Trụ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00582]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1599]]></id>
+    <title><![CDATA[Huyện Cần Đước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00583]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1600]]></id>
+    <title><![CDATA[Huyện Cần Giuộc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00584]]></district_code>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1601]]></id>
+    <title><![CDATA[TP Mỹ Tho]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00585]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1602]]></id>
+    <title><![CDATA[Thị xã Gò Công]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00586]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1603]]></id>
+    <title><![CDATA[Thị xã Cai Lậy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00587]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1604]]></id>
+    <title><![CDATA[Huyện Tân Phước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00588]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1605]]></id>
+    <title><![CDATA[Huyện Cái Bè]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00589]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1606]]></id>
+    <title><![CDATA[Huyện Cai Lậy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00590]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1607]]></id>
+    <title><![CDATA[Huyện Chợ Gạo]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00591]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1608]]></id>
+    <title><![CDATA[Huyện Gò Công Tây]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00592]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1609]]></id>
+    <title><![CDATA[Huyện Gò Công Đông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00593]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1610]]></id>
+    <title><![CDATA[Huyện Tân Phú Đông]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00594]]></district_code>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1611]]></id>
+    <title><![CDATA[TP Bến Tre]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00595]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1612]]></id>
+    <title><![CDATA[Huyện Chợ Lách]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00596]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1613]]></id>
+    <title><![CDATA[Huyện Mỏ Cày Nam]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00597]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1614]]></id>
+    <title><![CDATA[Huyện Giồng Trôm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00598]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1615]]></id>
+    <title><![CDATA[Huyện Bình Đại]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00599]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1616]]></id>
+    <title><![CDATA[Huyện Ba Tri]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00600]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1617]]></id>
+    <title><![CDATA[Huyện Thạnh Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00601]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1618]]></id>
+    <title><![CDATA[Huyện Mỏ Cày Bắc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00602]]></district_code>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1619]]></id>
+    <title><![CDATA[TP Trà Vinh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00603]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1620]]></id>
+    <title><![CDATA[Huyện Càng Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00604]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1621]]></id>
+    <title><![CDATA[Huyện Cầu Kè]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00605]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1622]]></id>
+    <title><![CDATA[Huyện Tiểu Cần]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00606]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1623]]></id>
+    <title><![CDATA[Huyện Cầu Ngang]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00607]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1624]]></id>
+    <title><![CDATA[Huyện Trà Cú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00608]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1625]]></id>
+    <title><![CDATA[Huyện Duyên Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00609]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1626]]></id>
+    <title><![CDATA[Thị xã Duyên Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00610]]></district_code>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1627]]></id>
+    <title><![CDATA[TP Vĩnh Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00611]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1628]]></id>
+    <title><![CDATA[Huyện Long Hồ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00612]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1629]]></id>
+    <title><![CDATA[Huyện Mang Thít]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00613]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1630]]></id>
+    <title><![CDATA[Huyện  Vũng Liêm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00614]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1631]]></id>
+    <title><![CDATA[Huyện Tam Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00615]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1632]]></id>
+    <title><![CDATA[Thị xã Bình Minh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00616]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1633]]></id>
+    <title><![CDATA[Huyện Trà Ôn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00617]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1634]]></id>
+    <title><![CDATA[Huyện Bình Tân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00618]]></district_code>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1635]]></id>
+    <title><![CDATA[TP Cao Lãnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00619]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1636]]></id>
+    <title><![CDATA[TP Sa Đéc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00620]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1637]]></id>
+    <title><![CDATA[Thị xã Hồng Ngự]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00621]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1638]]></id>
+    <title><![CDATA[Huyện Tân Hồng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00622]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1639]]></id>
+    <title><![CDATA[Huyện Hồng Ngự]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00623]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1640]]></id>
+    <title><![CDATA[Huyện Tháp Mười]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00624]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1641]]></id>
+    <title><![CDATA[Huyện Cao Lãnh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00625]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1642]]></id>
+    <title><![CDATA[Huyện Thanh Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00626]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1643]]></id>
+    <title><![CDATA[Huyện Lấp Vò]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00627]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1644]]></id>
+    <title><![CDATA[Huyện Lai Vung]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00628]]></district_code>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1645]]></id>
+    <title><![CDATA[TP Long Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00629]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1646]]></id>
+    <title><![CDATA[TP Châu Đốc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00630]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1647]]></id>
+    <title><![CDATA[Huyện An Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00631]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1648]]></id>
+    <title><![CDATA[Thị xã Tân Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00632]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1649]]></id>
+    <title><![CDATA[Huyện Phú Tân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00633]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1650]]></id>
+    <title><![CDATA[Huyện Châu Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00634]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1651]]></id>
+    <title><![CDATA[Huyện Tịnh Biên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00635]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1652]]></id>
+    <title><![CDATA[Huyện Tri Tôn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00636]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1653]]></id>
+    <title><![CDATA[Huyện Thoại Sơn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00637]]></district_code>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1654]]></id>
+    <title><![CDATA[TP Rạch Giá]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00638]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1655]]></id>
+    <title><![CDATA[Thị xã Hà Tiên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00639]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1656]]></id>
+    <title><![CDATA[Huyện Kiên Lương]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00640]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1657]]></id>
+    <title><![CDATA[Huyện Hòn Đất]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00641]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1658]]></id>
+    <title><![CDATA[Huyện Tân Hiệp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00642]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1659]]></id>
+    <title><![CDATA[Huyện Giồng Riềng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00643]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1660]]></id>
+    <title><![CDATA[Huyện Gò Quao]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00644]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1661]]></id>
+    <title><![CDATA[Huyện An Biên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00645]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1662]]></id>
+    <title><![CDATA[Huyện An Minh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00646]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1663]]></id>
+    <title><![CDATA[Huyện Vĩnh Thuận]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00647]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1664]]></id>
+    <title><![CDATA[Huyện Phú Quốc]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00648]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1665]]></id>
+    <title><![CDATA[Huyện Kiên Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00649]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1666]]></id>
+    <title><![CDATA[Huyện U Minh Thượng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00650]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1667]]></id>
+    <title><![CDATA[Huyện Giang Thành]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00651]]></district_code>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1668]]></id>
+    <title><![CDATA[Quận Ninh Kiều]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00652]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1669]]></id>
+    <title><![CDATA[Quận Ô Môn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00653]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1670]]></id>
+    <title><![CDATA[Quận Bình Thuỷ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00654]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1671]]></id>
+    <title><![CDATA[Quận Cái Răng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00655]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1672]]></id>
+    <title><![CDATA[Quận Thốt Nốt]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00656]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1673]]></id>
+    <title><![CDATA[Huyện Cờ Đỏ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00657]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1674]]></id>
+    <title><![CDATA[Huyện Thới Lai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00658]]></district_code>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1675]]></id>
+    <title><![CDATA[TP Vị Thanh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00659]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1676]]></id>
+    <title><![CDATA[Thị xã Ngã Bảy]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00660]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1677]]></id>
+    <title><![CDATA[Huyện Châu Thành A]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00661]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1678]]></id>
+    <title><![CDATA[Huyện Phụng Hiệp]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00662]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1679]]></id>
+    <title><![CDATA[Huyện Vị Thuỷ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00663]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1680]]></id>
+    <title><![CDATA[Huyện Long Mỹ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00664]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1681]]></id>
+    <title><![CDATA[Thị xã Long Mỹ]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00665]]></district_code>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1682]]></id>
+    <title><![CDATA[TP Sóc Trăng]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00666]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1683]]></id>
+    <title><![CDATA[Huyện Kế Sách]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00667]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1684]]></id>
+    <title><![CDATA[Huyện Mỹ Tú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00668]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1685]]></id>
+    <title><![CDATA[Huyện Cù Lao Dung]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00669]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1686]]></id>
+    <title><![CDATA[Huyện Long Phú]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00670]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1687]]></id>
+    <title><![CDATA[Huyện Mỹ Xuyên]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00671]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1688]]></id>
+    <title><![CDATA[Thị xã Ngã Năm]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00672]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1689]]></id>
+    <title><![CDATA[Thị xã Vĩnh Châu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00673]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1690]]></id>
+    <title><![CDATA[Huyện Trần Đề]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00674]]></district_code>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1691]]></id>
+    <title><![CDATA[TP Bạc Liêu]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00675]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1692]]></id>
+    <title><![CDATA[Huyện Hồng Dân]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00676]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1693]]></id>
+    <title><![CDATA[Huyện Phước Long]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00677]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1694]]></id>
+    <title><![CDATA[Huyện Vĩnh Lợi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00678]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1695]]></id>
+    <title><![CDATA[Thị xã Giá Rai]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00679]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1696]]></id>
+    <title><![CDATA[Huyện Đông Hải]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00680]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1697]]></id>
+    <title><![CDATA[Huyện Hoà Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00681]]></district_code>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1698]]></id>
+    <title><![CDATA[TP Cà Mau]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00682]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1699]]></id>
+    <title><![CDATA[Huyện U Minh]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00683]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1700]]></id>
+    <title><![CDATA[Huyện Thới Bình]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00684]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1701]]></id>
+    <title><![CDATA[Huyện Trần Văn Thời]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00685]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1702]]></id>
+    <title><![CDATA[Huyện Cái Nước]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00686]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1703]]></id>
+    <title><![CDATA[Huyện Đầm Dơi]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00687]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1704]]></id>
+    <title><![CDATA[Huyện Năm Căn]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00688]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <id><![CDATA[1705]]></id>
+    <title><![CDATA[Huyện Ngọc Hiển]]></title>
+    <posttype><![CDATA[district]]></posttype>
+    <district_code><![CDATA[00689]]></district_code>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+</wpiedata>

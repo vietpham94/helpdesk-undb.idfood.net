@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <id><![CDATA[35]]></id>
+    <title><![CDATA[Hà Nội]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[01]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[39]]></id>
+    <title><![CDATA[Hà Giang]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[02]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[40]]></id>
+    <title><![CDATA[Cao Bằng]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[04]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[41]]></id>
+    <title><![CDATA[Bắc Kạn]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[06]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[42]]></id>
+    <title><![CDATA[Tuyên Quang]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[08]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[43]]></id>
+    <title><![CDATA[Lào Cai]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[10]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[44]]></id>
+    <title><![CDATA[Điện Biên]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[11]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[45]]></id>
+    <title><![CDATA[Lai Châu]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[12]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[46]]></id>
+    <title><![CDATA[Sơn La]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[14]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[47]]></id>
+    <title><![CDATA[Yên Bái]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[15]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[48]]></id>
+    <title><![CDATA[Hoà Bình]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[17]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[49]]></id>
+    <title><![CDATA[Thái Nguyên]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[19]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[50]]></id>
+    <title><![CDATA[Lạng Sơn]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[20]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[51]]></id>
+    <title><![CDATA[Quảng Ninh]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[22]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[52]]></id>
+    <title><![CDATA[Bắc Giang]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[24]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[53]]></id>
+    <title><![CDATA[Phú Thọ]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[25]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[54]]></id>
+    <title><![CDATA[Vĩnh Phúc]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[26]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[55]]></id>
+    <title><![CDATA[Bắc Ninh]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[27]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[56]]></id>
+    <title><![CDATA[Hải Dương]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[30]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[57]]></id>
+    <title><![CDATA[Hải Phòng]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[31]]></province_code>
+    <province_type><![CDATA[Thành phố Trung ương]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[58]]></id>
+    <title><![CDATA[Hưng Yên]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[33]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[59]]></id>
+    <title><![CDATA[Thái Bình]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[34]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+  <item>
+    <id><![CDATA[60]]></id>
+    <title><![CDATA[Hà Nam]]></title>
+    <posttype><![CDATA[province]]></posttype>
+    <province_code><![CDATA[35]]></province_code>
+    <province_type><![CDATA[Tỉnh]]></province_type>
+  </item>
+</wpiedata>

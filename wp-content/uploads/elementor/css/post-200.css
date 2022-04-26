@@ -1,0 +1,55 @@
+.elementor-200 .elementor-element.elementor-element-f72b7f3{text-align:center;}.elementor-200 .elementor-element.elementor-element-f72b7f3 .elementor-heading-title{color:#A72D2D;}.elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-200 .elementor-element.elementor-element-24a24c0:after{content:"0.66";}.elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-post__thumbnail__link{width:100%;}.elementor-200 .elementor-element.elementor-element-24a24c0{--grid-column-gap:30px;--grid-row-gap:10px;}.elementor-200 .elementor-element.elementor-element-24a24c0.elementor-posts--thumbnail-left .elementor-post__thumbnail__link{margin-right:20px;}.elementor-200 .elementor-element.elementor-element-24a24c0.elementor-posts--thumbnail-right .elementor-post__thumbnail__link{margin-left:20px;}.elementor-200 .elementor-element.elementor-element-24a24c0.elementor-posts--thumbnail-top .elementor-post__thumbnail__link{margin-bottom:20px;}.elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-post__title, .elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-post__title a{color:#0070B9;}.elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-pagination{text-align:center;margin-top:0px;}body:not(.rtl) .elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}.elementor-200 .elementor-element.elementor-element-55313d1{text-align:center;}.elementor-200 .elementor-element.elementor-element-55313d1 .elementor-heading-title{color:#A72D2D;}.elementor-200 .elementor-element.elementor-element-e00ffa8{text-align:center;}.elementor-200 .elementor-element.elementor-element-e00ffa8 .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-f33c2aa{text-align:center;}.elementor-200 .elementor-element.elementor-element-f33c2aa .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-2f15e6a{text-align:center;}.elementor-200 .elementor-element.elementor-element-2f15e6a .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-6f3a647{text-align:center;}.elementor-200 .elementor-element.elementor-element-6f3a647 .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-438f4d2{text-align:center;}.elementor-200 .elementor-element.elementor-element-438f4d2 .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-04ae090{text-align:center;}.elementor-200 .elementor-element.elementor-element-04ae090 .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-0c3bac3{text-align:center;}.elementor-200 .elementor-element.elementor-element-0c3bac3 .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-e79a44c{text-align:center;}.elementor-200 .elementor-element.elementor-element-e79a44c .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-5b05fe7{text-align:center;}.elementor-200 .elementor-element.elementor-element-5b05fe7 .elementor-heading-title{color:#514C4C;}.elementor-200 .elementor-element.elementor-element-b95e77b{text-align:center;}.elementor-200 .elementor-element.elementor-element-b95e77b .elementor-heading-title{color:#514C4C;}@media(max-width:767px){.elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-200 .elementor-element.elementor-element-24a24c0:after{content:"0.5";}.elementor-200 .elementor-element.elementor-element-24a24c0 .elementor-post__thumbnail__link{width:100%;}}@media(min-width:768px){.elementor-200 .elementor-element.elementor-element-66a3e2a{width:66.959%;}.elementor-200 .elementor-element.elementor-element-647f3c5{width:33%;}}/* Start custom CSS for shortcode, class: .elementor-element-0cd3beb */.elementor-200 .elementor-element.elementor-element-0cd3beb button {
+    background-color: orange;
+    border-radius: 25px;
+    color: #fff;
+    width: 30%;
+    text-transform: uppercase;
+    font-weight: 500;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-f72b7f3 */.elementor-200 .elementor-element.elementor-element-f72b7f3 span{
+    font-size: 30px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for posts, class: .elementor-element-24a24c0 */.elementor-200 .elementor-element.elementor-element-24a24c0 a {
+    font-weight: 400;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-e00ffa8 */.elementor-200 .elementor-element.elementor-element-e00ffa8 ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-f33c2aa */.elementor-200 .elementor-element.elementor-element-f33c2aa ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-2f15e6a */.elementor-200 .elementor-element.elementor-element-2f15e6a ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-6f3a647 */.elementor-200 .elementor-element.elementor-element-6f3a647 ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-438f4d2 */.elementor-200 .elementor-element.elementor-element-438f4d2 ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-04ae090 */.elementor-200 .elementor-element.elementor-element-04ae090 ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-0c3bac3 */.elementor-200 .elementor-element.elementor-element-0c3bac3 ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-e79a44c */.elementor-200 .elementor-element.elementor-element-e79a44c ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-5b05fe7 */.elementor-200 .elementor-element.elementor-element-5b05fe7 ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-b95e77b */.elementor-200 .elementor-element.elementor-element-b95e77b ._title {
+    font-size: 20px;
+    text-transform: uppercase;
+}/* End custom CSS */

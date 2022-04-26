@@ -1,0 +1,161 @@
+.admin-menu-groups {
+    width: 100%;
+    max-width: 800px;
+}
+.admin-menu-groups,
+.admin-menu-groups * {
+    box-sizing: border-box;
+}
+.admin-menu-groups .admin-menu-top {
+    padding-bottom: 10px;
+}
+.admin-menu-groups li {
+    width: 100%;
+}
+.admin-menu-groups .menu-item-handle .item-title {
+    margin-right: 8em;
+}
+.admin-menu-groups .menu-item-bar .menu-item-handle {
+    max-width: 100%;
+}
+.admin-menu-groups .menu-top-native-group > .menu-item-bar > .menu-item-handle {
+    border-left: 2px solid #999;
+    max-width: 100%;
+}
+.admin-menu-groups li.flag_hidden .menu-item-handle {
+    border: 1px dotted red;
+    background: #fee;
+}
+.admin-menu-groups .menu-item-handle {
+    width: 100%;
+    padding: 5px 15px;
+}
+.admin-menu-groups .item-controls {
+    margin-top: 7px;
+}
+.admin-menu-groups .ui-sortable-helper .admin-menu-submenu {
+    padding: 0px;
+    border: 0;
+}
+.admin-menu-groups .admin-menu-submenu {
+    padding: 10px;
+    background: #eee;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-top: none;
+}
+.admin-menu-groups .flag_hidden .admin-menu-submenu {
+    background: #fee;
+}
+
+.admin-menu-groups .admin-menu-submenu .admin-menu-submenu {
+    padding: 0px;
+    border: 0;
+}
+.admin-menu-groups .admin-menu-submenu .menu-item-bar .menu-item-handle {
+    max-width: 100%;
+}
+
+.admin-menu-groups .wp-menu-separator .menu-item-bar .menu-item-handle {
+    border: 0;
+    padding: 1px 0 5px;
+    background: none;
+    box-shadow: none;
+}
+.admin-menu-groups .wp-menu-separator .menu-item-bar .menu-item-handle .item-title {
+    border-bottom: 3px dashed #777;
+    width: 100%;
+    display: inline-block;
+}
+.admin-menu-groups .flag_hidden .wp-menu-separator .menu-item-bar .menu-item-handle .item-title,
+.admin-menu-groups .wp-menu-separator.flag_hidden .menu-item-bar .menu-item-handle .item-title {
+    border-color: #f99;
+}
+.admin-menu-groups input.menu-item-title-text {
+    display: inline-block;
+    width: calc(100% - 50px);
+    vertical-align: middle;
+    border: 0;
+    border-bottom: 1px dotted;
+    background: none;
+    box-shadow: none;
+}
+@media screen and (max-width: 782px) {
+    .form-table .admin-menu-groups input.menu-item-title-text {
+        display: inline-block;
+        width: calc(100% - 50px);
+    }
+}
+.admin-menu-groups .wp-menu-separator .admin-menu-submenu  {
+    padding: 0;
+    border: none;
+}
+.admin-menu-groups .wp-menu-separator div.wp-menu-image {
+    display: none;
+}
+.admin-menu-groups .ui-state-highlight { 
+    height: 40px;
+    line-height: 1.2em;
+    padding: 10px;
+    border: 1px dashed #aaa;
+    width: 100%;
+}
+
+.admin-menu-groups .admin-menu-submenu .ui-state-highlight.is-group-drag {
+    background: #ff0033;
+}
+
+.admin-menu-groups div.wp-menu-image {
+    width: 36px;
+    height: 34px;
+    margin: 0;
+    text-align: center;
+    margin-left: -5px;
+    margin-right: 5px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.admin-menu-groups div.wp-menu-image.dashicons,
+.admin-menu-groups div.wp-menu-image.dashicons-before:before {
+    color: #555;
+}
+
+#AdminGroupsAdd .menu-item-handle {
+    cursor: auto;
+    background: #eee;
+    border: 2px dotted #ccc;
+}
+
+#AdminGroupsAdd .menu-item-handle input.menu-item-title-text,
+#AdminGroupsAdd  div.wp-menu-image .dashicons,
+#AdminGroupsAdd  div.wp-menu-image .dashicons-before:before {
+    /*color: #fff;*/
+
+}
+/*
+#AdminGroupsAdd .item-controls {
+    margin-top: 12px;
+}
+*/
+.admin-menu-groups .button .dashicons {
+    margin-top: 3px;
+}
+.admin-menu-groups div.wp-menu-image .dashicons,
+.admin-menu-groups div.wp-menu-image .dashicons-before:before {
+    color: #555;
+}
+.admin-menu-groups div.icon-picker .button {
+    font-size: 7px;
+    padding: 0 3px;
+    height: 14px;
+    margin: 0;
+    line-height: 100%;
+}
+
+.admin-menu-settings-form .form-table th:first-child {
+    display: none;
+}
+.admin-menu-settings-form .form-table td {
+    padding: 0;
+}

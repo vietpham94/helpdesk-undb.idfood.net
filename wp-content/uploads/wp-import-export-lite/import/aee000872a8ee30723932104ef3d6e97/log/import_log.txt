@@ -1,0 +1,1438 @@
+[05:12:07] <strong>Record</strong> #1
+[05:12:07] post #1017 Successfully Imported
+[05:12:07] <strong>Record</strong> #2
+[05:12:07] post #1018 Successfully Imported
+[05:12:07] <strong>Record</strong> #3
+[05:12:07] post #1019 Successfully Imported
+[05:12:07] <strong>Record</strong> #4
+[05:12:07] post #1020 Successfully Imported
+[05:12:07] <strong>Record</strong> #5
+[05:12:07] post #1021 Successfully Imported
+[05:12:07] <strong>Record</strong> #6
+[05:12:07] post #1022 Successfully Imported
+[05:12:07] <strong>Record</strong> #7
+[05:12:07] post #1023 Successfully Imported
+[05:12:07] <strong>Record</strong> #8
+[05:12:07] post #1024 Successfully Imported
+[05:12:07] <strong>Record</strong> #9
+[05:12:07] post #1025 Successfully Imported
+[05:12:07] <strong>Record</strong> #10
+[05:12:07] post #1026 Successfully Imported
+[05:12:07] <strong>Record</strong> #11
+[05:12:07] post #1027 Successfully Imported
+[05:12:07] <strong>Record</strong> #12
+[05:12:07] post #1028 Successfully Imported
+[05:12:07] <strong>Record</strong> #13
+[05:12:07] post #1029 Successfully Imported
+[05:12:07] <strong>Record</strong> #14
+[05:12:07] post #1030 Successfully Imported
+[05:12:07] <strong>Record</strong> #15
+[05:12:07] post #1031 Successfully Imported
+[05:12:07] <strong>Record</strong> #16
+[05:12:07] post #1032 Successfully Imported
+[05:12:07] <strong>Record</strong> #17
+[05:12:07] post #1033 Successfully Imported
+[05:12:07] <strong>Record</strong> #18
+[05:12:07] post #1034 Successfully Imported
+[05:12:07] <strong>Record</strong> #19
+[05:12:07] post #1035 Successfully Imported
+[05:12:07] <strong>Record</strong> #20
+[05:12:07] post #1036 Successfully Imported
+[05:12:08] <strong>Record</strong> #21
+[05:12:08] post #1037 Successfully Imported
+[05:12:08] <strong>Record</strong> #22
+[05:12:08] post #1038 Successfully Imported
+[05:12:08] <strong>Record</strong> #23
+[05:12:08] post #1039 Successfully Imported
+[05:12:08] <strong>Record</strong> #24
+[05:12:08] post #1040 Successfully Imported
+[05:12:08] <strong>Record</strong> #25
+[05:12:08] post #1041 Successfully Imported
+[05:12:08] <strong>Record</strong> #26
+[05:12:08] post #1042 Successfully Imported
+[05:12:08] <strong>Record</strong> #27
+[05:12:08] post #1043 Successfully Imported
+[05:12:08] <strong>Record</strong> #28
+[05:12:08] post #1044 Successfully Imported
+[05:12:08] <strong>Record</strong> #29
+[05:12:08] post #1045 Successfully Imported
+[05:12:08] <strong>Record</strong> #30
+[05:12:08] post #1046 Successfully Imported
+[05:12:08] <strong>Record</strong> #31
+[05:12:08] post #1047 Successfully Imported
+[05:12:08] <strong>Record</strong> #32
+[05:12:08] post #1048 Successfully Imported
+[05:12:08] <strong>Record</strong> #33
+[05:12:08] post #1049 Successfully Imported
+[05:12:08] <strong>Record</strong> #34
+[05:12:08] post #1050 Successfully Imported
+[05:12:08] <strong>Record</strong> #35
+[05:12:08] post #1051 Successfully Imported
+[05:12:08] <strong>Record</strong> #36
+[05:12:08] post #1052 Successfully Imported
+[05:12:08] <strong>Record</strong> #37
+[05:12:08] post #1053 Successfully Imported
+[05:12:08] <strong>Record</strong> #38
+[05:12:08] post #1054 Successfully Imported
+[05:12:08] <strong>Record</strong> #39
+[05:12:08] post #1055 Successfully Imported
+[05:12:08] <strong>Record</strong> #40
+[05:12:08] post #1056 Successfully Imported
+[05:12:09] <strong>Record</strong> #41
+[05:12:09] post #1057 Successfully Imported
+[05:12:09] <strong>Record</strong> #42
+[05:12:09] post #1058 Successfully Imported
+[05:12:09] <strong>Record</strong> #43
+[05:12:09] post #1059 Successfully Imported
+[05:12:09] <strong>Record</strong> #44
+[05:12:09] post #1060 Successfully Imported
+[05:12:09] <strong>Record</strong> #45
+[05:12:09] post #1061 Successfully Imported
+[05:12:09] <strong>Record</strong> #46
+[05:12:09] post #1062 Successfully Imported
+[05:12:09] <strong>Record</strong> #47
+[05:12:09] post #1063 Successfully Imported
+[05:12:09] <strong>Record</strong> #48
+[05:12:09] post #1064 Successfully Imported
+[05:12:09] <strong>Record</strong> #49
+[05:12:09] post #1065 Successfully Imported
+[05:12:09] <strong>Record</strong> #50
+[05:12:09] post #1066 Successfully Imported
+[05:12:09] <strong>Record</strong> #51
+[05:12:09] post #1067 Successfully Imported
+[05:12:09] <strong>Record</strong> #52
+[05:12:09] post #1068 Successfully Imported
+[05:12:09] <strong>Record</strong> #53
+[05:12:09] post #1069 Successfully Imported
+[05:12:09] <strong>Record</strong> #54
+[05:12:09] post #1070 Successfully Imported
+[05:12:09] <strong>Record</strong> #55
+[05:12:09] post #1071 Successfully Imported
+[05:12:09] <strong>Record</strong> #56
+[05:12:09] post #1072 Successfully Imported
+[05:12:09] <strong>Record</strong> #57
+[05:12:09] post #1073 Successfully Imported
+[05:12:09] <strong>Record</strong> #58
+[05:12:09] post #1074 Successfully Imported
+[05:12:09] <strong>Record</strong> #59
+[05:12:09] post #1075 Successfully Imported
+[05:12:09] <strong>Record</strong> #60
+[05:12:09] post #1076 Successfully Imported
+[05:12:10] <strong>Record</strong> #61
+[05:12:10] post #1077 Successfully Imported
+[05:12:10] <strong>Record</strong> #62
+[05:12:10] post #1078 Successfully Imported
+[05:12:10] <strong>Record</strong> #63
+[05:12:10] post #1079 Successfully Imported
+[05:12:10] <strong>Record</strong> #64
+[05:12:10] post #1080 Successfully Imported
+[05:12:10] <strong>Record</strong> #65
+[05:12:10] post #1081 Successfully Imported
+[05:12:10] <strong>Record</strong> #66
+[05:12:10] post #1082 Successfully Imported
+[05:12:10] <strong>Record</strong> #67
+[05:12:10] post #1083 Successfully Imported
+[05:12:10] <strong>Record</strong> #68
+[05:12:10] post #1084 Successfully Imported
+[05:12:10] <strong>Record</strong> #69
+[05:12:10] post #1085 Successfully Imported
+[05:12:10] <strong>Record</strong> #70
+[05:12:10] post #1086 Successfully Imported
+[05:12:10] <strong>Record</strong> #71
+[05:12:10] post #1087 Successfully Imported
+[05:12:10] <strong>Record</strong> #72
+[05:12:10] post #1088 Successfully Imported
+[05:12:10] <strong>Record</strong> #73
+[05:12:10] post #1089 Successfully Imported
+[05:12:10] <strong>Record</strong> #74
+[05:12:10] post #1090 Successfully Imported
+[05:12:10] <strong>Record</strong> #75
+[05:12:10] post #1091 Successfully Imported
+[05:12:10] <strong>Record</strong> #76
+[05:12:10] post #1092 Successfully Imported
+[05:12:10] <strong>Record</strong> #77
+[05:12:10] post #1093 Successfully Imported
+[05:12:10] <strong>Record</strong> #78
+[05:12:10] post #1094 Successfully Imported
+[05:12:10] <strong>Record</strong> #79
+[05:12:10] post #1095 Successfully Imported
+[05:12:10] <strong>Record</strong> #80
+[05:12:10] post #1096 Successfully Imported
+[05:12:10] <strong>Record</strong> #81
+[05:12:10] post #1097 Successfully Imported
+[05:12:10] <strong>Record</strong> #82
+[05:12:10] post #1098 Successfully Imported
+[05:12:10] <strong>Record</strong> #83
+[05:12:10] post #1099 Successfully Imported
+[05:12:10] <strong>Record</strong> #84
+[05:12:10] post #1100 Successfully Imported
+[05:12:10] <strong>Record</strong> #85
+[05:12:10] post #1101 Successfully Imported
+[05:12:10] <strong>Record</strong> #86
+[05:12:10] post #1102 Successfully Imported
+[05:12:10] <strong>Record</strong> #87
+[05:12:10] post #1103 Successfully Imported
+[05:12:10] <strong>Record</strong> #88
+[05:12:10] post #1104 Successfully Imported
+[05:12:10] <strong>Record</strong> #89
+[05:12:10] post #1105 Successfully Imported
+[05:12:10] <strong>Record</strong> #90
+[05:12:10] post #1106 Successfully Imported
+[05:12:10] <strong>Record</strong> #91
+[05:12:10] post #1107 Successfully Imported
+[05:12:10] <strong>Record</strong> #92
+[05:12:10] post #1108 Successfully Imported
+[05:12:10] <strong>Record</strong> #93
+[05:12:10] post #1109 Successfully Imported
+[05:12:10] <strong>Record</strong> #94
+[05:12:10] post #1110 Successfully Imported
+[05:12:10] <strong>Record</strong> #95
+[05:12:11] post #1111 Successfully Imported
+[05:12:11] <strong>Record</strong> #96
+[05:12:11] post #1112 Successfully Imported
+[05:12:11] <strong>Record</strong> #97
+[05:12:11] post #1113 Successfully Imported
+[05:12:11] <strong>Record</strong> #98
+[05:12:11] post #1114 Successfully Imported
+[05:12:11] <strong>Record</strong> #99
+[05:12:11] post #1115 Successfully Imported
+[05:12:11] <strong>Record</strong> #100
+[05:12:11] post #1116 Successfully Imported
+[05:12:11] <strong>Record</strong> #101
+[05:12:11] post #1117 Successfully Imported
+[05:12:11] <strong>Record</strong> #102
+[05:12:11] post #1118 Successfully Imported
+[05:12:11] <strong>Record</strong> #103
+[05:12:11] post #1119 Successfully Imported
+[05:12:11] <strong>Record</strong> #104
+[05:12:11] post #1120 Successfully Imported
+[05:12:11] <strong>Record</strong> #105
+[05:12:11] post #1121 Successfully Imported
+[05:12:11] <strong>Record</strong> #106
+[05:12:11] post #1122 Successfully Imported
+[05:12:11] <strong>Record</strong> #107
+[05:12:11] post #1123 Successfully Imported
+[05:12:11] <strong>Record</strong> #108
+[05:12:11] post #1124 Successfully Imported
+[05:12:11] <strong>Record</strong> #109
+[05:12:11] post #1125 Successfully Imported
+[05:12:11] <strong>Record</strong> #110
+[05:12:11] post #1126 Successfully Imported
+[05:12:11] <strong>Record</strong> #111
+[05:12:11] post #1127 Successfully Imported
+[05:12:11] <strong>Record</strong> #112
+[05:12:11] post #1128 Successfully Imported
+[05:12:11] <strong>Record</strong> #113
+[05:12:11] post #1129 Successfully Imported
+[05:12:11] <strong>Record</strong> #114
+[05:12:11] post #1130 Successfully Imported
+[05:12:11] <strong>Record</strong> #115
+[05:12:11] post #1131 Successfully Imported
+[05:12:11] <strong>Record</strong> #116
+[05:12:11] post #1132 Successfully Imported
+[05:12:11] <strong>Record</strong> #117
+[05:12:11] post #1133 Successfully Imported
+[05:12:11] <strong>Record</strong> #118
+[05:12:11] post #1134 Successfully Imported
+[05:12:11] <strong>Record</strong> #119
+[05:12:11] post #1135 Successfully Imported
+[05:12:11] <strong>Record</strong> #120
+[05:12:11] post #1136 Successfully Imported
+[05:12:12] <strong>Record</strong> #121
+[05:12:12] post #1137 Successfully Imported
+[05:12:12] <strong>Record</strong> #122
+[05:12:12] post #1138 Successfully Imported
+[05:12:12] <strong>Record</strong> #123
+[05:12:12] post #1139 Successfully Imported
+[05:12:12] <strong>Record</strong> #124
+[05:12:12] post #1140 Successfully Imported
+[05:12:12] <strong>Record</strong> #125
+[05:12:12] post #1141 Successfully Imported
+[05:12:12] <strong>Record</strong> #126
+[05:12:12] post #1142 Successfully Imported
+[05:12:12] <strong>Record</strong> #127
+[05:12:12] post #1143 Successfully Imported
+[05:12:12] <strong>Record</strong> #128
+[05:12:12] post #1144 Successfully Imported
+[05:12:12] <strong>Record</strong> #129
+[05:12:12] post #1145 Successfully Imported
+[05:12:12] <strong>Record</strong> #130
+[05:12:12] post #1146 Successfully Imported
+[05:12:12] <strong>Record</strong> #131
+[05:12:12] post #1147 Successfully Imported
+[05:12:12] <strong>Record</strong> #132
+[05:12:12] post #1148 Successfully Imported
+[05:12:12] <strong>Record</strong> #133
+[05:12:12] post #1149 Successfully Imported
+[05:12:12] <strong>Record</strong> #134
+[05:12:12] post #1150 Successfully Imported
+[05:12:12] <strong>Record</strong> #135
+[05:12:12] post #1151 Successfully Imported
+[05:12:12] <strong>Record</strong> #136
+[05:12:12] post #1152 Successfully Imported
+[05:12:12] <strong>Record</strong> #137
+[05:12:12] post #1153 Successfully Imported
+[05:12:12] <strong>Record</strong> #138
+[05:12:12] post #1154 Successfully Imported
+[05:12:12] <strong>Record</strong> #139
+[05:12:12] post #1155 Successfully Imported
+[05:12:12] <strong>Record</strong> #140
+[05:12:12] post #1156 Successfully Imported
+[05:12:13] <strong>Record</strong> #141
+[05:12:13] post #1157 Successfully Imported
+[05:12:13] <strong>Record</strong> #142
+[05:12:13] post #1158 Successfully Imported
+[05:12:13] <strong>Record</strong> #143
+[05:12:13] post #1159 Successfully Imported
+[05:12:13] <strong>Record</strong> #144
+[05:12:13] post #1160 Successfully Imported
+[05:12:13] <strong>Record</strong> #145
+[05:12:13] post #1161 Successfully Imported
+[05:12:13] <strong>Record</strong> #146
+[05:12:13] post #1162 Successfully Imported
+[05:12:13] <strong>Record</strong> #147
+[05:12:13] post #1163 Successfully Imported
+[05:12:13] <strong>Record</strong> #148
+[05:12:13] post #1164 Successfully Imported
+[05:12:13] <strong>Record</strong> #149
+[05:12:13] post #1165 Successfully Imported
+[05:12:13] <strong>Record</strong> #150
+[05:12:13] post #1166 Successfully Imported
+[05:12:13] <strong>Record</strong> #151
+[05:12:13] post #1167 Successfully Imported
+[05:12:13] <strong>Record</strong> #152
+[05:12:13] post #1168 Successfully Imported
+[05:12:13] <strong>Record</strong> #153
+[05:12:13] post #1169 Successfully Imported
+[05:12:13] <strong>Record</strong> #154
+[05:12:13] post #1170 Successfully Imported
+[05:12:13] <strong>Record</strong> #155
+[05:12:13] post #1171 Successfully Imported
+[05:12:13] <strong>Record</strong> #156
+[05:12:13] post #1172 Successfully Imported
+[05:12:13] <strong>Record</strong> #157
+[05:12:13] post #1173 Successfully Imported
+[05:12:13] <strong>Record</strong> #158
+[05:12:13] post #1174 Successfully Imported
+[05:12:13] <strong>Record</strong> #159
+[05:12:13] post #1175 Successfully Imported
+[05:12:13] <strong>Record</strong> #160
+[05:12:13] post #1176 Successfully Imported
+[05:12:14] <strong>Record</strong> #161
+[05:12:14] post #1177 Successfully Imported
+[05:12:14] <strong>Record</strong> #162
+[05:12:14] post #1178 Successfully Imported
+[05:12:14] <strong>Record</strong> #163
+[05:12:14] post #1179 Successfully Imported
+[05:12:14] <strong>Record</strong> #164
+[05:12:14] post #1180 Successfully Imported
+[05:12:14] <strong>Record</strong> #165
+[05:12:14] post #1181 Successfully Imported
+[05:12:14] <strong>Record</strong> #166
+[05:12:14] post #1182 Successfully Imported
+[05:12:14] <strong>Record</strong> #167
+[05:12:14] post #1183 Successfully Imported
+[05:12:14] <strong>Record</strong> #168
+[05:12:14] post #1184 Successfully Imported
+[05:12:14] <strong>Record</strong> #169
+[05:12:14] post #1185 Successfully Imported
+[05:12:14] <strong>Record</strong> #170
+[05:12:14] post #1186 Successfully Imported
+[05:12:14] <strong>Record</strong> #171
+[05:12:14] post #1187 Successfully Imported
+[05:12:14] <strong>Record</strong> #172
+[05:12:14] post #1188 Successfully Imported
+[05:12:14] <strong>Record</strong> #173
+[05:12:14] post #1189 Successfully Imported
+[05:12:14] <strong>Record</strong> #174
+[05:12:14] post #1190 Successfully Imported
+[05:12:14] <strong>Record</strong> #175
+[05:12:14] post #1191 Successfully Imported
+[05:12:14] <strong>Record</strong> #176
+[05:12:14] post #1192 Successfully Imported
+[05:12:14] <strong>Record</strong> #177
+[05:12:14] post #1193 Successfully Imported
+[05:12:14] <strong>Record</strong> #178
+[05:12:14] post #1194 Successfully Imported
+[05:12:14] <strong>Record</strong> #179
+[05:12:14] post #1195 Successfully Imported
+[05:12:14] <strong>Record</strong> #180
+[05:12:14] post #1196 Successfully Imported
+[05:12:14] <strong>Record</strong> #181
+[05:12:14] post #1197 Successfully Imported
+[05:12:14] <strong>Record</strong> #182
+[05:12:14] post #1198 Successfully Imported
+[05:12:14] <strong>Record</strong> #183
+[05:12:14] post #1199 Successfully Imported
+[05:12:14] <strong>Record</strong> #184
+[05:12:14] post #1200 Successfully Imported
+[05:12:14] <strong>Record</strong> #185
+[05:12:14] post #1201 Successfully Imported
+[05:12:14] <strong>Record</strong> #186
+[05:12:14] post #1202 Successfully Imported
+[05:12:14] <strong>Record</strong> #187
+[05:12:14] post #1203 Successfully Imported
+[05:12:14] <strong>Record</strong> #188
+[05:12:14] post #1204 Successfully Imported
+[05:12:14] <strong>Record</strong> #189
+[05:12:14] post #1205 Successfully Imported
+[05:12:14] <strong>Record</strong> #190
+[05:12:14] post #1206 Successfully Imported
+[05:12:14] <strong>Record</strong> #191
+[05:12:14] post #1207 Successfully Imported
+[05:12:14] <strong>Record</strong> #192
+[05:12:14] post #1208 Successfully Imported
+[05:12:14] <strong>Record</strong> #193
+[05:12:14] post #1209 Successfully Imported
+[05:12:14] <strong>Record</strong> #194
+[05:12:14] post #1210 Successfully Imported
+[05:12:14] <strong>Record</strong> #195
+[05:12:15] post #1211 Successfully Imported
+[05:12:15] <strong>Record</strong> #196
+[05:12:15] post #1212 Successfully Imported
+[05:12:15] <strong>Record</strong> #197
+[05:12:15] post #1213 Successfully Imported
+[05:12:15] <strong>Record</strong> #198
+[05:12:15] post #1214 Successfully Imported
+[05:12:15] <strong>Record</strong> #199
+[05:12:15] post #1215 Successfully Imported
+[05:12:15] <strong>Record</strong> #200
+[05:12:15] post #1216 Successfully Imported
+[05:12:15] <strong>Record</strong> #201
+[05:12:15] post #1217 Successfully Imported
+[05:12:15] <strong>Record</strong> #202
+[05:12:15] post #1218 Successfully Imported
+[05:12:15] <strong>Record</strong> #203
+[05:12:15] post #1219 Successfully Imported
+[05:12:15] <strong>Record</strong> #204
+[05:12:15] post #1220 Successfully Imported
+[05:12:15] <strong>Record</strong> #205
+[05:12:15] post #1221 Successfully Imported
+[05:12:15] <strong>Record</strong> #206
+[05:12:15] post #1222 Successfully Imported
+[05:12:15] <strong>Record</strong> #207
+[05:12:15] post #1223 Successfully Imported
+[05:12:15] <strong>Record</strong> #208
+[05:12:15] post #1224 Successfully Imported
+[05:12:15] <strong>Record</strong> #209
+[05:12:15] post #1225 Successfully Imported
+[05:12:15] <strong>Record</strong> #210
+[05:12:15] post #1226 Successfully Imported
+[05:12:15] <strong>Record</strong> #211
+[05:12:15] post #1227 Successfully Imported
+[05:12:15] <strong>Record</strong> #212
+[05:12:15] post #1228 Successfully Imported
+[05:12:15] <strong>Record</strong> #213
+[05:12:15] post #1229 Successfully Imported
+[05:12:15] <strong>Record</strong> #214
+[05:12:15] post #1230 Successfully Imported
+[05:12:15] <strong>Record</strong> #215
+[05:12:15] post #1231 Successfully Imported
+[05:12:15] <strong>Record</strong> #216
+[05:12:15] post #1232 Successfully Imported
+[05:12:15] <strong>Record</strong> #217
+[05:12:15] post #1233 Successfully Imported
+[05:12:15] <strong>Record</strong> #218
+[05:12:15] post #1234 Successfully Imported
+[05:12:15] <strong>Record</strong> #219
+[05:12:15] post #1235 Successfully Imported
+[05:12:15] <strong>Record</strong> #220
+[05:12:15] post #1236 Successfully Imported
+[05:12:16] <strong>Record</strong> #221
+[05:12:16] post #1237 Successfully Imported
+[05:12:16] <strong>Record</strong> #222
+[05:12:16] post #1238 Successfully Imported
+[05:12:16] <strong>Record</strong> #223
+[05:12:16] post #1239 Successfully Imported
+[05:12:16] <strong>Record</strong> #224
+[05:12:16] post #1240 Successfully Imported
+[05:12:16] <strong>Record</strong> #225
+[05:12:16] post #1241 Successfully Imported
+[05:12:16] <strong>Record</strong> #226
+[05:12:16] post #1242 Successfully Imported
+[05:12:16] <strong>Record</strong> #227
+[05:12:16] post #1243 Successfully Imported
+[05:12:16] <strong>Record</strong> #228
+[05:12:16] post #1244 Successfully Imported
+[05:12:16] <strong>Record</strong> #229
+[05:12:16] post #1245 Successfully Imported
+[05:12:16] <strong>Record</strong> #230
+[05:12:16] post #1246 Successfully Imported
+[05:12:16] <strong>Record</strong> #231
+[05:12:16] post #1247 Successfully Imported
+[05:12:16] <strong>Record</strong> #232
+[05:12:16] post #1248 Successfully Imported
+[05:12:16] <strong>Record</strong> #233
+[05:12:16] post #1249 Successfully Imported
+[05:12:16] <strong>Record</strong> #234
+[05:12:16] post #1250 Successfully Imported
+[05:12:16] <strong>Record</strong> #235
+[05:12:16] post #1251 Successfully Imported
+[05:12:16] <strong>Record</strong> #236
+[05:12:16] post #1252 Successfully Imported
+[05:12:16] <strong>Record</strong> #237
+[05:12:16] post #1253 Successfully Imported
+[05:12:16] <strong>Record</strong> #238
+[05:12:16] post #1254 Successfully Imported
+[05:12:16] <strong>Record</strong> #239
+[05:12:16] post #1255 Successfully Imported
+[05:12:16] <strong>Record</strong> #240
+[05:12:16] post #1256 Successfully Imported
+[05:12:17] <strong>Record</strong> #241
+[05:12:17] post #1257 Successfully Imported
+[05:12:17] <strong>Record</strong> #242
+[05:12:17] post #1258 Successfully Imported
+[05:12:17] <strong>Record</strong> #243
+[05:12:17] post #1259 Successfully Imported
+[05:12:17] <strong>Record</strong> #244
+[05:12:17] post #1260 Successfully Imported
+[05:12:17] <strong>Record</strong> #245
+[05:12:17] post #1261 Successfully Imported
+[05:12:17] <strong>Record</strong> #246
+[05:12:17] post #1262 Successfully Imported
+[05:12:17] <strong>Record</strong> #247
+[05:12:17] post #1263 Successfully Imported
+[05:12:17] <strong>Record</strong> #248
+[05:12:17] post #1264 Successfully Imported
+[05:12:17] <strong>Record</strong> #249
+[05:12:17] post #1265 Successfully Imported
+[05:12:17] <strong>Record</strong> #250
+[05:12:17] post #1266 Successfully Imported
+[05:12:17] <strong>Record</strong> #251
+[05:12:17] post #1267 Successfully Imported
+[05:12:17] <strong>Record</strong> #252
+[05:12:17] post #1268 Successfully Imported
+[05:12:17] <strong>Record</strong> #253
+[05:12:17] post #1269 Successfully Imported
+[05:12:17] <strong>Record</strong> #254
+[05:12:17] post #1270 Successfully Imported
+[05:12:17] <strong>Record</strong> #255
+[05:12:17] post #1271 Successfully Imported
+[05:12:17] <strong>Record</strong> #256
+[05:12:17] post #1272 Successfully Imported
+[05:12:17] <strong>Record</strong> #257
+[05:12:17] post #1273 Successfully Imported
+[05:12:17] <strong>Record</strong> #258
+[05:12:17] post #1274 Successfully Imported
+[05:12:17] <strong>Record</strong> #259
+[05:12:17] post #1275 Successfully Imported
+[05:12:17] <strong>Record</strong> #260
+[05:12:17] post #1276 Successfully Imported
+[05:12:17] <strong>Record</strong> #261
+[05:12:18] post #1277 Successfully Imported
+[05:12:18] <strong>Record</strong> #262
+[05:12:18] post #1278 Successfully Imported
+[05:12:18] <strong>Record</strong> #263
+[05:12:18] post #1279 Successfully Imported
+[05:12:18] <strong>Record</strong> #264
+[05:12:18] post #1280 Successfully Imported
+[05:12:18] <strong>Record</strong> #265
+[05:12:18] post #1281 Successfully Imported
+[05:12:18] <strong>Record</strong> #266
+[05:12:18] post #1282 Successfully Imported
+[05:12:18] <strong>Record</strong> #267
+[05:12:18] post #1283 Successfully Imported
+[05:12:18] <strong>Record</strong> #268
+[05:12:18] post #1284 Successfully Imported
+[05:12:18] <strong>Record</strong> #269
+[05:12:18] post #1285 Successfully Imported
+[05:12:18] <strong>Record</strong> #270
+[05:12:18] post #1286 Successfully Imported
+[05:12:18] <strong>Record</strong> #271
+[05:12:18] post #1287 Successfully Imported
+[05:12:18] <strong>Record</strong> #272
+[05:12:18] post #1288 Successfully Imported
+[05:12:18] <strong>Record</strong> #273
+[05:12:18] post #1289 Successfully Imported
+[05:12:18] <strong>Record</strong> #274
+[05:12:18] post #1290 Successfully Imported
+[05:12:18] <strong>Record</strong> #275
+[05:12:18] post #1291 Successfully Imported
+[05:12:18] <strong>Record</strong> #276
+[05:12:18] post #1292 Successfully Imported
+[05:12:18] <strong>Record</strong> #277
+[05:12:18] post #1293 Successfully Imported
+[05:12:18] <strong>Record</strong> #278
+[05:12:18] post #1294 Successfully Imported
+[05:12:18] <strong>Record</strong> #279
+[05:12:18] post #1295 Successfully Imported
+[05:12:18] <strong>Record</strong> #280
+[05:12:18] post #1296 Successfully Imported
+[05:12:18] <strong>Record</strong> #281
+[05:12:18] post #1297 Successfully Imported
+[05:12:18] <strong>Record</strong> #282
+[05:12:18] post #1298 Successfully Imported
+[05:12:18] <strong>Record</strong> #283
+[05:12:18] post #1299 Successfully Imported
+[05:12:18] <strong>Record</strong> #284
+[05:12:18] post #1300 Successfully Imported
+[05:12:18] <strong>Record</strong> #285
+[05:12:18] post #1301 Successfully Imported
+[05:12:18] <strong>Record</strong> #286
+[05:12:18] post #1302 Successfully Imported
+[05:12:18] <strong>Record</strong> #287
+[05:12:18] post #1303 Successfully Imported
+[05:12:18] <strong>Record</strong> #288
+[05:12:18] post #1304 Successfully Imported
+[05:12:18] <strong>Record</strong> #289
+[05:12:18] post #1305 Successfully Imported
+[05:12:18] <strong>Record</strong> #290
+[05:12:18] post #1306 Successfully Imported
+[05:12:18] <strong>Record</strong> #291
+[05:12:18] post #1307 Successfully Imported
+[05:12:18] <strong>Record</strong> #292
+[05:12:18] post #1308 Successfully Imported
+[05:12:18] <strong>Record</strong> #293
+[05:12:18] post #1309 Successfully Imported
+[05:12:18] <strong>Record</strong> #294
+[05:12:18] post #1310 Successfully Imported
+[05:12:18] <strong>Record</strong> #295
+[05:12:18] post #1311 Successfully Imported
+[05:12:18] <strong>Record</strong> #296
+[05:12:18] post #1312 Successfully Imported
+[05:12:18] <strong>Record</strong> #297
+[05:12:18] post #1313 Successfully Imported
+[05:12:18] <strong>Record</strong> #298
+[05:12:18] post #1314 Successfully Imported
+[05:12:18] <strong>Record</strong> #299
+[05:12:18] post #1315 Successfully Imported
+[05:12:18] <strong>Record</strong> #300
+[05:12:18] post #1316 Successfully Imported
+[05:12:19] <strong>Record</strong> #301
+[05:12:19] post #1317 Successfully Imported
+[05:12:19] <strong>Record</strong> #302
+[05:12:19] post #1318 Successfully Imported
+[05:12:19] <strong>Record</strong> #303
+[05:12:19] Existing item found #1136
+[05:12:19] post #1136 Successfully Imported
+[05:12:19] <strong>Record</strong> #304
+[05:12:19] post #1319 Successfully Imported
+[05:12:19] <strong>Record</strong> #305
+[05:12:19] post #1320 Successfully Imported
+[05:12:19] <strong>Record</strong> #306
+[05:12:19] post #1321 Successfully Imported
+[05:12:19] <strong>Record</strong> #307
+[05:12:19] post #1322 Successfully Imported
+[05:12:19] <strong>Record</strong> #308
+[05:12:19] post #1323 Successfully Imported
+[05:12:19] <strong>Record</strong> #309
+[05:12:19] post #1324 Successfully Imported
+[05:12:19] <strong>Record</strong> #310
+[05:12:19] post #1325 Successfully Imported
+[05:12:19] <strong>Record</strong> #311
+[05:12:19] post #1326 Successfully Imported
+[05:12:19] <strong>Record</strong> #312
+[05:12:19] post #1327 Successfully Imported
+[05:12:19] <strong>Record</strong> #313
+[05:12:19] post #1328 Successfully Imported
+[05:12:19] <strong>Record</strong> #314
+[05:12:19] post #1329 Successfully Imported
+[05:12:19] <strong>Record</strong> #315
+[05:12:19] post #1330 Successfully Imported
+[05:12:19] <strong>Record</strong> #316
+[05:12:19] post #1331 Successfully Imported
+[05:12:19] <strong>Record</strong> #317
+[05:12:19] post #1332 Successfully Imported
+[05:12:19] <strong>Record</strong> #318
+[05:12:19] post #1333 Successfully Imported
+[05:12:19] <strong>Record</strong> #319
+[05:12:19] post #1334 Successfully Imported
+[05:12:19] <strong>Record</strong> #320
+[05:12:19] post #1335 Successfully Imported
+[05:12:20] <strong>Record</strong> #321
+[05:12:20] post #1336 Successfully Imported
+[05:12:20] <strong>Record</strong> #322
+[05:12:20] post #1337 Successfully Imported
+[05:12:20] <strong>Record</strong> #323
+[05:12:20] post #1338 Successfully Imported
+[05:12:20] <strong>Record</strong> #324
+[05:12:20] post #1339 Successfully Imported
+[05:12:20] <strong>Record</strong> #325
+[05:12:20] post #1340 Successfully Imported
+[05:12:20] <strong>Record</strong> #326
+[05:12:20] post #1341 Successfully Imported
+[05:12:20] <strong>Record</strong> #327
+[05:12:20] post #1342 Successfully Imported
+[05:12:20] <strong>Record</strong> #328
+[05:12:20] post #1343 Successfully Imported
+[05:12:20] <strong>Record</strong> #329
+[05:12:20] post #1344 Successfully Imported
+[05:12:20] <strong>Record</strong> #330
+[05:12:20] post #1345 Successfully Imported
+[05:12:20] <strong>Record</strong> #331
+[05:12:20] post #1346 Successfully Imported
+[05:12:20] <strong>Record</strong> #332
+[05:12:20] post #1347 Successfully Imported
+[05:12:20] <strong>Record</strong> #333
+[05:12:20] post #1348 Successfully Imported
+[05:12:20] <strong>Record</strong> #334
+[05:12:20] post #1349 Successfully Imported
+[05:12:20] <strong>Record</strong> #335
+[05:12:20] post #1350 Successfully Imported
+[05:12:20] <strong>Record</strong> #336
+[05:12:20] post #1351 Successfully Imported
+[05:12:20] <strong>Record</strong> #337
+[05:12:20] post #1352 Successfully Imported
+[05:12:20] <strong>Record</strong> #338
+[05:12:20] post #1353 Successfully Imported
+[05:12:20] <strong>Record</strong> #339
+[05:12:20] post #1354 Successfully Imported
+[05:12:20] <strong>Record</strong> #340
+[05:12:20] post #1355 Successfully Imported
+[05:12:21] <strong>Record</strong> #341
+[05:12:21] post #1356 Successfully Imported
+[05:12:21] <strong>Record</strong> #342
+[05:12:21] post #1357 Successfully Imported
+[05:12:21] <strong>Record</strong> #343
+[05:12:21] post #1358 Successfully Imported
+[05:12:21] <strong>Record</strong> #344
+[05:12:21] post #1359 Successfully Imported
+[05:12:21] <strong>Record</strong> #345
+[05:12:21] post #1360 Successfully Imported
+[05:12:21] <strong>Record</strong> #346
+[05:12:21] post #1361 Successfully Imported
+[05:12:21] <strong>Record</strong> #347
+[05:12:21] post #1362 Successfully Imported
+[05:12:21] <strong>Record</strong> #348
+[05:12:21] post #1363 Successfully Imported
+[05:12:21] <strong>Record</strong> #349
+[05:12:21] post #1364 Successfully Imported
+[05:12:21] <strong>Record</strong> #350
+[05:12:21] post #1365 Successfully Imported
+[05:12:21] <strong>Record</strong> #351
+[05:12:21] post #1366 Successfully Imported
+[05:12:21] <strong>Record</strong> #352
+[05:12:21] post #1367 Successfully Imported
+[05:12:21] <strong>Record</strong> #353
+[05:12:21] post #1368 Successfully Imported
+[05:12:21] <strong>Record</strong> #354
+[05:12:21] post #1369 Successfully Imported
+[05:12:21] <strong>Record</strong> #355
+[05:12:21] post #1370 Successfully Imported
+[05:12:21] <strong>Record</strong> #356
+[05:12:21] post #1371 Successfully Imported
+[05:12:21] <strong>Record</strong> #357
+[05:12:21] post #1372 Successfully Imported
+[05:12:21] <strong>Record</strong> #358
+[05:12:21] post #1373 Successfully Imported
+[05:12:21] <strong>Record</strong> #359
+[05:12:21] post #1374 Successfully Imported
+[05:12:21] <strong>Record</strong> #360
+[05:12:21] post #1375 Successfully Imported
+[05:12:21] <strong>Record</strong> #361
+[05:12:21] post #1376 Successfully Imported
+[05:12:21] <strong>Record</strong> #362
+[05:12:21] post #1377 Successfully Imported
+[05:12:21] <strong>Record</strong> #363
+[05:12:21] post #1378 Successfully Imported
+[05:12:21] <strong>Record</strong> #364
+[05:12:21] post #1379 Successfully Imported
+[05:12:21] <strong>Record</strong> #365
+[05:12:21] post #1380 Successfully Imported
+[05:12:21] <strong>Record</strong> #366
+[05:12:21] post #1381 Successfully Imported
+[05:12:21] <strong>Record</strong> #367
+[05:12:21] post #1382 Successfully Imported
+[05:12:21] <strong>Record</strong> #368
+[05:12:21] post #1383 Successfully Imported
+[05:12:21] <strong>Record</strong> #369
+[05:12:21] post #1384 Successfully Imported
+[05:12:21] <strong>Record</strong> #370
+[05:12:21] post #1385 Successfully Imported
+[05:12:21] <strong>Record</strong> #371
+[05:12:21] post #1386 Successfully Imported
+[05:12:21] <strong>Record</strong> #372
+[05:12:21] post #1387 Successfully Imported
+[05:12:21] <strong>Record</strong> #373
+[05:12:21] post #1388 Successfully Imported
+[05:12:21] <strong>Record</strong> #374
+[05:12:21] post #1389 Successfully Imported
+[05:12:21] <strong>Record</strong> #375
+[05:12:22] post #1390 Successfully Imported
+[05:12:22] <strong>Record</strong> #376
+[05:12:22] post #1391 Successfully Imported
+[05:12:22] <strong>Record</strong> #377
+[05:12:22] post #1392 Successfully Imported
+[05:12:22] <strong>Record</strong> #378
+[05:12:22] post #1393 Successfully Imported
+[05:12:22] <strong>Record</strong> #379
+[05:12:22] post #1394 Successfully Imported
+[05:12:22] <strong>Record</strong> #380
+[05:12:22] post #1395 Successfully Imported
+[05:12:22] <strong>Record</strong> #381
+[05:12:22] Existing item found #1194
+[05:12:22] post #1194 Successfully Imported
+[05:12:22] <strong>Record</strong> #382
+[05:12:22] post #1396 Successfully Imported
+[05:12:22] <strong>Record</strong> #383
+[05:12:22] post #1397 Successfully Imported
+[05:12:22] <strong>Record</strong> #384
+[05:12:22] post #1398 Successfully Imported
+[05:12:22] <strong>Record</strong> #385
+[05:12:22] post #1399 Successfully Imported
+[05:12:22] <strong>Record</strong> #386
+[05:12:22] post #1400 Successfully Imported
+[05:12:22] <strong>Record</strong> #387
+[05:12:22] post #1401 Successfully Imported
+[05:12:22] <strong>Record</strong> #388
+[05:12:22] post #1402 Successfully Imported
+[05:12:22] <strong>Record</strong> #389
+[05:12:22] post #1403 Successfully Imported
+[05:12:22] <strong>Record</strong> #390
+[05:12:22] post #1404 Successfully Imported
+[05:12:22] <strong>Record</strong> #391
+[05:12:22] post #1405 Successfully Imported
+[05:12:22] <strong>Record</strong> #392
+[05:12:22] post #1406 Successfully Imported
+[05:12:22] <strong>Record</strong> #393
+[05:12:22] post #1407 Successfully Imported
+[05:12:22] <strong>Record</strong> #394
+[05:12:22] post #1408 Successfully Imported
+[05:12:22] <strong>Record</strong> #395
+[05:12:22] post #1409 Successfully Imported
+[05:12:22] <strong>Record</strong> #396
+[05:12:22] post #1410 Successfully Imported
+[05:12:22] <strong>Record</strong> #397
+[05:12:22] post #1411 Successfully Imported
+[05:12:22] <strong>Record</strong> #398
+[05:12:22] Existing item found #1240
+[05:12:22] post #1240 Successfully Imported
+[05:12:22] <strong>Record</strong> #399
+[05:12:22] post #1412 Successfully Imported
+[05:12:22] <strong>Record</strong> #400
+[05:12:22] post #1413 Successfully Imported
+[05:12:23] <strong>Record</strong> #401
+[05:12:23] post #1414 Successfully Imported
+[05:12:23] <strong>Record</strong> #402
+[05:12:23] post #1415 Successfully Imported
+[05:12:23] <strong>Record</strong> #403
+[05:12:23] post #1416 Successfully Imported
+[05:12:23] <strong>Record</strong> #404
+[05:12:23] post #1417 Successfully Imported
+[05:12:23] <strong>Record</strong> #405
+[05:12:23] post #1418 Successfully Imported
+[05:12:23] <strong>Record</strong> #406
+[05:12:23] post #1419 Successfully Imported
+[05:12:23] <strong>Record</strong> #407
+[05:12:23] post #1420 Successfully Imported
+[05:12:23] <strong>Record</strong> #408
+[05:12:23] post #1421 Successfully Imported
+[05:12:23] <strong>Record</strong> #409
+[05:12:23] post #1422 Successfully Imported
+[05:12:23] <strong>Record</strong> #410
+[05:12:23] post #1423 Successfully Imported
+[05:12:23] <strong>Record</strong> #411
+[05:12:23] post #1424 Successfully Imported
+[05:12:23] <strong>Record</strong> #412
+[05:12:23] post #1425 Successfully Imported
+[05:12:23] <strong>Record</strong> #413
+[05:12:23] post #1426 Successfully Imported
+[05:12:23] <strong>Record</strong> #414
+[05:12:23] post #1427 Successfully Imported
+[05:12:23] <strong>Record</strong> #415
+[05:12:23] post #1428 Successfully Imported
+[05:12:23] <strong>Record</strong> #416
+[05:12:23] post #1429 Successfully Imported
+[05:12:23] <strong>Record</strong> #417
+[05:12:23] post #1430 Successfully Imported
+[05:12:23] <strong>Record</strong> #418
+[05:12:23] post #1431 Successfully Imported
+[05:12:23] <strong>Record</strong> #419
+[05:12:23] post #1432 Successfully Imported
+[05:12:23] <strong>Record</strong> #420
+[05:12:23] post #1433 Successfully Imported
+[05:12:24] <strong>Record</strong> #421
+[05:12:24] post #1434 Successfully Imported
+[05:12:24] <strong>Record</strong> #422
+[05:12:24] post #1435 Successfully Imported
+[05:12:24] <strong>Record</strong> #423
+[05:12:24] post #1436 Successfully Imported
+[05:12:24] <strong>Record</strong> #424
+[05:12:24] post #1437 Successfully Imported
+[05:12:24] <strong>Record</strong> #425
+[05:12:24] post #1438 Successfully Imported
+[05:12:24] <strong>Record</strong> #426
+[05:12:24] post #1439 Successfully Imported
+[05:12:24] <strong>Record</strong> #427
+[05:12:24] post #1440 Successfully Imported
+[05:12:24] <strong>Record</strong> #428
+[05:12:24] post #1441 Successfully Imported
+[05:12:24] <strong>Record</strong> #429
+[05:12:24] post #1442 Successfully Imported
+[05:12:24] <strong>Record</strong> #430
+[05:12:24] post #1443 Successfully Imported
+[05:12:24] <strong>Record</strong> #431
+[05:12:24] post #1444 Successfully Imported
+[05:12:24] <strong>Record</strong> #432
+[05:12:24] post #1445 Successfully Imported
+[05:12:24] <strong>Record</strong> #433
+[05:12:24] post #1446 Successfully Imported
+[05:12:24] <strong>Record</strong> #434
+[05:12:24] post #1447 Successfully Imported
+[05:12:24] <strong>Record</strong> #435
+[05:12:24] post #1448 Successfully Imported
+[05:12:24] <strong>Record</strong> #436
+[05:12:24] post #1449 Successfully Imported
+[05:12:24] <strong>Record</strong> #437
+[05:12:24] post #1450 Successfully Imported
+[05:12:24] <strong>Record</strong> #438
+[05:12:24] post #1451 Successfully Imported
+[05:12:24] <strong>Record</strong> #439
+[05:12:24] post #1452 Successfully Imported
+[05:12:24] <strong>Record</strong> #440
+[05:12:24] post #1453 Successfully Imported
+[05:12:24] <strong>Record</strong> #441
+[05:12:25] post #1454 Successfully Imported
+[05:12:25] <strong>Record</strong> #442
+[05:12:25] post #1455 Successfully Imported
+[05:12:25] <strong>Record</strong> #443
+[05:12:25] post #1456 Successfully Imported
+[05:12:25] <strong>Record</strong> #444
+[05:12:25] post #1457 Successfully Imported
+[05:12:25] <strong>Record</strong> #445
+[05:12:25] post #1458 Successfully Imported
+[05:12:25] <strong>Record</strong> #446
+[05:12:25] post #1459 Successfully Imported
+[05:12:25] <strong>Record</strong> #447
+[05:12:25] post #1460 Successfully Imported
+[05:12:25] <strong>Record</strong> #448
+[05:12:25] post #1461 Successfully Imported
+[05:12:25] <strong>Record</strong> #449
+[05:12:25] post #1462 Successfully Imported
+[05:12:25] <strong>Record</strong> #450
+[05:12:25] post #1463 Successfully Imported
+[05:12:25] <strong>Record</strong> #451
+[05:12:25] post #1464 Successfully Imported
+[05:12:25] <strong>Record</strong> #452
+[05:12:25] post #1465 Successfully Imported
+[05:12:25] <strong>Record</strong> #453
+[05:12:25] post #1466 Successfully Imported
+[05:12:25] <strong>Record</strong> #454
+[05:12:25] post #1467 Successfully Imported
+[05:12:25] <strong>Record</strong> #455
+[05:12:25] post #1468 Successfully Imported
+[05:12:25] <strong>Record</strong> #456
+[05:12:25] post #1469 Successfully Imported
+[05:12:25] <strong>Record</strong> #457
+[05:12:25] post #1470 Successfully Imported
+[05:12:25] <strong>Record</strong> #458
+[05:12:25] post #1471 Successfully Imported
+[05:12:25] <strong>Record</strong> #459
+[05:12:25] post #1472 Successfully Imported
+[05:12:25] <strong>Record</strong> #460
+[05:12:25] post #1473 Successfully Imported
+[05:12:25] <strong>Record</strong> #461
+[05:12:25] post #1474 Successfully Imported
+[05:12:25] <strong>Record</strong> #462
+[05:12:25] post #1475 Successfully Imported
+[05:12:25] <strong>Record</strong> #463
+[05:12:25] post #1476 Successfully Imported
+[05:12:25] <strong>Record</strong> #464
+[05:12:25] post #1477 Successfully Imported
+[05:12:25] <strong>Record</strong> #465
+[05:12:25] post #1478 Successfully Imported
+[05:12:25] <strong>Record</strong> #466
+[05:12:25] post #1479 Successfully Imported
+[05:12:25] <strong>Record</strong> #467
+[05:12:25] post #1480 Successfully Imported
+[05:12:25] <strong>Record</strong> #468
+[05:12:25] post #1481 Successfully Imported
+[05:12:25] <strong>Record</strong> #469
+[05:12:25] post #1482 Successfully Imported
+[05:12:25] <strong>Record</strong> #470
+[05:12:25] post #1483 Successfully Imported
+[05:12:25] <strong>Record</strong> #471
+[05:12:25] post #1484 Successfully Imported
+[05:12:25] <strong>Record</strong> #472
+[05:12:25] post #1485 Successfully Imported
+[05:12:25] <strong>Record</strong> #473
+[05:12:25] post #1486 Successfully Imported
+[05:12:25] <strong>Record</strong> #474
+[05:12:25] post #1487 Successfully Imported
+[05:12:25] <strong>Record</strong> #475
+[05:12:25] post #1488 Successfully Imported
+[05:12:25] <strong>Record</strong> #476
+[05:12:25] post #1489 Successfully Imported
+[05:12:25] <strong>Record</strong> #477
+[05:12:25] post #1490 Successfully Imported
+[05:12:25] <strong>Record</strong> #478
+[05:12:25] post #1491 Successfully Imported
+[05:12:25] <strong>Record</strong> #479
+[05:12:25] post #1492 Successfully Imported
+[05:12:25] <strong>Record</strong> #480
+[05:12:25] post #1493 Successfully Imported
+[05:12:26] <strong>Record</strong> #481
+[05:12:26] post #1494 Successfully Imported
+[05:12:26] <strong>Record</strong> #482
+[05:12:26] post #1495 Successfully Imported
+[05:12:26] <strong>Record</strong> #483
+[05:12:26] post #1496 Successfully Imported
+[05:12:26] <strong>Record</strong> #484
+[05:12:26] post #1497 Successfully Imported
+[05:12:26] <strong>Record</strong> #485
+[05:12:26] post #1498 Successfully Imported
+[05:12:26] <strong>Record</strong> #486
+[05:12:26] post #1499 Successfully Imported
+[05:12:26] <strong>Record</strong> #487
+[05:12:26] post #1500 Successfully Imported
+[05:12:26] <strong>Record</strong> #488
+[05:12:26] post #1501 Successfully Imported
+[05:12:26] <strong>Record</strong> #489
+[05:12:26] post #1502 Successfully Imported
+[05:12:26] <strong>Record</strong> #490
+[05:12:26] post #1503 Successfully Imported
+[05:12:26] <strong>Record</strong> #491
+[05:12:26] post #1504 Successfully Imported
+[05:12:26] <strong>Record</strong> #492
+[05:12:26] post #1505 Successfully Imported
+[05:12:26] <strong>Record</strong> #493
+[05:12:26] post #1506 Successfully Imported
+[05:12:26] <strong>Record</strong> #494
+[05:12:26] post #1507 Successfully Imported
+[05:12:26] <strong>Record</strong> #495
+[05:12:26] post #1508 Successfully Imported
+[05:12:26] <strong>Record</strong> #496
+[05:12:26] post #1509 Successfully Imported
+[05:12:26] <strong>Record</strong> #497
+[05:12:26] post #1510 Successfully Imported
+[05:12:26] <strong>Record</strong> #498
+[05:12:26] post #1511 Successfully Imported
+[05:12:26] <strong>Record</strong> #499
+[05:12:26] post #1512 Successfully Imported
+[05:12:26] <strong>Record</strong> #500
+[05:12:26] post #1513 Successfully Imported
+[05:12:27] <strong>Record</strong> #501
+[05:12:27] Existing item found #1059
+[05:12:27] post #1059 Successfully Imported
+[05:12:27] <strong>Record</strong> #502
+[05:12:27] post #1514 Successfully Imported
+[05:12:27] <strong>Record</strong> #503
+[05:12:27] post #1515 Successfully Imported
+[05:12:27] <strong>Record</strong> #504
+[05:12:27] post #1516 Successfully Imported
+[05:12:27] <strong>Record</strong> #505
+[05:12:27] post #1517 Successfully Imported
+[05:12:27] <strong>Record</strong> #506
+[05:12:27] post #1518 Successfully Imported
+[05:12:27] <strong>Record</strong> #507
+[05:12:27] post #1519 Successfully Imported
+[05:12:27] <strong>Record</strong> #508
+[05:12:27] post #1520 Successfully Imported
+[05:12:27] <strong>Record</strong> #509
+[05:12:27] post #1521 Successfully Imported
+[05:12:27] <strong>Record</strong> #510
+[05:12:27] post #1522 Successfully Imported
+[05:12:27] <strong>Record</strong> #511
+[05:12:27] post #1523 Successfully Imported
+[05:12:27] <strong>Record</strong> #512
+[05:12:27] post #1524 Successfully Imported
+[05:12:27] <strong>Record</strong> #513
+[05:12:27] post #1525 Successfully Imported
+[05:12:27] <strong>Record</strong> #514
+[05:12:27] post #1526 Successfully Imported
+[05:12:27] <strong>Record</strong> #515
+[05:12:27] post #1527 Successfully Imported
+[05:12:27] <strong>Record</strong> #516
+[05:12:27] post #1528 Successfully Imported
+[05:12:27] <strong>Record</strong> #517
+[05:12:27] post #1529 Successfully Imported
+[05:12:27] <strong>Record</strong> #518
+[05:12:27] post #1530 Successfully Imported
+[05:12:27] <strong>Record</strong> #519
+[05:12:27] post #1531 Successfully Imported
+[05:12:27] <strong>Record</strong> #520
+[05:12:27] post #1532 Successfully Imported
+[05:12:28] <strong>Record</strong> #521
+[05:12:28] post #1533 Successfully Imported
+[05:12:28] <strong>Record</strong> #522
+[05:12:28] post #1534 Successfully Imported
+[05:12:28] <strong>Record</strong> #523
+[05:12:28] post #1535 Successfully Imported
+[05:12:28] <strong>Record</strong> #524
+[05:12:28] post #1536 Successfully Imported
+[05:12:28] <strong>Record</strong> #525
+[05:12:28] post #1537 Successfully Imported
+[05:12:28] <strong>Record</strong> #526
+[05:12:28] post #1538 Successfully Imported
+[05:12:28] <strong>Record</strong> #527
+[05:12:28] post #1539 Successfully Imported
+[05:12:28] <strong>Record</strong> #528
+[05:12:28] post #1540 Successfully Imported
+[05:12:28] <strong>Record</strong> #529
+[05:12:28] post #1541 Successfully Imported
+[05:12:28] <strong>Record</strong> #530
+[05:12:28] post #1542 Successfully Imported
+[05:12:28] <strong>Record</strong> #531
+[05:12:28] post #1543 Successfully Imported
+[05:12:28] <strong>Record</strong> #532
+[05:12:28] post #1544 Successfully Imported
+[05:12:28] <strong>Record</strong> #533
+[05:12:28] post #1545 Successfully Imported
+[05:12:28] <strong>Record</strong> #534
+[05:12:28] post #1546 Successfully Imported
+[05:12:28] <strong>Record</strong> #535
+[05:12:28] post #1547 Successfully Imported
+[05:12:28] <strong>Record</strong> #536
+[05:12:28] post #1548 Successfully Imported
+[05:12:28] <strong>Record</strong> #537
+[05:12:28] post #1549 Successfully Imported
+[05:12:28] <strong>Record</strong> #538
+[05:12:28] post #1550 Successfully Imported
+[05:12:28] <strong>Record</strong> #539
+[05:12:28] post #1551 Successfully Imported
+[05:12:28] <strong>Record</strong> #540
+[05:12:28] post #1552 Successfully Imported
+[05:12:28] <strong>Record</strong> #541
+[05:12:28] post #1553 Successfully Imported
+[05:12:28] <strong>Record</strong> #542
+[05:12:28] post #1554 Successfully Imported
+[05:12:28] <strong>Record</strong> #543
+[05:12:28] post #1555 Successfully Imported
+[05:12:28] <strong>Record</strong> #544
+[05:12:29] post #1556 Successfully Imported
+[05:12:29] <strong>Record</strong> #545
+[05:12:29] post #1557 Successfully Imported
+[05:12:29] <strong>Record</strong> #546
+[05:12:29] post #1558 Successfully Imported
+[05:12:29] <strong>Record</strong> #547
+[05:12:29] post #1559 Successfully Imported
+[05:12:29] <strong>Record</strong> #548
+[05:12:29] post #1560 Successfully Imported
+[05:12:29] <strong>Record</strong> #549
+[05:12:29] post #1561 Successfully Imported
+[05:12:29] <strong>Record</strong> #550
+[05:12:29] post #1562 Successfully Imported
+[05:12:29] <strong>Record</strong> #551
+[05:12:29] post #1563 Successfully Imported
+[05:12:29] <strong>Record</strong> #552
+[05:12:29] post #1564 Successfully Imported
+[05:12:29] <strong>Record</strong> #553
+[05:12:29] post #1565 Successfully Imported
+[05:12:29] <strong>Record</strong> #554
+[05:12:29] post #1566 Successfully Imported
+[05:12:29] <strong>Record</strong> #555
+[05:12:29] post #1567 Successfully Imported
+[05:12:29] <strong>Record</strong> #556
+[05:12:29] post #1568 Successfully Imported
+[05:12:29] <strong>Record</strong> #557
+[05:12:29] post #1569 Successfully Imported
+[05:12:29] <strong>Record</strong> #558
+[05:12:29] post #1570 Successfully Imported
+[05:12:29] <strong>Record</strong> #559
+[05:12:29] post #1571 Successfully Imported
+[05:12:29] <strong>Record</strong> #560
+[05:12:29] post #1572 Successfully Imported
+[05:12:29] <strong>Record</strong> #561
+[05:12:29] post #1573 Successfully Imported
+[05:12:29] <strong>Record</strong> #562
+[05:12:29] post #1574 Successfully Imported
+[05:12:29] <strong>Record</strong> #563
+[05:12:29] post #1575 Successfully Imported
+[05:12:29] <strong>Record</strong> #564
+[05:12:29] post #1576 Successfully Imported
+[05:12:29] <strong>Record</strong> #565
+[05:12:29] post #1577 Successfully Imported
+[05:12:29] <strong>Record</strong> #566
+[05:12:29] post #1578 Successfully Imported
+[05:12:29] <strong>Record</strong> #567
+[05:12:29] post #1579 Successfully Imported
+[05:12:29] <strong>Record</strong> #568
+[05:12:29] post #1580 Successfully Imported
+[05:12:29] <strong>Record</strong> #569
+[05:12:29] post #1581 Successfully Imported
+[05:12:29] <strong>Record</strong> #570
+[05:12:29] post #1582 Successfully Imported
+[05:12:29] <strong>Record</strong> #571
+[05:12:29] post #1583 Successfully Imported
+[05:12:29] <strong>Record</strong> #572
+[05:12:29] post #1584 Successfully Imported
+[05:12:29] <strong>Record</strong> #573
+[05:12:29] post #1585 Successfully Imported
+[05:12:29] <strong>Record</strong> #574
+[05:12:29] post #1586 Successfully Imported
+[05:12:29] <strong>Record</strong> #575
+[05:12:29] post #1587 Successfully Imported
+[05:12:29] <strong>Record</strong> #576
+[05:12:29] post #1588 Successfully Imported
+[05:12:29] <strong>Record</strong> #577
+[05:12:29] post #1589 Successfully Imported
+[05:12:29] <strong>Record</strong> #578
+[05:12:29] post #1590 Successfully Imported
+[05:12:29] <strong>Record</strong> #579
+[05:12:29] post #1591 Successfully Imported
+[05:12:29] <strong>Record</strong> #580
+[05:12:29] post #1592 Successfully Imported
+[05:12:30] <strong>Record</strong> #581
+[05:12:30] Existing item found #1563
+[05:12:30] post #1563 Successfully Imported
+[05:12:30] <strong>Record</strong> #582
+[05:12:30] post #1593 Successfully Imported
+[05:12:30] <strong>Record</strong> #583
+[05:12:30] post #1594 Successfully Imported
+[05:12:30] <strong>Record</strong> #584
+[05:12:30] post #1595 Successfully Imported
+[05:12:30] <strong>Record</strong> #585
+[05:12:30] post #1596 Successfully Imported
+[05:12:30] <strong>Record</strong> #586
+[05:12:30] post #1597 Successfully Imported
+[05:12:30] <strong>Record</strong> #587
+[05:12:30] post #1598 Successfully Imported
+[05:12:30] <strong>Record</strong> #588
+[05:12:30] post #1599 Successfully Imported
+[05:12:30] <strong>Record</strong> #589
+[05:12:30] post #1600 Successfully Imported
+[05:12:30] <strong>Record</strong> #590
+[05:12:30] Existing item found #1532
+[05:12:30] post #1532 Successfully Imported
+[05:12:30] <strong>Record</strong> #591
+[05:12:30] post #1601 Successfully Imported
+[05:12:30] <strong>Record</strong> #592
+[05:12:30] post #1602 Successfully Imported
+[05:12:30] <strong>Record</strong> #593
+[05:12:30] post #1603 Successfully Imported
+[05:12:30] <strong>Record</strong> #594
+[05:12:30] post #1604 Successfully Imported
+[05:12:30] <strong>Record</strong> #595
+[05:12:30] post #1605 Successfully Imported
+[05:12:30] <strong>Record</strong> #596
+[05:12:30] post #1606 Successfully Imported
+[05:12:30] <strong>Record</strong> #597
+[05:12:30] Existing item found #1532
+[05:12:30] post #1532 Successfully Imported
+[05:12:30] <strong>Record</strong> #598
+[05:12:30] post #1607 Successfully Imported
+[05:12:30] <strong>Record</strong> #599
+[05:12:30] post #1608 Successfully Imported
+[05:12:30] <strong>Record</strong> #600
+[05:12:30] post #1609 Successfully Imported
+[05:12:31] <strong>Record</strong> #601
+[05:12:31] post #1610 Successfully Imported
+[05:12:31] <strong>Record</strong> #602
+[05:12:31] post #1611 Successfully Imported
+[05:12:31] <strong>Record</strong> #603
+[05:12:31] Existing item found #1532
+[05:12:31] post #1532 Successfully Imported
+[05:12:31] <strong>Record</strong> #604
+[05:12:31] post #1612 Successfully Imported
+[05:12:31] <strong>Record</strong> #605
+[05:12:31] post #1613 Successfully Imported
+[05:12:31] <strong>Record</strong> #606
+[05:12:31] post #1614 Successfully Imported
+[05:12:31] <strong>Record</strong> #607
+[05:12:31] post #1615 Successfully Imported
+[05:12:31] <strong>Record</strong> #608
+[05:12:31] post #1616 Successfully Imported
+[05:12:31] <strong>Record</strong> #609
+[05:12:31] post #1617 Successfully Imported
+[05:12:31] <strong>Record</strong> #610
+[05:12:31] post #1618 Successfully Imported
+[05:12:31] <strong>Record</strong> #611
+[05:12:31] post #1619 Successfully Imported
+[05:12:31] <strong>Record</strong> #612
+[05:12:31] post #1620 Successfully Imported
+[05:12:31] <strong>Record</strong> #613
+[05:12:31] post #1621 Successfully Imported
+[05:12:31] <strong>Record</strong> #614
+[05:12:31] post #1622 Successfully Imported
+[05:12:31] <strong>Record</strong> #615
+[05:12:31] Existing item found #1532
+[05:12:31] post #1532 Successfully Imported
+[05:12:31] <strong>Record</strong> #616
+[05:12:31] post #1623 Successfully Imported
+[05:12:31] <strong>Record</strong> #617
+[05:12:31] post #1624 Successfully Imported
+[05:12:31] <strong>Record</strong> #618
+[05:12:31] post #1625 Successfully Imported
+[05:12:31] <strong>Record</strong> #619
+[05:12:31] post #1626 Successfully Imported
+[05:12:31] <strong>Record</strong> #620
+[05:12:31] post #1627 Successfully Imported
+[05:12:32] <strong>Record</strong> #621
+[05:12:32] post #1628 Successfully Imported
+[05:12:32] <strong>Record</strong> #622
+[05:12:32] post #1629 Successfully Imported
+[05:12:32] <strong>Record</strong> #623
+[05:12:32] post #1630 Successfully Imported
+[05:12:32] <strong>Record</strong> #624
+[05:12:32] post #1631 Successfully Imported
+[05:12:32] <strong>Record</strong> #625
+[05:12:32] post #1632 Successfully Imported
+[05:12:32] <strong>Record</strong> #626
+[05:12:32] post #1633 Successfully Imported
+[05:12:32] <strong>Record</strong> #627
+[05:12:32] post #1634 Successfully Imported
+[05:12:32] <strong>Record</strong> #628
+[05:12:32] post #1635 Successfully Imported
+[05:12:32] <strong>Record</strong> #629
+[05:12:32] post #1636 Successfully Imported
+[05:12:32] <strong>Record</strong> #630
+[05:12:32] post #1637 Successfully Imported
+[05:12:32] <strong>Record</strong> #631
+[05:12:32] post #1638 Successfully Imported
+[05:12:32] <strong>Record</strong> #632
+[05:12:32] post #1639 Successfully Imported
+[05:12:32] <strong>Record</strong> #633
+[05:12:32] Existing item found #1197
+[05:12:32] post #1197 Successfully Imported
+[05:12:32] <strong>Record</strong> #634
+[05:12:32] post #1640 Successfully Imported
+[05:12:32] <strong>Record</strong> #635
+[05:12:32] post #1641 Successfully Imported
+[05:12:32] <strong>Record</strong> #636
+[05:12:32] post #1642 Successfully Imported
+[05:12:32] <strong>Record</strong> #637
+[05:12:32] post #1643 Successfully Imported
+[05:12:32] <strong>Record</strong> #638
+[05:12:32] post #1644 Successfully Imported
+[05:12:32] <strong>Record</strong> #639
+[05:12:32] Existing item found #1532
+[05:12:32] post #1532 Successfully Imported
+[05:12:32] <strong>Record</strong> #640
+[05:12:32] post #1645 Successfully Imported
+[05:12:32] <strong>Record</strong> #641
+[05:12:32] post #1646 Successfully Imported
+[05:12:32] <strong>Record</strong> #642
+[05:12:32] post #1647 Successfully Imported
+[05:12:32] <strong>Record</strong> #643
+[05:12:32] post #1648 Successfully Imported
+[05:12:32] <strong>Record</strong> #644
+[05:12:33] post #1649 Successfully Imported
+[05:12:33] <strong>Record</strong> #645
+[05:12:33] post #1650 Successfully Imported
+[05:12:33] <strong>Record</strong> #646
+[05:12:33] post #1651 Successfully Imported
+[05:12:33] <strong>Record</strong> #647
+[05:12:33] post #1652 Successfully Imported
+[05:12:33] <strong>Record</strong> #648
+[05:12:33] Existing item found #1532
+[05:12:33] post #1532 Successfully Imported
+[05:12:33] <strong>Record</strong> #649
+[05:12:33] Existing item found #1077
+[05:12:33] post #1077 Successfully Imported
+[05:12:33] <strong>Record</strong> #650
+[05:12:33] post #1653 Successfully Imported
+[05:12:33] <strong>Record</strong> #651
+[05:12:33] post #1654 Successfully Imported
+[05:12:33] <strong>Record</strong> #652
+[05:12:33] post #1655 Successfully Imported
+[05:12:33] <strong>Record</strong> #653
+[05:12:33] post #1656 Successfully Imported
+[05:12:33] <strong>Record</strong> #654
+[05:12:33] post #1657 Successfully Imported
+[05:12:33] <strong>Record</strong> #655
+[05:12:33] post #1658 Successfully Imported
+[05:12:33] <strong>Record</strong> #656
+[05:12:33] Existing item found #1532
+[05:12:33] post #1532 Successfully Imported
+[05:12:33] <strong>Record</strong> #657
+[05:12:33] post #1659 Successfully Imported
+[05:12:33] <strong>Record</strong> #658
+[05:12:33] post #1660 Successfully Imported
+[05:12:33] <strong>Record</strong> #659
+[05:12:33] post #1661 Successfully Imported
+[05:12:33] <strong>Record</strong> #660
+[05:12:33] post #1662 Successfully Imported
+[05:12:33] <strong>Record</strong> #661
+[05:12:33] post #1663 Successfully Imported
+[05:12:33] <strong>Record</strong> #662
+[05:12:33] post #1664 Successfully Imported
+[05:12:33] <strong>Record</strong> #663
+[05:12:33] post #1665 Successfully Imported
+[05:12:33] <strong>Record</strong> #664
+[05:12:33] post #1666 Successfully Imported
+[05:12:33] <strong>Record</strong> #665
+[05:12:33] post #1667 Successfully Imported
+[05:12:33] <strong>Record</strong> #666
+[05:12:33] post #1668 Successfully Imported
+[05:12:33] <strong>Record</strong> #667
+[05:12:33] post #1669 Successfully Imported
+[05:12:33] <strong>Record</strong> #668
+[05:12:33] post #1670 Successfully Imported
+[05:12:33] <strong>Record</strong> #669
+[05:12:33] post #1671 Successfully Imported
+[05:12:33] <strong>Record</strong> #670
+[05:12:33] post #1672 Successfully Imported
+[05:12:33] <strong>Record</strong> #671
+[05:12:33] Existing item found #1415
+[05:12:33] post #1415 Successfully Imported
+[05:12:33] <strong>Record</strong> #672
+[05:12:33] post #1673 Successfully Imported
+[05:12:33] <strong>Record</strong> #673
+[05:12:33] Existing item found #1365
+[05:12:33] post #1365 Successfully Imported
+[05:12:33] <strong>Record</strong> #674
+[05:12:33] post #1674 Successfully Imported
+[05:12:33] <strong>Record</strong> #675
+[05:12:33] post #1675 Successfully Imported
+[05:12:33] <strong>Record</strong> #676
+[05:12:33] post #1676 Successfully Imported
+[05:12:33] <strong>Record</strong> #677
+[05:12:33] post #1677 Successfully Imported
+[05:12:33] <strong>Record</strong> #678
+[05:12:33] Existing item found #1532
+[05:12:33] post #1532 Successfully Imported
+[05:12:33] <strong>Record</strong> #679
+[05:12:33] post #1678 Successfully Imported
+[05:12:34] <strong>Record</strong> #680
+[05:12:34] post #1679 Successfully Imported
+[05:12:34] <strong>Record</strong> #681
+[05:12:34] post #1680 Successfully Imported
+[05:12:34] <strong>Record</strong> #682
+[05:12:34] post #1681 Successfully Imported
+[05:12:34] <strong>Record</strong> #683
+[05:12:34] post #1682 Successfully Imported
+[05:12:34] <strong>Record</strong> #684
+[05:12:34] Existing item found #1532
+[05:12:34] post #1532 Successfully Imported
+[05:12:34] <strong>Record</strong> #685
+[05:12:34] post #1683 Successfully Imported
+[05:12:34] <strong>Record</strong> #686
+[05:12:34] post #1684 Successfully Imported
+[05:12:34] <strong>Record</strong> #687
+[05:12:34] post #1685 Successfully Imported
+[05:12:34] <strong>Record</strong> #688
+[05:12:34] post #1686 Successfully Imported
+[05:12:34] <strong>Record</strong> #689
+[05:12:34] post #1687 Successfully Imported
+[05:12:34] <strong>Record</strong> #690
+[05:12:34] post #1688 Successfully Imported
+[05:12:34] <strong>Record</strong> #691
+[05:12:34] Existing item found #1030
+[05:12:34] post #1030 Successfully Imported
+[05:12:34] <strong>Record</strong> #692
+[05:12:34] post #1689 Successfully Imported
+[05:12:34] <strong>Record</strong> #693
+[05:12:34] post #1690 Successfully Imported
+[05:12:34] <strong>Record</strong> #694
+[05:12:34] post #1691 Successfully Imported
+[05:12:34] <strong>Record</strong> #695
+[05:12:34] post #1692 Successfully Imported
+[05:12:34] <strong>Record</strong> #696
+[05:12:34] post #1693 Successfully Imported
+[05:12:34] <strong>Record</strong> #697
+[05:12:34] post #1694 Successfully Imported
+[05:12:34] <strong>Record</strong> #698
+[05:12:34] post #1695 Successfully Imported
+[05:12:34] <strong>Record</strong> #699
+[05:12:34] post #1696 Successfully Imported
+[05:12:34] <strong>Record</strong> #700
+[05:12:34] post #1697 Successfully Imported
+[05:12:35] <strong>Record</strong> #701
+[05:12:35] post #1698 Successfully Imported
+[05:12:35] <strong>Record</strong> #702
+[05:12:35] post #1699 Successfully Imported
+[05:12:35] <strong>Record</strong> #703
+[05:12:35] post #1700 Successfully Imported
+[05:12:35] <strong>Record</strong> #704
+[05:12:35] post #1701 Successfully Imported
+[05:12:35] <strong>Record</strong> #705
+[05:12:35] post #1702 Successfully Imported
+[05:12:35] <strong>Record</strong> #706
+[05:12:35] post #1703 Successfully Imported
+[05:12:35] <strong>Record</strong> #707
+[05:12:35] post #1704 Successfully Imported
+[05:12:35] <strong>Record</strong> #708
+[05:12:35] Existing item found #1649
+[05:12:35] post #1649 Successfully Imported
+[05:12:35] <strong>Record</strong> #709
+[05:12:35] post #1705 Successfully Imported

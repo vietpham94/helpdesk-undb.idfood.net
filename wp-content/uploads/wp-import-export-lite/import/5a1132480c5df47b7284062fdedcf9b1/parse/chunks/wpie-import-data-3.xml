@@ -1,0 +1,5003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <phngx><![CDATA[Xã Nghĩa Tâm]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1132]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn Lãng]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Yên Bình]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Thác Bà]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Long]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tích Cốc]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cảm Nhân]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Chấn]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Nguyên]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Ninh]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Ái]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ Gia]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Lai]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mông Sơn]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cảm Ân]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Thành]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hương]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc An]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bạch Hà]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Linh]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Đồng]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Kiên]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Bình]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thịnh Hưng]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hán Đà]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Thịnh]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Minh]]></phngx>
+    <province_id><![CDATA[356]]></province_id>
+    <district_id><![CDATA[1133]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Thái Bình]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Thịnh Lang]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hữu Nghị]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân Thịnh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đồng Tiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phương Lâm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Chăm Mát]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Mông]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sủ Ngòi]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dân Chủ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thái Thịnh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thống Nhất]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Minh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1134]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đà Bắc]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Nghê]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Suối Nánh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Giáp Đắt]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mường Tuổng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mường Chiềng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Pheo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Chum]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Minh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đoàn Kết]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Ruộng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hào Lý]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tu Lý]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Thành]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Toàn Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hiền Lương]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiền Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vầy Nưa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1135]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Kỳ Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Thịnh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Minh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Thành]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Tiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dân Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mông Hóa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dân Hạ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Độc Lập]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Quang]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1136]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Lương Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lâm Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trường Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Vinh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhuận Trạch]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Răm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cư Yên]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thành Lập]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiến Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thành]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Dương]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Châu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Long Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Thắng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Lương]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Thanh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1137]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Bo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đú Sáng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã  Bắc Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hùng Tiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tú Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nật Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Tiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sơn Thủy]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Bắc]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Bì]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lập Chiệng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Đồng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hạ Bì]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Bì]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Đồng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Tiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Tiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Bình]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Kim]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Bôi]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Thượng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Truy]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cuối Hạ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sào Báy]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mi Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nuông Dăm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1138]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Cao Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Thanh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thung Nai]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thu Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tây Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dũng Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Phong]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Lập]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Thượng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1139]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Mường Khến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngòi Hoa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Vinh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Cường]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quy Hậu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phong Phú]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quyết Chiến]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mãn Đức]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Địch Giáo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tuân Lộ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tử Nê]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Hối]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Mỹ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Lai]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lũng Vân]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quy Mỹ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Do Nhân]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lỗ Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngổ Luông]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Gia Mô]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1140]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Dân]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Mai Châu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Mai]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Sạn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Pà Cò]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hang Kia]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ba Khan]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Bảng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cun Pheo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bao La]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Piềng Vế]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tòng Đậu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nà Mèo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thung Khe]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nà Phòn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Săm Khóe]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chiềng Châu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mai Hạ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nong Luông]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mai Hịch]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Pù Pin]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Mai]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1141]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Vụ Bản]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quý Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Miền Đồi]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ Thành]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tuân Đạo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn Nghĩa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lập]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhân Nghĩa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Cốc]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Lương]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Tuy]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuất Hóa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Phú]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Hẻm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chí Thiện]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Cảng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Chân]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Định Cư]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chí Đạo]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Vũ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Sơn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hương Nhượng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Lâm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tự Do]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Nghiệp]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Mỹ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ân Nghĩa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Lâu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1142]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Hàng Trạm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lạc Sỹ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lạc Hưng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lạc Lương]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Hiệu]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đa Phúc]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Lợi]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lạc Thịnh]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Lạc]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đoàn Kết]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Lai]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Trị]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Lương]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1143]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Thanh Hà]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Nông]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Chi Nê]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Lão]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Thành]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cố Nghĩa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hưng Thi]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lạc Long]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Hòa]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khoan Dụ]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Môn]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tâm]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Bồng]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Lạc]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Bình]]></phngx>
+    <province_id><![CDATA[357]]></province_id>
+    <district_id><![CDATA[1144]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Quán Triều]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Quang Vinh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Túc Duyên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hoàng Văn Thụ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trưng Vương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Quang Trung]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phan Đình Phùng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân Thịnh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Thịnh Đán]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đồng Quang]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Gia Sàng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân Lập]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cam Giá]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phú Xá]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hương Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trung Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân Long]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Hà]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Xuân]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quyết Thắng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Trìu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thịnh Đức]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tích Lương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Cương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sơn Cẩm]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Chùa Hang]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Ngạn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Linh Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đồng Bẩm]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Huống Thượng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Liên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1145]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Lương Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Lương Châu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Mỏ Chè]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cải Đan]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Thắng Lợi]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phố Cò]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vinh Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Quang]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bách Quang]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bá Xuyên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1146]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Chợ Chu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Linh Thông]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lam Vỹ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quy Kỳ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thịnh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Phượng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Linh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Chu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Dương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phượng Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Cường]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Thịnh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Định Biên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Định]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Hội]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Lương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Yên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Điềm Mặc]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bộc Nhiêu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sơn Phú]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Đình]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1147]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Giang Tiên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Ninh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Trạch]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Đổ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Lạc]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ôn Lương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Động Đạt]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phủ Lý]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Đô]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tức Tranh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phấn Mễ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vô Tranh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cổ Lũng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1148]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Sông Cầu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Trại Cau]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn Lăng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Long]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quang Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Lập]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn Hán]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hóa Trung]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khe Mo]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cây Thị]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hóa Thượng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lợi]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Hòa]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1149]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đình Cả]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sảng Mộc]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nghinh Tường]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thần Xa]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Chấn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Nung]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Thượng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cúc Đường]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã La Hiên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lâu Thượng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tràng Xá]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phương Giao]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Minh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dân Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Long]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1150]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Hùng Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Quân Chu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Lương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Lãng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đức Lương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Cường]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Na Mao]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Lạc]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Linh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Thịnh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phục Linh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Xuyên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bản Ngoại]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiên Hội]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cù Vân]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hà Thượng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã La Bằng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoàng Nông]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khôi Kỳ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Khánh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thái]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Thuận]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lục Ba]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ Yên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Thọ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn Yên]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ký Phú]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cát Nê]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quân Chu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1151]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bãi Bông]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bắc Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Ba Hàng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Tân]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Thuận]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Đức]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đắc Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đồng Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thành Công]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiên Phong]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Phái]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Tiến]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Cao]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Phú]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thuận Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1152]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Hương Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bàn Đạt]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Khánh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Kim]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đào Xá]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Lý]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Đình]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hòa]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhã Lộng]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Điềm Thụy]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Phương]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Đức]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Úc Kỳ]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lương Phú]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nga My]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kha Sơn]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Ninh]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dương Thành]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hà Châu]]></phngx>
+    <province_id><![CDATA[358]]></province_id>
+    <district_id><![CDATA[1153]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hoàng Văn Thụ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tam Thanh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Vĩnh Trại]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đông Kinh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Chi Lăng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoàng Đồng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Lạc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mai Pha]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1154]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Thất Khê]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khánh Long]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đoàn Kết]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quốc Khánh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Tiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Minh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chí Minh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tri Phương]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Tiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Yên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đội Cấn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Minh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Đồng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chi Lăng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trung Thành]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Đồng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đào Viên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đề Thám]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kháng Chiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Ái]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hùng Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quốc Việt]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hùng Việt]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1155]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Bình Gia]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hưng Đạo]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Yên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoa Thám]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quý Hòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Phong]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Lỗ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thiện Hòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quang Trung]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thiện Thuật]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Khai]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thiện Long]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoàng Văn Thụ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mông Ân]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tô Hiệu]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Thái]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình La]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Văn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1156]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Na Sầm]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trùng Khánh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Việt]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc La]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thụy Hùng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trùng Quán]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Tác]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Hùng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Long]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hội Hoan]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lang]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoàng Việt]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Gia Miễn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thành Hòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thanh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam La]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Mỹ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Thái]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã  Hoàng Văn Thụ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhạc Kỳ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1157]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đồng Đăng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Cao Lộc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Lâm]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Lòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Lâu]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thạch Đạn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuất Lễ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Phong]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thụy Hùng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lộc Yên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Xá]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Trung]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hải Yến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Cư]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Thành]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Song Giáp]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Công Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Gia Cát]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mẫu Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Long]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Liên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Trạch]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thành]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1158]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Văn Quan]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trấn Ninh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Mỹ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Việt Yên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Song Giang]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vân Mộng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Lại]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tú Xuyên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Văn An]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại An]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khánh Khê]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chu Túc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lương Năng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Giáp]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Mai]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tràng Các]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tràng Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Đoàn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Phúc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tri Lễ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tràng Phái]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Phúc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Lễ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1159]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Bắc Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Long Đống]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Thủy]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quỳnh Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng ý]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Tri]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Vĩnh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hưng Vũ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lập]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chiêu Vũ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hương]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chiến Thắng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Lăng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trấn Yên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Lễ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhất Hòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thành]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhất Tiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1160]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Hữu Lũng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Liên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quyết Thắng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Thịnh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thiện Kỵ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lập]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Vượng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Tiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhật Tiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tân]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cai Kinh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Lạc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vân Nham]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tiến]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đô Lương]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thành]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồ Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sơn Hà]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Hòa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Thắng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1161]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đồng Mỏ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Chi Lăng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vân An]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vân Thủy]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Gia Lộc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Thủy]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chiến Thắng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mai Sao]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bằng Hữu]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Cường]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bằng Mạc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhân Lý]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lâm Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Linh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quang Lang]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Kiên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quan Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Y Tịch]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chi Lăng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1162]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Na Dương]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Lộc Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mẫu Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bằng Khánh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Lễ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Khoái]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Mãn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tú Mịch]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Khánh]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Bục]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vân Mộng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tam Gia]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tú Đoạn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khuất Xá]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Như Khuê]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lục Thôn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tĩnh Bắc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Tình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hiệp Hạ]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhượng Bạn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quan Bản]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sàn Viên]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Quan]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Phát]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Lân]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lợi Bác]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Quan]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Dương]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ái Quốc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1163]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đình Lập]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn NT Thái Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Xa]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bính Xá]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kiên Mộc]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đình Lập]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thái Bình]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cường Lợi]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Châu Sơn]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lâm Ca]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Thắng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Lãng]]></phngx>
+    <province_id><![CDATA[359]]></province_id>
+    <district_id><![CDATA[1164]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà Khánh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà Phong]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà Khẩu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cao Xanh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Giếng Đáy]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà Tu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà Trung]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà Lầm]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bãi Cháy]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cao Thắng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hùng Thắng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Yết Kiêu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trần Hưng Đạo]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hồng Hải]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hồng Gai]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bạch Đằng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hồng Hà]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tuần Châu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Việt Hưng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đại Yên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1165]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Ka Long]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trần Phú]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Ninh Dương]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hoà Lạc]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trà Cổ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hải Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hải Đông]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hải Tiến]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hải Yên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Nghĩa]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hải Hoà]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hải Xuân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Ninh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bình Ngọc]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Trung]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Thực]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1166]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Mông Dương]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cửa Ông]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Đông]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Phú]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Tây]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Quang Hanh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Thịnh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Thủy]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Thạch]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Thành]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Trung]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cẩm Bình]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cộng Hòa]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cẩm Hải]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dương Huy]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1167]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Vàng Danh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Thanh Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Bắc Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Quang Trung]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trưng Vương]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Nam Khê]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Yên Thanh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thượng Yên Công]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phương Đông]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phương Nam]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Điền Công]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1168]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Bình Liêu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoành Mô]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tâm]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Văn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tình Húc]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vô Ngại]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lục Hồn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Húc Động]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1169]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Tiên Yên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hà Lâu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Dực]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Thành]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phong Dụ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Điền Xá]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Ngũ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Than]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Hải]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hải Lạng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiên Lãng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Rui]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1170]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đầm Hà]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Lâm]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng An]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Bình]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Lợi]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dực Yên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Tân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đầm Hà]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lập]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Bình]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1171]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Quảng Hà]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Đức]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Thành]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Thắng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Thịnh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Minh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Chính]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Long]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đường Hoa]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Phong]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Trung]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Hải]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng Điền]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiến Tới]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cái Chiên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1172]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Ba Chẽ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Lâm]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đạp Thanh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lương Mông]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồn Đạc]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Cầm]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1173]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Cái Rồng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đài Xuyên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Dân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vạn Yên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Minh Châu]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đoàn Kết]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hạ Long]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Xá]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bản Sen]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thắng Lợi]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quan Lạn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Vừng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1174]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Trới]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kỳ Thượng]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Dân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Lâm]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hòa Bình]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Oai]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dân Chủ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quảng La]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bằng Cả]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thống Nhất]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sơn Dương]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lê Lợi]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1175]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Mạo Khê]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đông Triều]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Sinh]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tràng Lương]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Khê]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Việt Dân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Việt]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Dương]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đức Chính]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tràng An]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nguyễn Huệ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thủy An]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Xuân Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Thái Tây]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Thái Đông]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoàng Quế]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Thọ]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Phong]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Kim Sơn]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hưng Đạo]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Đức]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1176]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Quảng Yên]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đông Mai]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Minh Thành]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sông Khoai]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hiệp Hòa]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Cộng Hòa]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiền An]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hoàng Tân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Tân An]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Yên Giang]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Nam Hoà]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hà An]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cẩm La]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phong Hải]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Yên Hải]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Hòa]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Phong Cốc]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Vị]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiền Phong]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1177]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Cô Tô]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1178]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tiến]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1178]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Lân]]></phngx>
+    <province_id><![CDATA[360]]></province_id>
+    <district_id><![CDATA[1178]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Thọ Xương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trần Nguyên Hãn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Ngô Quyền]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Hoàng Văn Thụ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Trần Phú]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Mỹ Độ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Lê Lợi]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Song Mai]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Xương Giang]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Đa Mai]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Phường Dĩnh Kế]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dĩnh Trì]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Mỹ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Tiến]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Song Khê]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1179]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Cầu Gồ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Bố Hạ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tiến]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Canh Nậu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Lương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tam Tiến]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Vương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Hưu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Tâm]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tam Hiệp]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiến Thắng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Kỳ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Lạc]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hiệp]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hương Vĩ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Kỳ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Thượng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phồn Xương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Sỏi]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bố Hạ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1180]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Cao Thượng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Nhã Nam]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lan Giới]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nhã Nam]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Trung]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Hóa]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quang Tiến]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Dương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Hòa]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hợp Đức]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lam Cốt]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Xá]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cao Thượng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Việt Ngọc]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Song Vân]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Châu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Vân]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Việt Lập]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Liên Chung]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Thiện]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Ngọc Lý]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quế Nham]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1181]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Kép]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Vôi]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nghĩa Hòa]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nghĩa Hưng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quang Thịnh]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hương Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đào Mỹ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiên Lục]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Hà]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thịnh]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ Hà]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hương Lạc]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dương Đức]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Thanh]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Mỹ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hưng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ Thái]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phi Mô]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xương Lâm]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xuân Hương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Dĩnh]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đại Lâm]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thái Đào]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1182]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Đồi Ngô]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Lục Nam]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Hưng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đông Phú]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tam Dị]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bảo Đài]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Lâm]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiên Nha]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trường Giang]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tiên Hưng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phương Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chu Điện]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cương Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nghĩa Phương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vô Tranh]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bình Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lan Mẫu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Khám Lạng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Huyền Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trường Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lục Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bắc Lũng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vũ Xá]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cẩm Lý]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đan Hội]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1183]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Chũ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cấm Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phong Minh]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phong Vân]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Xa Lý]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hộ Đáp]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Sơn Hải]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Hải]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kiên Lao]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Biên Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kiên Thành]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hồng Giang]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Kim Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Hoa]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Giáp Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Biển Động]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quý Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Trù Hựu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phì Điền]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nghĩa Hồ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Quang]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đồng Cốc]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Lập]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phú Nhuận]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Mỹ An]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nam Dương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân Mộc]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Đèo Gia]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phượng Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1184]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn An Châu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Thanh Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thạch Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vân Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hữu Sản]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quế Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Phúc Thắng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Chiên Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Giáo Liêm]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Vĩnh Khương]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Cẩm Đàn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Lạc]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Lập]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Yên Định]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lệ Viễn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Châu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã An Bá]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tuấn Đạo]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Dương Hưu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Bồng Am]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Long Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tuấn Mậu]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Thanh Luận]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1185]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Neo]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Thị trấn Tân Dân]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Lão Hộ]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Hương Gián]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Tân An]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Quỳnh Sơn]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+  <item>
+    <phngx><![CDATA[Xã Nội Hoàng]]></phngx>
+    <province_id><![CDATA[361]]></province_id>
+    <district_id><![CDATA[1186]]></district_id>
+  </item>
+</wpiedata>

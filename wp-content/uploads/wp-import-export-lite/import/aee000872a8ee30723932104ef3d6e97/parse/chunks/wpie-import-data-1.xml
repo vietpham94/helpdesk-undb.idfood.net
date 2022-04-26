@@ -1,0 +1,2839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <qunhuyn><![CDATA[Quận Ba Đình]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hoàn Kiếm]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Tây Hồ]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Long Biên]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Cầu Giấy]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Đống Đa]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hai Bà Trưng]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hoàng Mai]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Thanh Xuân]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sóc Sơn]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đông Anh]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gia Lâm]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Nam Từ Liêm]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Trì]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Bắc Từ Liêm]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mê Linh]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hà Đông]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Sơn Tây]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ba Vì]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phúc Thọ]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đan Phượng]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoài Đức]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quốc Oai]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạch Thất]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chương Mỹ]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Oai]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thường Tín]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Xuyên]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ứng Hòa]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỹ Đức]]></qunhuyn>
+    <province_id><![CDATA[347]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hà Giang]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đồng Văn]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mèo Vạc]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Minh]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quản Bạ]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vị Xuyên]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Mê]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoàng Su Phì]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Xín Mần]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Quang]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quang Bình]]></qunhuyn>
+    <province_id><![CDATA[348]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Cao Bằng]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bảo Lâm]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bảo Lạc]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thông Nông]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hà Quảng]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trà Lĩnh]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trùng Khánh]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hạ Lang]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quảng Uyên]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phục Hoà]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoà An]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nguyên Bình]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạch An]]></qunhuyn>
+    <province_id><![CDATA[349]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bắc Kạn]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Pác Nặm]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ba Bể]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ngân Sơn]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bạch Thông]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chợ Đồn]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chợ Mới]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Na Rì]]></qunhuyn>
+    <province_id><![CDATA[350]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Tuyên Quang]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lâm Bình]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nà Hang]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chiêm Hóa]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hàm Yên]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Sơn]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sơn Dương]]></qunhuyn>
+    <province_id><![CDATA[351]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Lào Cai]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bát Xát]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường Khương]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Si Ma Cai]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Hà]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bảo Thắng]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bảo Yên]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sa Pa]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Bàn]]></qunhuyn>
+    <province_id><![CDATA[352]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Điện Biên Phủ]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị Xã Mường Lay]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường Nhé]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường Chà]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tủa Chùa]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tuần Giáo]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Điện Biên]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Điện Biên Đông]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường Ảng]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nậm Pồ]]></qunhuyn>
+    <province_id><![CDATA[353]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Lai Châu]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tam Đường]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường Tè]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sìn Hồ]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phong Thổ]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Than Uyên]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Uyên]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nậm Nhùn]]></qunhuyn>
+    <province_id><![CDATA[354]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Sơn La]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quỳnh Nhai]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thuận Châu]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường La]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Yên]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phù Yên]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mộc Châu]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Châu]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mai Sơn]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sông Mã]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sốp Cộp]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vân Hồ]]></qunhuyn>
+    <province_id><![CDATA[355]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Yên Bái]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Nghĩa Lộ]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lục Yên]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Yên]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mù Căng Chải]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trấn Yên]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trạm Tấu]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Chấn]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Bình]]></qunhuyn>
+    <province_id><![CDATA[356]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Hòa Bình]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đà Bắc]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kỳ Sơn]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lương Sơn]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kim Bôi]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cao Phong]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Lạc]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mai Châu]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lạc Sơn]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Thủy]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lạc Thủy]]></qunhuyn>
+    <province_id><![CDATA[357]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thái Nguyên]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Sông Công]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Định Hóa]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Lương]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đồng Hỷ]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Võ Nhai]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đại Từ]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Phổ Yên]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Bình]]></qunhuyn>
+    <province_id><![CDATA[358]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Lạng Sơn]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tràng Định]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Gia]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Lãng]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cao Lộc]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Quan]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Sơn]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hữu Lũng]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chi Lăng]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lộc Bình]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đình Lập]]></qunhuyn>
+    <province_id><![CDATA[359]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Hạ Long]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Móng Cái]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Cẩm Phả]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Uông Bí]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Liêu]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiên Yên]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đầm Hà]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hải Hà]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ba Chẽ]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vân Đồn]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoành Bồ]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Đông Triều]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Quảng Yên]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cô Tô]]></qunhuyn>
+    <province_id><![CDATA[360]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bắc Giang]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Thế]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Yên]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lạng Giang]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lục Nam]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lục Ngạn]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sơn Động]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Dũng]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Việt Yên]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hiệp Hòa]]></qunhuyn>
+    <province_id><![CDATA[361]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Việt Trì]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Phú Thọ]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đoan Hùng]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hạ Hoà]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Ba]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phù Ninh]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Lập]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cẩm Khê]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tam Nông]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lâm Thao]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Sơn]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Thuỷ]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Sơn]]></qunhuyn>
+    <province_id><![CDATA[362]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Vĩnh Yên]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Phúc Yên]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lập Thạch]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tam Dương]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tam Đảo]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Xuyên]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Lạc]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Tường]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sông Lô]]></qunhuyn>
+    <province_id><![CDATA[363]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bắc Ninh]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Phong]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quế Võ]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiên Du]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Từ Sơn]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thuận Thành]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gia Bình]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lương Tài]]></qunhuyn>
+    <province_id><![CDATA[364]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Hải Dương]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Chí Linh]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nam Sách]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kinh Môn]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kim Thành]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Hà]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cẩm Giàng]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Giang]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gia Lộc]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tứ Kỳ]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ninh Giang]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Miện]]></qunhuyn>
+    <province_id><![CDATA[365]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hồng Bàng]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Ngô Quyền]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Lê Chân]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hải An]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Kiến An]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Đồ Sơn]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Dương Kinh]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thuỷ Nguyên]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện An Dương]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện An Lão]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kiến Thuỵ]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiên Lãng]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Bảo]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cát Hải]]></qunhuyn>
+    <province_id><![CDATA[366]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Hưng Yên]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Lâm]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Văn Giang]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Mỹ]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỹ Hào]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ân Thi]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Khoái Châu]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kim Động]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiên Lữ]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phù Cừ]]></qunhuyn>
+    <province_id><![CDATA[367]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thái Bình]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quỳnh Phụ]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hưng Hà]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đông Hưng]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thái Thụy]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiền Hải]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kiến Xương]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vũ Thư]]></qunhuyn>
+    <province_id><![CDATA[368]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Phủ Lý]]></qunhuyn>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Duy Tiên]]></qunhuyn>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kim Bảng]]></qunhuyn>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Liêm]]></qunhuyn>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Lục]]></qunhuyn>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lý Nhân]]></qunhuyn>
+    <province_id><![CDATA[369]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Nam Định]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỹ Lộc]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vụ Bản]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ý Yên]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nghĩa Hưng]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nam Trực]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trực Ninh]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Xuân Trường]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Giao Thủy]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hải Hậu]]></qunhuyn>
+    <province_id><![CDATA[394]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Ninh Bình]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Tam Điệp]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nho Quan]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gia Viễn]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoa Lư]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Khánh]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kim Sơn]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Mô]]></qunhuyn>
+    <province_id><![CDATA[392]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thanh Hóa]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Bỉm Sơn]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Sầm Sơn]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mường Lát]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quan Hóa]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bá Thước]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quan Sơn]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lang Chánh]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ngọc Lặc]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cẩm Thủy]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạch Thành]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hà Trung]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Lộc]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Định]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thọ Xuân]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thường Xuân]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Triệu Sơn]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thiệu Hóa]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoằng Hóa]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hậu Lộc]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nga Sơn]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Như Xuân]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Như Thanh]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nông Cống]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đông Sơn]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quảng Xương]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tĩnh Gia]]></qunhuyn>
+    <province_id><![CDATA[384]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Vinh]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Cửa Lò]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Thái Hoà]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quế Phong]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quỳ Châu]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kỳ Sơn]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tương Dương]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nghĩa Đàn]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quỳ Hợp]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quỳnh Lưu]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Con Cuông]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Kỳ]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Anh Sơn]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Diễn Châu]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Yên Thành]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đô Lương]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Chương]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nghi Lộc]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nam Đàn]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hưng Nguyên]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hoàng Mai]]></qunhuyn>
+    <province_id><![CDATA[391]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Hà Tĩnh]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hồng Lĩnh]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hương Sơn]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Thọ]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vũ Quang]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nghi Xuân]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Can Lộc]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hương Khê]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạch Hà]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cẩm Xuyên]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kỳ Anh]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lộc Hà]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Kỳ Anh]]></qunhuyn>
+    <province_id><![CDATA[385]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Đồng Hới]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Minh Hóa]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tuyên Hóa]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quảng Trạch]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bố Trạch]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quảng Ninh]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lệ Thủy]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Ba Đồn]]></qunhuyn>
+    <province_id><![CDATA[396]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Đông Hà]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Quảng Trị]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Linh]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hướng Hóa]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gio Linh]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đa Krông]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cam Lộ]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Triệu Phong]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hải Lăng]]></qunhuyn>
+    <province_id><![CDATA[397]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huế]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phong Điền]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quảng Điền]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Vang]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hương Thủy]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hương Trà]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện A Lưới]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Lộc]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nam Đông]]></qunhuyn>
+    <province_id><![CDATA[401]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Liên Chiểu]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Thanh Khê]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Hải Châu]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Sơn Trà]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Ngũ Hành Sơn]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Cẩm Lệ]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hòa Vang]]></qunhuyn>
+    <province_id><![CDATA[408]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Tam Kỳ]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Hội An]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tây Giang]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đông Giang]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đại Lộc]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Điện Bàn]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Duy Xuyên]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Quế Sơn]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nam Giang]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phước Sơn]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hiệp Đức]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thăng Bình]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiên Phước]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Trà My]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nam Trà My]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Núi Thành]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Ninh]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nông Sơn]]></qunhuyn>
+    <province_id><![CDATA[372]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quảng Ngãi]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Sơn]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trà Bồng]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tây Trà]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sơn Tịnh]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tư Nghĩa]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sơn Hà]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sơn Tây]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Minh Long]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nghĩa Hành]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mộ Đức]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Phổ]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ba Tơ]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lý Sơn]]></qunhuyn>
+    <province_id><![CDATA[373]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Qui Nhơn]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện An Lão]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoài Nhơn]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoài Ân]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phù Mỹ]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Thạnh]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tây Sơn]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phù Cát]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã An Nhơn]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tuy Phước]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vân Canh]]></qunhuyn>
+    <province_id><![CDATA[380]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Tuy Hoà]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Sông Cầu]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đồng Xuân]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tuy An]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sơn Hòa]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sông Hinh]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tây Hoà]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Hoà]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đông Hòa]]></qunhuyn>
+    <province_id><![CDATA[395]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Nha Trang]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Cam Ranh]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cam Lâm]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vạn Ninh]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Ninh Hòa]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Khánh Vĩnh]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Diên Khánh]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Khánh Sơn]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trường Sa]]></qunhuyn>
+    <province_id><![CDATA[387]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Phan Rang-Tháp Chàm]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bác Ái]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ninh Sơn]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ninh Hải]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ninh Phước]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thuận Bắc]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thuận Nam]]></qunhuyn>
+    <province_id><![CDATA[393]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Phan Thiết]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã La Gi]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tuy Phong]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Bình]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hàm Thuận Bắc]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hàm Thuận Nam]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tánh Linh]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Linh]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hàm Tân]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Quí]]></qunhuyn>
+    <province_id><![CDATA[370]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Kon Tum]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đắk Glei]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ngọc Hồi]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đắk Tô]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kon Plông]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kon Rẫy]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đắk Hà]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Sa Thầy]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tu Mơ Rông]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ia H' Drai]]></qunhuyn>
+    <province_id><![CDATA[388]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Pleiku]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã An Khê]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Ayun Pa]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện KBang]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đăk Đoa]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chư Păh]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ia Grai]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mang Yang]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kông Chro]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Cơ]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chư Prông]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chư Sê]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đăk Pơ]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ia Pa]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông Pa]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Thiện]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chư Pưh]]></qunhuyn>
+    <province_id><![CDATA[383]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Buôn Ma Thuột]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị Xã Buôn Hồ]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ea H'leo]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ea Súp]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Buôn Đôn]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cư M'gar]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông Búk]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông Năng]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ea Kar]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện M'Đrắk]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông Bông]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông Pắc]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông A Na]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lắk]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cư Kuin]]></qunhuyn>
+    <province_id><![CDATA[405]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Gia Nghĩa]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đăk Glong]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cư Jút]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đắk Mil]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Krông Nô]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đắk Song]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đắk R'Lấp]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tuy Đức]]></qunhuyn>
+    <province_id><![CDATA[409]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Đà Lạt]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bảo Lộc]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đam Rông]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lạc Dương]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lâm Hà]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đơn Dương]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Trọng]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Di Linh]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bảo Lâm]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đạ Huoai]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đạ Tẻh]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cát Tiên]]></qunhuyn>
+    <province_id><![CDATA[390]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Phước Long]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Đồng Xoài]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Bình Long]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bù Gia Mập]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lộc Ninh]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bù Đốp]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hớn Quản]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đồng Phú]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bù Đăng]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chơn Thành]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Riềng]]></qunhuyn>
+    <province_id><![CDATA[377]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Tây Ninh]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Biên]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Châu]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Dương Minh Châu]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hòa Thành]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gò Dầu]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bến Cầu]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trảng Bàng]]></qunhuyn>
+    <province_id><![CDATA[402]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thủ Dầu Một]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bàu Bàng]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Dầu Tiếng]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Bến Cát]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Giáo]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Tân Uyên]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Dĩ An]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Thuận An]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bắc Tân Uyên]]></qunhuyn>
+    <province_id><![CDATA[375]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Biên Hòa]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Long Khánh]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Phú]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Cửu]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Định Quán]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trảng Bom]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thống Nhất]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cẩm Mỹ]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Long Thành]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Xuân Lộc]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nhơn Trạch]]></qunhuyn>
+    <province_id><![CDATA[406]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Vũng Tàu]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bà Rịa]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Đức]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Xuyên Mộc]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Long Điền]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đất Đỏ]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Thành]]></qunhuyn>
+    <province_id><![CDATA[379]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 1]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 12]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Thủ Đức]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 9]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Gò Vấp]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Bình Thạnh]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Tân Bình]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Tân Phú]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Phú Nhuận]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 2]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 3]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 10]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 11]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 4]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 5]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 6]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 8]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Bình Tân]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận 7]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Củ Chi]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hóc Môn]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Chánh]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Nhà Bè]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cần Giờ]]></qunhuyn>
+    <province_id><![CDATA[398]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Tân An]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Kiến Tường]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Hưng]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Hưng]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mộc Hóa]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Thạnh]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạnh Hóa]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Huệ]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đức Hòa]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bến Lức]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thủ Thừa]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Trụ]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cần Đước]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cần Giuộc]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[389]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Mỹ Tho]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Gò Công]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Cai Lậy]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Phước]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cái Bè]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cai Lậy]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chợ Gạo]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gò Công Tây]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gò Công Đông]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Phú Đông]]></qunhuyn>
+    <province_id><![CDATA[400]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bến Tre]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chợ Lách]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỏ Cày Nam]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Giồng Trôm]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Đại]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ba Tri]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạnh Phú]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỏ Cày Bắc]]></qunhuyn>
+    <province_id><![CDATA[378]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Trà Vinh]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Càng Long]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cầu Kè]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tiểu Cần]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cầu Ngang]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trà Cú]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Duyên Hải]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Duyên Hải]]></qunhuyn>
+    <province_id><![CDATA[403]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Vĩnh Long]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Long Hồ]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mang Thít]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện  Vũng Liêm]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tam Bình]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Bình Minh]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trà Ôn]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Bình Tân]]></qunhuyn>
+    <province_id><![CDATA[404]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Cao Lãnh]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Sa Đéc]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hồng Ngự]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Hồng]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hồng Ngự]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tam Nông]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tháp Mười]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cao Lãnh]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thanh Bình]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lấp Vò]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Lai Vung]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[407]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Long Xuyên]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Châu Đốc]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện An Phú]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Tân Châu]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Tân]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Phú]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tịnh Biên]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tri Tôn]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Chợ Mới]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thoại Sơn]]></qunhuyn>
+    <province_id><![CDATA[374]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Rạch Giá]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Hà Tiên]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kiên Lương]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hòn Đất]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Tân Hiệp]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Giồng Riềng]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Gò Quao]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện An Biên]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện An Minh]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Thuận]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Quốc]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kiên Hải]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện U Minh Thượng]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Giang Thành]]></qunhuyn>
+    <province_id><![CDATA[386]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Ninh Kiều]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Ô Môn]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Bình Thuỷ]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Cái Răng]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Quận Thốt Nốt]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Thạnh]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cờ Đỏ]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phong Điền]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thới Lai]]></qunhuyn>
+    <province_id><![CDATA[382]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Vị Thanh]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Ngã Bảy]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành A]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phụng Hiệp]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vị Thuỷ]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Long Mỹ]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Long Mỹ]]></qunhuyn>
+    <province_id><![CDATA[371]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Sóc Trăng]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Châu Thành]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Kế Sách]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỹ Tú]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cù Lao Dung]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Long Phú]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Mỹ Xuyên]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Ngã Năm]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thạnh Trị]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Vĩnh Châu]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trần Đề]]></qunhuyn>
+    <province_id><![CDATA[399]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Bạc Liêu]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hồng Dân]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phước Long]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Vĩnh Lợi]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Thị xã Giá Rai]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đông Hải]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Hoà Bình]]></qunhuyn>
+    <province_id><![CDATA[376]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Cà Mau]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện U Minh]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Thới Bình]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Trần Văn Thời]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Cái Nước]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Đầm Dơi]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Năm Căn]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Phú Tân]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+  <item>
+    <qunhuyn><![CDATA[Huyện Ngọc Hiển]]></qunhuyn>
+    <province_id><![CDATA[381]]></province_id>
+  </item>
+</wpiedata>
