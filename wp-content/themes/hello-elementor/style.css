@@ -320,11 +320,13 @@ input[type="tel"],
 input[type="url"],
 select,
 textarea {
-  width: 100%;
-  border: solid 1px #666666;
-  border-radius: 3px;
-  padding: 0.5rem 1rem;
-  transition: all .3s; }
+  /*width: 100%;*/
+  /*border: solid 1px #666666;*/
+  /*border-radius: 3px;*/
+  /*padding: 0.5rem 1rem;*/
+  transition: all .3s;
+}
+
   input[type="text"]:focus,
   input[type="date"]:focus,
   input[type="email"]:focus,
@@ -335,7 +337,8 @@ textarea {
   input[type="url"]:focus,
   select:focus,
   textarea:focus {
-    border-color: #333333; }
+    /*border-color: #333333; */
+  }
 
 /**
  * Show the overflow in IE.

@@ -39,7 +39,7 @@ function create_search_form_shortcode($args, $content)
 
         <hr>
 
-        <div class="row mb-2 helpdesk-category">
+        <div class="row mb-2 helpdesk-submit-search">
             <div class="col-12 m-auto text-center">
                 <button type="submit" class="btn search-btn">Tìm kiếm</button>
             </div>
@@ -154,7 +154,7 @@ function selection_address_advance($args, $content)
             <select name="tinh" class="form-control form-control-sm select-province">
                 <option value="">+ Tỉnh thành</option>
                 <?php foreach ($provinces as $province) { ?>
-                    <option value="<?= $province->ID ?>"><?= get_the_title($province) ?></option>
+                    <option value="<?= $province->ID ?>" <?= (isset($_GET['tinh']) && $_GET['tinh'] == $province->ID) ? 'selected' : ''; ?>><?= get_the_title($province) ?></option>
                 <?php } ?>
             </select>
         </div>
@@ -228,13 +228,212 @@ function helpdesk_content_radio_group($agrs, $content)
             <p class="radio-labels"><?= $helpdesk_category->name; ?></p>
         </label>
     </div>
-    <?php }; ?>
+<?php }; ?>
     <?php
 }
 
 //[helpdesk_advance_helpdesk_content_radio_group]
 add_shortcode('helpdesk_advance_helpdesk_content_radio_group', 'helpdesk_content_radio_group');
 
+function create_search_project_directory($args, $content)
+{ ?>
+    <form class="search-directory-form" action="<?= !empty($args["action"]) ? $args["action"] : '' ?>" method="get">
+        <div class="row mb-2 keyword">
+            <div class="col-12 col-md-4 col-lg-3">
+                <span class="search-form-label"><?= __('Từ khóa tìm kiếm?') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="form-group">
+                    <input type="text" class="form-control form-control-sm" id="directorySearchKey" name="search"
+                           placeholder="<?= __('Nhập từ khóa tìm kiếm. Ví dụ: hỗ trợ trồng rừng, hỗ trợ nước sinh hoạt,...'); ?>"
+                           value="<?= $_GET['search'] ?? '' ?>"/>
+                </div>
+            </div>
+        </div>
 
+        <div class="row mb-2 address">
+            <div class="col-12 col-md-4 col-lg-3 m-auto">
+                <span class="search-form-label"><?= __('Nơi thực hiện?') ?></span>
+            </div>
+            <?php echo do_shortcode('[helpdesk_advance_address_selection]'); ?>
+        </div>
+
+        <div class="row mb-2 subject">
+            <div class="col-12 col-md-4 col-lg-3">
+                <span class="search-form-label"><?= __('Tôi cần thông tin liên hệ của?') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <?php $subjects = get_posts(array('post_type' => 'subject', 'numberposts' => -1, 'order' => 'ASC')); ?>
+                <?php foreach ($subjects as $subject) : ?>
+                    <div class="form-check mb-2">
+                        <label class="form-check-label">
+                            <input type="radio" class="form-check-input" name="doi_tuong" value="<?= $subject->ID; ?>"
+                                <?= (isset($_GET['doi_tuong']) && $_GET['doi_tuong'] == $subject->ID) ? 'checked="checked"' : '' ?> />
+                            <p class="radio-labels"><?= $subject->post_title; ?></p>
+                        </label>
+                    </div>
+                <?php endforeach; ?>
+                <div class="form-check mb-2">
+                    <label class="form-check-label">
+                        <input type="radio" class="form-check-input" name="subject" value=""/>
+                        <p class="radio-labels"><?= __('Tất cả'); ?></p>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-2 directory-project">
+            <div class="col-12 col-md-4 col-lg-3">
+                <span class="search-form-label"><?= __('Thuộc dự án?') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="form-group mb-0">
+                    <?php $projects = get_posts(array('post_type' => 'project', 'numberposts' => -1)); ?>
+                    <select name="du_an" class="form-control form-control-sm select-project">
+                        <option value="">+ Chọn dự án</option>
+                        <?php foreach ($projects as $project) : ?>
+                            <option value="<?= $project->ID ?>" <?= (isset($_GET['du_an']) && $_GET['du_an'] == $project->ID) ? 'selected' : '' ?>><?= get_the_title($project) ?></option>
+                        <?php endforeach; ?>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-2 directory-action">
+            <div class="col-12 col-md-4 col-lg-3">
+                <span class="search-form-label"><?= __('Nội dung của hoạt động là?') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-9">
+                <div class="form-group mb-0">
+                    <select name="hoat_dong" class="form-control form-control-sm select-action">
+                        <option value="">+ Chọn nội dung hoạt động</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-2 directory-submit-search">
+            <div class="col-12 m-auto text-center">
+                <button type="submit" class="btn search-btn"><?= __('Tra cứu thông tin liên hệ'); ?></button>
+            </div>
+        </div>
+    </form>
+    <?php
+}
+
+//[helpdesk_advance_directory_search_form action=/tra-cuu-danh-ba]
+add_shortcode('helpdesk_advance_directory_search_form', 'create_search_project_directory');
+
+// Shortcode for search result
+function directory_search_result_shortcode($args, $content)
+{
+    $args = array(
+        'post_type' => 'enterprise',
+        'numberposts' => 10,
+        'page' => 1
+    );
+
+    if (!empty($_GET['page'])) {
+        $args['page'] = $_GET['page'];
+    }
+
+    if (!empty($_GET['search'])) {
+        $args['s'] = $_GET['search'];
+    }
+
+    $meta_query = array();
+
+    if (!empty($_GET['tinh']) && empty($_GET['huyen']) && empty($_GET['xa'])) {
+        $meta_query[] = array(
+            'key' => 'location',
+            'value' => $_GET['tinh'],
+            'compare' => 'IN',
+        );
+    }
+
+    if (!empty($_GET['tinh']) && !empty($_GET['huyen']) && empty($_GET['xa'])) {
+        $meta_query[] = array(
+            'key' => 'location',
+            'value' => $_GET['huyen'],
+            'compare' => 'IN',
+        );
+    }
+
+    if (!empty($_GET['tinh']) && !empty($_GET['huyen']) && !empty($_GET['xa'])) {
+        $meta_query[] = array(
+            'key' => 'location',
+            'value' => $_GET['xa'],
+            'compare' => 'IN',
+        );
+    }
+
+    if (!empty($_GET['doi_tuong'])) {
+        $meta_query[] = array(
+            'key' => 'project_directory_subject_type',
+            'value' => $_GET['doi_tuong'],
+        );
+    }
+
+    if (!empty($_GET['du_an'])) {
+        $meta_query[] = array(
+            'key' => 'enterprise_project',
+            'value' => $_GET['du_an'],
+        );
+    }
+
+    if (!empty($_GET['hoat_dong'])) {
+        $meta_query[] = array(
+            'key' => 'enterprise_action',
+            'value' => $_GET['hoat_dong'],
+        );
+    }
+
+    if (sizeof($meta_query) > 0) {
+        $meta_query['relation'] = 'AND';
+        $project_directory = get_posts(array('post_type' => 'project_directory', 'numberposts' => -1, 'meta_query' => $meta_query));
+        $enterprise_ids = array();
+        foreach ($project_directory as $directory) {
+            $enterprise = get_field('enterprise_directory', $directory);
+            if (isset($enterprise) && !in_array($enterprise->ID, $enterprise_ids)) {
+                $enterprise_ids[] = $enterprise->ID;
+            }
+        }
+    }
+
+    if (sizeof($enterprise_ids) > 0) {
+        $args['include'] = $enterprise_ids;
+    }
+
+    $enterprises = get_posts($args);
+    ?>
+    <div class="directory_search_result">
+        <?php foreach ($enterprises as $item) { ?>
+            <div class="row enterprise-item">
+                <div class="col-12 col-md-4 col-lg-3">
+                    <?php if (!empty(get_the_post_thumbnail_url($item->ID))) { ?>
+                        <img class="logo"
+                             src="<?= get_the_post_thumbnail_url($item->ID); ?>">
+                    <?php } ?>
+                </div>
+                <div class="col-12 col-md-8 col-lg-9">
+                    <p class="enterprise-title"><?= get_the_title($item->post_title) ?></p>
+                    <p class="address"><?= __('Địa chỉ: ') . get_field('address', $item->ID) ?></p>
+                    <p class="phone">
+                        <span class="enterprise-phone"><?= __('Điện thoại: ') . get_field('enterprise_phone', $item->ID) ?></span>
+                        <span class="enterprise-hotline"><?= __('Đường dây nóng: ') . get_field('enterprise_hotline', $item->ID) ?></span>
+                    </p>
+                    <p class="online-contact">
+                        <span class="enterprise-phone"><?= __('Email: ') . get_field('enterprise_email', $item->ID) ?></span>
+                        <span class="enterprise-hotline"><?= __('Website: ') . get_field('enterprise_website', $item->ID) ?></span>
+                    </p>
+                </div>
+            </div>
+        <?php } ?>
+    </div>
+    <?php
+}
+
+//[helpdesk_advance_directory_search_result]
+add_shortcode('helpdesk_advance_directory_search_result', 'directory_search_result_shortcode');
 
 

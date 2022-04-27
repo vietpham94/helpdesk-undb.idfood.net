@@ -44,9 +44,17 @@ jQuery(document).ready(function ($) {
                     }
                     $(exportDataSelector).append(option);
 
+                    let selectedDistrict = getUrlParameter('huyen');
+                    let selectedWard = getUrlParameter('xa');
+
                     $.each(response, function (index, value) {
-                        let newState = new Option(value.post_title, value.ID);
-                        $(exportDataSelector).append(newState);
+                        if (selectedDistrict == value.ID || selectedWard == value.ID) {
+                            let newState = new Option(value.post_title, value.ID, false, true);
+                            $(exportDataSelector).append(newState);
+                        } else {
+                            let newState = new Option(value.post_title, value.ID, false, false);
+                            $(exportDataSelector).append(newState);
+                        }
                     });
                 } else {
                     $(exportDataSelector).find('option').remove();
@@ -55,11 +63,11 @@ jQuery(document).ready(function ($) {
         });
     }
 
-    $('.select-subproject').change(function () {
+    $('.subproject-form .select-subproject').change(function () {
         location.href = $(this).val();
     });
 
-    $('.select-action').change(function () {
+    $('.subproject-form .select-action').change(function () {
         location.href = $(this).val();
     });
 
@@ -122,4 +130,37 @@ jQuery(document).ready(function ($) {
             }
         });
     });
+
+    let getUrlParameter = function getUrlParameter(sParam) {
+        let sPageURL = window.location.search.substring(1),
+            sURLVariables = sPageURL.split('&'),
+            sParameterName,
+            i;
+
+        for (i = 0; i < sURLVariables.length; i++) {
+            sParameterName = sURLVariables[i].split('=');
+
+            if (sParameterName[0] === sParam) {
+                return (sParameterName[1] === undefined || sParameterName[1] === 'null') ? true : decodeURIComponent(sParameterName[1]);
+            }
+        }
+        return false;
+    };
+
+    if ($('.select-province').val()) {
+        let url = '/wp-json/ash/v1/provinces/districts';
+        let data = {province: $('.select-province').val()};
+        let exportDataSelector = '.select-district';
+        let otherSelector = '.select-wards';
+
+        callAjax(url, data, exportDataSelector, otherSelector);
+
+        if (getUrlParameter('huyen')) {
+            url = '/wp-json/ash/v1/provinces/districts/wards';
+            data = {district: getUrlParameter('huyen')};
+            exportDataSelector = '.select-wards';
+
+            callAjax(url, data, exportDataSelector);
+        }
+    }
 });
