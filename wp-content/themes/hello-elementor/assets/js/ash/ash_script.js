@@ -56,6 +56,70 @@ jQuery(document).ready(function ($) {
     }
 
     $('.select-subproject').change(function () {
-       location.href = $(this).val();
+        location.href = $(this).val();
+    });
+
+    $('.select-action').change(function () {
+        location.href = $(this).val();
+    });
+
+    $('.btn-filter-project-directory').click(function () {
+        let province = $('.project-directory .select-province').val();
+        let district = $('.project-directory .select-district').val();
+        let wards = $('.project-directory .select-wards').val();
+        let projectId = $('.project-directory .project-id').val();
+        let actionId = $('.project-directory .action-id').val();
+
+        let project_directory_location = province;
+
+        if (district && district != 'null') {
+            project_directory_location = district;
+        }
+
+        if (wards && wards != 'null') {
+            project_directory_location = wards;
+        }
+
+        let data = {
+            project: projectId,
+            action: actionId,
+            location: project_directory_location
+        }
+
+        $.ajax({
+            type: "get",
+            dataType: "json",
+            url: '/wp-json/ash/v1/enterprise',
+            data: data,
+            context: this,
+            beforeSend: function () {
+                $('#enterpriseList').empty();
+            },
+            success: function (response) {
+                let template = $('.template-enterprise-item');
+                if (response.length == 0) {
+                    $('#enterpriseList').append('<div class="col-12 no-result">Không tìm thấy đơn vị nào!</div>');
+                    return;
+                }
+
+                response.forEach(item => {
+                    try {
+                        let newItem = template.clone();
+                        newItem.find('.logo').attr('src', item.logo);
+                        newItem.find('.enterprise-title').html(item.post_title);
+                        newItem.find('.address').html(item.acf.address.label + ': ' + item.acf.address.value);
+                        newItem.find('.enterprise-phone').html(item.acf.enterprise_phone.label + ': ' + item.acf.enterprise_phone.value);
+                        newItem.find('.enterprise-hotline').html(item.acf.enterprise_hotline.label + ': ' + item.acf.enterprise_hotline.value);
+                        newItem.find('.enterprise-email').html(item.acf.enterprise_email.label + ': ' + item.acf.enterprise_email.value);
+                        newItem.find('.enterprise-website').html(item.acf.enterprise_website.label + ': ' + item.acf.enterprise_website.value);
+                        newItem.show();
+                        console.log(newItem);
+                        $('#enterpriseList').append(newItem);
+                    } catch (e) {
+                        console.error(e.message)
+                    }
+                });
+            }
+        });
     });
 });

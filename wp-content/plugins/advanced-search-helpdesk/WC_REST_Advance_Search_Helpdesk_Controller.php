@@ -83,6 +83,15 @@ class WC_REST_Advance_Search_Helpdesk_Controller
                 'callback' => array($this, 'get_project_actions'),
             )
         );
+
+        register_rest_route(
+            $this->namespace,
+            '/enterprise',
+            array(
+                'methods' => 'GET',
+                'callback' => array($this, 'get_enterprise'),
+            )
+        );
     }
 
     public function get_helpdesk_contents(\WP_REST_Request $request)
@@ -301,6 +310,57 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         }
 
         return get_posts($args);
+    }
+
+    public function get_enterprise(\WP_REST_Request $request)
+    {
+        $meta_query = array();
+
+        if (!empty($request->get_param('project'))) {
+            $meta_query[] = array(
+                'key' => 'enterprise_project',
+                'value' => $request->get_param('project'),
+            );
+        }
+
+        if (!empty($request->get_param('action'))) {
+            $meta_query[] = array(
+                'key' => 'enterprise_action',
+                'value' => $request->get_param('action'),
+            );
+        }
+
+        if (!empty($request->get_param('location'))) {
+            $meta_query[] = array(
+                'key' => 'location',
+                'value' => $request->get_param('location'),
+                'compare' => 'LIKE',
+            );
+        }
+
+        $args = array(
+            'numberposts' => -1,
+            'post_type' => 'project_directory',
+        );
+
+        if (sizeof($meta_query) > 0) {
+            $meta_query['relation'] = 'AND';
+            $args['meta_query'] = $meta_query;
+        }
+
+        $project_directory_list = get_posts($args);
+        $enterprise_list = array();
+        foreach ($project_directory_list as $directory) {
+            if (empty($enterprise_list[$directory->ID])) {
+                $enterprise = get_field('enterprise_directory', $directory);
+                $item = (array)$enterprise;
+                $item['acf'] = get_field_objects($enterprise->ID);
+                $item['logo'] = get_the_post_thumbnail_url($enterprise->ID);
+                $enterprise_list[] = $item;
+            }
+        }
+
+        return $enterprise_list;
     }
 }
 
