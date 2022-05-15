@@ -277,5 +277,9 @@ function api_bearer_auth_unauthenticated_urls_filter($custom_urls, $request_meth
 
 function wpbootstrap_enqueue_styles() {
     wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/assets/css/bootstrap.min.css');
+
+    if (is_single()) {
+        wp_enqueue_style( 'single_project-style', get_template_directory_uri() . '/assets/css/single_project.css');
+    }
 }
 add_action('wp_enqueue_scripts', 'wpbootstrap_enqueue_styles');

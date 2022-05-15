@@ -1,26 +1,16 @@
 <?php
-$children_project = get_posts(array(
-    'post_type' => 'project',
+$children_actions = get_posts(array(
+    'post_type' => 'project_action',
     'posts_per_page' => -1,
     'post_parent' => get_the_ID(),
 ));
-
-$project_actions = get_posts(array(
-    'numberposts' => -1,
-    'post_type' => 'project_action',
-    'meta_key' => 'project',
-    'meta_value' => get_the_ID()
-));
-
 $helpdesk_contents = get_posts(array(
     'numberposts' => -1,
     'post_type' => 'helpdesk',
-    'meta_key' => 'helpdesk_project',
+    'meta_key' => 'helpdesk_action',
     'meta_value' => get_the_ID()
 ));
-
 $project_action_ids = array();
-
 ?>
 <?php get_header(); ?>
     <section class="container project-title">
@@ -31,36 +21,17 @@ $project_action_ids = array();
         </div>
         <form class="subproject-form" action="" method="get">
             <div class="row subproject-form">
-                <?php if (sizeof($children_project) > 0) { ?>
+                <?php if (sizeof($children_actions) > 0) { ?>
                     <div class="col-12 col-md-4 col-lg-3">
-                        <?= __('Chọn tiểu dự án cần tra cứu'); ?>
+                        <?= __('Chọn nội dung chi tiết'); ?>
                     </div>
 
                     <div class="col-12 col-md-8 col-lg-9">
                         <div class="form-group mb-0">
                             <select name="subproject" class="form-control form-control-sm select-subproject">
-                                <option value="">+ Chọn tiểu dự án</option>
-                                <?php foreach ($children_project as $child_project) { ?>
-                                    <option value="<?= get_the_permalink($child_project); ?>"><?= get_the_title($child_project) ?></option>
-                                <?php } ?>
-                            </select>
-                        </div>
-                    </div>
-                <?php } ?>
-
-                <?php if (sizeof($project_actions) > 0) { ?>
-                    <div class="col-12 col-md-4 col-lg-3">
-                        <?= __('Chọn hoạt động cần tra cứu'); ?>
-                    </div>
-                    <div class="col-12 col-md-8 col-lg-9">
-                        <div class="form-group mb-0">
-                            <select name="action" class="form-control form-control-sm select-action">
-                                <option value="">+ Chọn hoạt động</option>
-                                <?php foreach ($project_actions as $project_action) { ?>
-                                    <?php if (!in_array($project_action->ID, $project_action_ids)) {
-                                        $project_action_ids[] = $project_action->ID;
-                                    } ?>
-                                    <option value="<?= get_the_permalink($project_action); ?>"><?= get_the_title($project_action) ?></option>
+                                <option value="">+ Chọn nội dung chi tiết</option>
+                                <?php foreach ($children_actions as $children_action) { ?>
+                                    <option value="<?= get_the_permalink($children_action); ?>"><?= get_the_title($children_action); ?></option>
                                 <?php } ?>
                             </select>
                         </div>
@@ -77,27 +48,27 @@ $project_action_ids = array();
             </div>
         </div>
         <div class="row">
-            <?php $project_metadata = get_field_objects(get_the_ID()); ?>
+            <?php $action_metadata = get_field_objects(get_the_ID()); ?>
             <div class="col-12 col-md-8 col-lg-7">
                 <p class="project-target">
-                    <label><?= $project_metadata['project_target']['label']; ?></label>
-                    <?= $project_metadata['project_target']['value']; ?>
+                    <label><?= $action_metadata['action_target']['label']; ?></label>
+                    <?= $action_metadata['action_target']['value']; ?>
                 </p>
 
-                <p class="project-subject">
-                    <label><?= $project_metadata['project_subject']['label']; ?></label>
-                    <?= $project_metadata['project_subject']['value']; ?>
+                <p class="project-target">
+                    <label><?= $action_metadata['action_subject']['label']; ?></label>
+                    <?= $action_metadata['action_subject']['value']; ?>
                 </p>
 
-                <p class="project-contents">
+                <p class="project-target">
                     <label><?= __('Nội dung'); ?></label>
                     <?= get_the_content(); ?>
                 </p>
 
-                <p class="project-organizational">
-                    <label><?= $project_metadata['project_organizational']['label']; ?></label>
+                <p class="project-target">
+                    <label><?= $action_metadata['action_organizational']['label']; ?></label>
                 <ul>
-                    <?php foreach ($project_metadata['project_organizational']['value'] as $organizational) : ?>
+                    <?php foreach ($action_metadata['action_organizational']['value'] as $organizational) : ?>
                         <li>
                             <a href="<?= get_the_permalink($organizational); ?>"><?= get_the_title($organizational); ?></a>
                         </li>
@@ -105,22 +76,22 @@ $project_action_ids = array();
                 </ul>
                 </p>
 
-                <p class="project-construction">
-                    <label><?= $project_metadata['project_construction']['label']; ?></label>
+                <p class="project-target">
+                    <label><?= $action_metadata['action_construction']['label']; ?></label>
                 <ul>
-                    <?php foreach ($project_metadata['project_construction']['value'] as $construction) : ?>
+                    <?php foreach ($action_metadata['action_construction']['value'] as $construction) : ?>
                         <li><a href="<?= get_the_permalink($construction); ?>"><?= get_the_title($construction); ?></a>
                         </li>
                     <?php endforeach; ?>
                 </ul>
                 </p>
             </div>
-            <?php if (!empty($project_metadata['project_source_of_capital']['value'])): ?>
-            <div class="col-12 col-md-4 col-lg-5">
-                <img class="project-source-of-capital-img"
-                     src="<?= $project_metadata['project_source_of_capital']['value']; ?>"
-                     alt="<?= $project_metadata['project_source_of_capital']['label']; ?>">
-            </div>
+            <?php if(!empty($action_metadata['action_source_of_capital']['value'])): ?>
+                <div class="col-12 col-md-4 col-lg-5">
+                    <img class="project-source-of-capital-img"
+                         src="<?= $action_metadata['action_source_of_capital']['value']; ?>"
+                         alt="<?= $action_metadata['action_source_of_capital']['label']; ?>">
+                </div>
             <?php endif;?>
         </div>
         <div class="row">
@@ -138,8 +109,8 @@ $project_action_ids = array();
         </div>
         <div class="row">
             <div class="col-12">
-                <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => true));?>
-                <?php if(sizeof($helpdesk_contents) > 0) : ?>
+                <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => true)); ?>
+                <?php if(sizeof($helpdesk_contents) > 0): ?>
                     <?php foreach ($helpdesk_categories as $helpdesk_category) { ?>
                         <p class="helpdesk-category"><?= $helpdesk_category->name; ?></p>
                         <ul class="helpdesk-list">
@@ -159,7 +130,7 @@ $project_action_ids = array();
     <section class="container project-directory">
         <div class="row">
             <div class="col-12">
-                <h2 class="title"><?= __('Tìm liên hệ'); ?></h2>
+                <h2 class="title"><?= __('Thông tin liên hệ'); ?></h2>
             </div>
         </div>
 
@@ -226,7 +197,7 @@ $project_action_ids = array();
             <?php } ?>
 
         </div>
-        <div class="template-enterprise-item row" style="display: none;">
+        <div class="template-enterprise-item d-flex w-100" style="display: none;">
             <div class="col-12 col-md-4 col-lg-3">
                 <img class="logo" src="">
             </div>

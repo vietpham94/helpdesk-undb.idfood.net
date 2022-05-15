@@ -577,3 +577,10 @@ li {
   font-size: 100%;
   vertical-align: baseline;
   background: transparent; }
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  padding: 0.1rem 0.8rem!important;
+  font-size: .875rem !important;
+  line-height: 1.5 !important;
+  border-radius: 0.2rem !important;
+}
