@@ -259,11 +259,11 @@ jQuery(document).ready(function ($) {
                         let newItem = template.clone();
                         newItem.find('.logo').attr('src', item.logo);
                         newItem.find('.enterprise-title').html(item.post_title);
-                        newItem.find('.address').html(item.acf.address.label + ': ' + item.acf.address.value);
-                        newItem.find('.enterprise-phone').html(item.acf.enterprise_phone.label + ': ' + item.acf.enterprise_phone.value);
-                        newItem.find('.enterprise-hotline').html(item.acf.enterprise_hotline.label + ': ' + item.acf.enterprise_hotline.value);
-                        newItem.find('.enterprise-email').html(item.acf.enterprise_email.label + ': ' + item.acf.enterprise_email.value);
-                        newItem.find('.enterprise-website').html(item.acf.enterprise_website.label + ': ' + item.acf.enterprise_website.value);
+                        newItem.find('.address').html('Địa chỉ: ' + item.acf.address);
+                        newItem.find('.enterprise-phone').html('Điện thoại: ' + item.acf.enterprise_phone);
+                        newItem.find('.enterprise-hotline').html('Đường dây nóng: ' + item.acf.enterprise_hotline);
+                        newItem.find('.enterprise-email').html('Email: ' + item.acf.enterprise_email);
+                        newItem.find('.enterprise-website').html('Website: ' + item.acf.enterprise_website);
                         newItem.css('display', 'flex');
                         newItem.css('flex-wrap', 'wrap');
                         newItem.css('width', '100%');
