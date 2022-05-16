@@ -89,25 +89,49 @@ function search_result_shortcode($args, $content)
 
     if (!empty($_GET['tinh']) && empty($_GET['huyen']) && empty($_GET['xa'])) {
         $meta_query[] = array(
-            'key' => 'helpdesk_location',
-            'value' => $_GET['tinh'],
-            'compare' => 'IN',
+            'relation' => 'OR',
+            array(
+                'key' => 'helpdesk_location',
+                'value' => $_GET['tinh'],
+                'compare' => 'LIKE',
+            ),
+            array(
+                'key' => 'helpdesk_location',
+                'value' => '',
+                'compare' => '=',
+            ),
         );
     }
 
     if (!empty($_GET['tinh']) && !empty($_GET['huyen']) && empty($_GET['xa'])) {
         $meta_query[] = array(
-            'key' => 'helpdesk_location',
-            'value' => $_GET['huyen'],
-            'compare' => 'IN',
+            'relation' => 'OR',
+            array(
+                'key' => 'helpdesk_location',
+                'value' => $_GET['huyen'],
+                'compare' => 'LIKE',
+            ),
+            array(
+                'key' => 'helpdesk_location',
+                'value' => '',
+                'compare' => '=',
+            ),
         );
     }
 
     if (!empty($_GET['tinh']) && !empty($_GET['huyen']) && !empty($_GET['xa'])) {
         $meta_query[] = array(
-            'key' => 'helpdesk_location',
-            'value' => $_GET['xa'],
-            'compare' => 'IN',
+            'relation' => 'OR',
+            array(
+                'key' => 'helpdesk_location',
+                'value' => $_GET['xa'],
+                'compare' => 'LIKE',
+            ),
+            array(
+                'key' => 'helpdesk_location',
+                'value' => '',
+                'compare' => '=',
+            ),
         );
     }
 

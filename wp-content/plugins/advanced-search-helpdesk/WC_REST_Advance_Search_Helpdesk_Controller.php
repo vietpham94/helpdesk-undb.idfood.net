@@ -41,6 +41,15 @@ class WC_REST_Advance_Search_Helpdesk_Controller
 
         register_rest_route(
             $this->namespace,
+            '/helpdesk-html',
+            array(
+                'methods' => 'GET',
+                'callback' => array($this, 'get_helpdesk_html'),
+            )
+        );
+
+        register_rest_route(
+            $this->namespace,
             '/project-directories',
             array(
                 'methods' => 'GET',
@@ -166,25 +175,49 @@ class WC_REST_Advance_Search_Helpdesk_Controller
 
         if (!empty($request->get_param('province')) && empty($request->get_param('district')) && empty($request->get_param('ward'))) {
             $meta_query[] = array(
-                'key' => 'helpdesk_location',
-                'value' => $request->get_param('province'),
-                'compare' => 'IN',
+                'relation' => 'OR',
+                array(
+                    'key' => 'helpdesk_location',
+                    'value' => $request->get_param('province'),
+                    'compare' => 'LIKE',
+                ),
+                array(
+                    'key' => 'helpdesk_location',
+                    'value' => '',
+                    'compare' => '=',
+                ),
             );
         }
 
         if (!empty($request->get_param('province')) && !empty($request->get_param('district')) && empty($request->get_param('ward'))) {
             $meta_query[] = array(
-                'key' => 'helpdesk_location',
-                'value' => $request->get_param('district'),
-                'compare' => 'IN',
+                'relation' => 'OR',
+                array(
+                    'key' => 'helpdesk_location',
+                    'value' => $request->get_param('district'),
+                    'compare' => 'LIKE',
+                ),
+                array(
+                    'key' => 'helpdesk_location',
+                    'value' => '',
+                    'compare' => '=',
+                ),
             );
         }
 
         if (!empty($request->get_param('province')) && !empty($request->get_param('district')) && !empty($request->get_param('ward'))) {
             $meta_query[] = array(
-                'key' => 'helpdesk_location',
-                'value' => $request->get_param('wards'),
-                'compare' => 'IN',
+                'relation' => 'OR',
+                array(
+                    'key' => 'helpdesk_location',
+                    'value' => $request->get_param('ward'),
+                    'compare' => 'LIKE',
+                ),
+                array(
+                    'key' => 'helpdesk_location',
+                    'value' => '',
+                    'compare' => '=',
+                ),
             );
         }
 
@@ -216,6 +249,23 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $result[] = $item;
         }
         return $result;
+    }
+
+    public function get_helpdesk_html(\WP_REST_Request $request)
+    {
+        if (empty($request->get_param('id'))) {
+            return '';
+        }
+
+        $contentElementor = "";
+
+        if (class_exists("\\Elementor\\Plugin")) {
+            $post_ID = $request->get_param("id");
+
+            $pluginElementor = \Elementor\Plugin::instance();
+            $contentElementor = $pluginElementor->frontend->get_builder_content($post_ID, true);
+        }
+        return $contentElementor;
     }
 
     public function get_project_directories(\WP_REST_Request $request)
@@ -466,11 +516,14 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             );
         }
 
+        if (!empty($request->get_param('search'))) {
+            $s = $request->get_param('search');
+        }
+
         $args = array(
             'numberposts' => !empty($request->get_param('numberposts')) ? $request->get_param('numberposts') : -1,
             'post_type' => 'project_directory',
             'paged' => !empty($request->get_param('page')) ? $request->get_param('page') : 1,
-            's' => !empty($request->get_param('search')) ? $request->get_param('search') : '',
         );
 
         if (sizeof($meta_query) > 0) {
@@ -492,10 +545,12 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             if (!empty($exist_location) || empty($location)) {
                 $enterprise = get_field('enterprise_directory', $directory);
                 $item = (array)$enterprise;
-                $item['acf'] = get_fields($enterprise->ID);
-                $item['position'] = get_field('role', $directory->ID);
-                $item['logo'] = get_the_post_thumbnail_url($enterprise->ID);
-                $enterprise_list[] = $item;
+                if (empty($s) || str_contains($enterprise->post_title, $s)) {
+                    $item['acf'] = get_fields($enterprise->ID);
+                    $item['position'] = get_field('role', $directory->ID);
+                    $item['logo'] = get_the_post_thumbnail_url($enterprise->ID);
+                    $enterprise_list[] = $item;
+                }
             }
         }
         return $enterprise_list;
