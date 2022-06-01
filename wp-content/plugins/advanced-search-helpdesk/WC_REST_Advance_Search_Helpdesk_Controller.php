@@ -501,18 +501,17 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $location = $request->get_param('location');
         }
 
-        if (!empty($request->get_param('position')) && $request->get_param('position') != 0) {
+        if (!empty($request->get_param('position'))) {
             $meta_query[] = array(
-                'key' => 'position',
+                'key' => 'role',
                 'value' => $request->get_param('position'),
-                'compare' => 'LIKE',
             );
         }
 
         if (!empty($request->get_param('subject_type'))) {
             $meta_query[] = array(
                 'key' => 'project_directory_subject_type',
-                'value' => $_GET['doi_tuong'],
+                'value' => $_GET['subject_type'],
             );
         }
 
