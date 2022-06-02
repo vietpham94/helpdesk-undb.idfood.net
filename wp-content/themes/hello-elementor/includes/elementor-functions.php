@@ -174,6 +174,14 @@ add_action('wp_enqueue_scripts', function () {
         true
     );
 
+    wp_enqueue_script(
+        'bootstrap',
+        get_template_directory_uri() . '/assets/js/bootstrap.min.js',
+        ['jquery'],
+        '1.0.0',
+        true
+    );
+
     \Elementor\Plugin::$instance->kits_manager->frontend_before_enqueue_styles();
 });
 /**

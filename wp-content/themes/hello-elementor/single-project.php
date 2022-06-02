@@ -3,6 +3,9 @@ $children_project = get_posts(array(
     'post_type' => 'project',
     'posts_per_page' => -1,
     'post_parent' => get_the_ID(),
+    'meta_key' => 'project_number',
+    'orderby' => 'meta_value',
+    'order' => 'ASC'
 ));
 
 $project_actions = get_posts(array(
@@ -26,7 +29,10 @@ $project_action_ids = array();
     <section class="container project-title">
         <div class="row">
             <div class="col-12">
-                <h2 class="title"><?= get_the_title(); ?></h2>
+                <h2 class="title">
+                    <?= get_field('project_number', get_the_ID()) ?> -
+                    <?= get_the_title(); ?>
+                </h2>
             </div>
         </div>
         <form class="subproject-form" action="" method="get">
@@ -41,7 +47,10 @@ $project_action_ids = array();
                             <select name="subproject" class="form-control form-control-sm select-subproject">
                                 <option value="">+ Chọn tiểu dự án</option>
                                 <?php foreach ($children_project as $child_project) { ?>
-                                    <option value="<?= get_the_permalink($child_project); ?>"><?= get_the_title($child_project) ?></option>
+                                    <option value="<?= get_the_permalink($child_project); ?>">
+                                        <?= get_field('project_number', $child_project->ID) ?> -
+                                        <?= get_the_title($child_project) ?>
+                                    </option>
                                 <?php } ?>
                             </select>
                         </div>
@@ -116,14 +125,14 @@ $project_action_ids = array();
                 </p>
             </div>
             <?php if (!empty($project_metadata['project_source_of_capital']['value'])): ?>
-            <div class="col-12 col-md-4 col-lg-5">
-                <img class="project-source-of-capital-img"
-                     src="<?= $project_metadata['project_source_of_capital']['value']; ?>"
-                     alt="<?= $project_metadata['project_source_of_capital']['label']; ?>">
-            </div>
-            <?php endif;?>
+                <div class="col-12 col-md-4 col-lg-5">
+                    <img class="project-source-of-capital-img"
+                         src="<?= $project_metadata['project_source_of_capital']['value']; ?>"
+                         alt="<?= $project_metadata['project_source_of_capital']['label']; ?>">
+                </div>
+            <?php endif; ?>
         </div>
-        <div class="row">
+        <div class="row d-none">
             <div class="col-12 text-center">
                 <button type="button"><?= __('Thông tin chi tiết dự án'); ?></button>
             </div>
@@ -138,20 +147,21 @@ $project_action_ids = array();
         </div>
         <div class="row">
             <div class="col-12">
-                <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => true));?>
-                <?php if(sizeof($helpdesk_contents) > 0) : ?>
+                <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => true)); ?>
+                <?php if (sizeof($helpdesk_contents) > 0) : ?>
                     <?php foreach ($helpdesk_categories as $helpdesk_category) { ?>
                         <p class="helpdesk-category"><?= $helpdesk_category->name; ?></p>
                         <ul class="helpdesk-list">
                             <?php foreach ($helpdesk_contents as $content) { ?>
                                 <?php $hd_cat = get_the_terms($content->ID, 'helpdesk_category'); ?>
                                 <?php if (in_array($helpdesk_category, $hd_cat)) { ?>
-                                    <li><a href="<?= get_the_permalink($content) ?>"><?= $content->post_title; ?></a></li>
+                                    <li><a href="<?= get_the_permalink($content) ?>"><?= $content->post_title; ?></a>
+                                    </li>
                                 <?php } ?>
                             <?php }; ?>
                         </ul>
                     <?php } ?>
-                <?php endif;?>
+                <?php endif; ?>
             </div>
         </div>
     </section>
@@ -226,7 +236,7 @@ $project_action_ids = array();
             <?php } ?>
 
         </div>
-        <div class="template-enterprise-item row" style="display: none;">
+        <div class="template-enterprise-item" style="display: none;">
             <div class="col-12 col-md-4 col-lg-3">
                 <img class="logo" src="">
             </div>
@@ -241,6 +251,64 @@ $project_action_ids = array();
                     <span class="enterprise-email"></span>
                     <span class="enterprise-website"></span>
                 </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="container faq">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="title"><?= __('Câu hỏi thường gặp'); ?></h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <?php
+                $faq_args = array(
+                    'post_type' => 'faq',
+                    'page' => 1,
+                    'numberposts' => 10,
+                    'meta_key' => 'project_id',
+                    'meta_value' => get_the_ID(),
+                );
+
+                $faqs = get_posts($faq_args);
+                ?>
+                <div class="accordion" id="accordionFAQ">
+                    <?php foreach ($faqs as $key => $faq) : ?>
+                        <div class="card">
+                            <div class="card-header" id="heading-<?= $key ?>">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                            data-target="#collapse-<?= $key ?>" aria-expanded="false"
+                                            aria-controls="collapse-<?= $key ?>">
+                                        <?= get_the_title($faq) ?>
+                                    </button>
+                                </h2>
+                            </div>
+
+                            <div id="collapse-<?= $key ?>" class="collapse" aria-labelledby="heading-<?= $key ?>"
+                                 data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <?= get_the_content(null, false, $faq); ?>
+
+                                    <?php $attached = get_field('attached', $faq->ID); ?>
+                                    <?php if (!empty($attached)): ?>
+                                        <p class="attached-title font-weight-bold"><?= __('Các tài liệu đính kèm') ?></p>
+                                        <ul class="attached-list">
+                                        <?php foreach ($attached as $fileItem): ?>
+                                            <li>
+                                                <a href="<?= $fileItem['url']; ?>" download><?= $fileItem['filename']; ?></a>
+                                            </li>
+                                        <?php endforeach; ?>
+                                        </ul>
+                                    <?php endif; ?>
+                                </div>
+                            </div>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
             </div>
         </div>
     </section>

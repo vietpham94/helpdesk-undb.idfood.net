@@ -18,6 +18,11 @@ jQuery(document).ready(function ($) {
         return false;
     };
 
+    // Autofocus to search input when select2 open
+    $(document).on('select2:open', () => {
+        document.querySelector('.select2-search__field').focus();
+    });
+
     /**
      *  Province, district, ward ----------------------------------------------------------
      */
@@ -136,8 +141,23 @@ jQuery(document).ready(function ($) {
     }
 
     $('.select-project').change(function () {
+        if ($('.select-subproject').length > 0) {
+            getListSubproject($(this).val());
+            getListActionByProjectSubproject($(this).val());
+        }
+    });
+
+    function getListSubproject(projectId) {
+        if (!projectId) {
+            return;
+        }
+
         let url = '/wp-json/wp/v2/projects';
-        let data = {parent: $(this).val()};
+        let data = {
+            parent: projectId,
+            'filter[orderby]': 'project_number',
+            'order': 'asc'
+        };
         $.ajax({
             type: "get",
             dataType: "json",
@@ -159,8 +179,8 @@ jQuery(document).ready(function ($) {
                     $('.select-subproject').append(option);
 
                     $.each(response, function (index, value) {
-
-                        let newState = new Option(value.title.rendered, value.id, false, selectedSubPj == value.id);
+                        let optionTitle = (value.acf && value.acf.project_number) ? value.acf.project_number + ' - ' + value.title.rendered : value.title.rendered;
+                        let newState = new Option(optionTitle, value.id, false, selectedSubPj == value.id);
                         $('.select-subproject').append(newState);
 
                     });
@@ -175,12 +195,19 @@ jQuery(document).ready(function ($) {
                 }
             }
         });
-    });
+    }
 
     $('.select-subproject').change(function (e) {
+        getListActionByProjectSubproject($(this).val());
+    });
+
+    function getListActionByProjectSubproject(projectId) {
+        if (!projectId) {
+            return;
+        }
+
         let url = '/wp-json/ash/v1/project_actions';
-        console.log(e);
-        let data = {project: $(this).val()};
+        let data = {project: projectId};
         $.ajax({
             type: "get",
             dataType: "json",
@@ -213,7 +240,7 @@ jQuery(document).ready(function ($) {
                 }
             }
         });
-    });
+    }
 
     $('.btn-filter-project-directory').click(function () {
         let province = $('.project-directory .select-province').val();
@@ -313,4 +340,132 @@ jQuery(document).ready(function ($) {
         $('.select-project').trigger('change', getUrlParameter('du_an'));
     }
 
+    /**
+     * FAQ-----------------------------------------------------------------------------------
+     */
+    if ($('.faq-search-form').length > 0) {
+        getSearchFaq();
+    }
+
+    if ($('.faq-select-action').length > 0) {
+        $('.faq-select-action').select2();
+    }
+
+    $('.select-project').change(function () {
+        if ($('.faq-select-action').length > 0) {
+            getListActionByProject($(this).val());
+        }
+    });
+
+    function getListActionByProject(projectId) {
+        if (!projectId) {
+            return;
+        }
+
+        let url = '/wp-json/ash/v1/project_actions';
+        let data = {'project': projectId};
+
+        $.ajax({
+            type: "get",
+            dataType: "json",
+            url: url,
+            data: data,
+            context: this,
+            beforeSend: function () {
+                $('.faq-select-action').find('option').remove();
+                let option = new Option('Đang tải dữ liệu...', '');
+                $('.faq-select-action').append(option);
+            },
+            success: function (response) {
+                if (response && response.length > 0) {
+                    $('.faq-select-action').find('option').remove();
+
+                    let option = new Option('+ Chọn hoạt động', '');
+                    $('.faq-select-action').append(option);
+
+                    $.each(response, function (index, value) {
+                        let newAction = new Option(value.post_title, value.ID, false, false);
+                        $('.faq-select-action').append(newAction);
+                    });
+
+                    $('.faq-select-action').select2();
+                } else {
+                    $('.faq-select-action').find('option').remove();
+                }
+            }
+        });
+    }
+
+    $('.faq-search-form').submit(function () {
+        $('.faq-page').val(1);
+        getSearchFaq();
+        return false;
+    });
+
+    function getSearchFaq(isLoadMore = false) {
+        let url = '/wp-json/ash/v1/faq';
+        let data = $('.faq-search-form').serialize();
+
+        $.ajax({
+            type: "get",
+            dataType: "json",
+            url: url,
+            data: data,
+            context: this,
+            beforeSend: function () {
+                if (!isLoadMore) {
+                    $('#accordionFAQ').find('.faq-card').remove();
+                }
+                $('.faq-load-more').prop('disabled', false);
+                $('.faq-loading').show();
+                $('.no-faq-search-result').hide();
+            },
+            success: function (response) {
+                $('.faq-loading').hide();
+                if (response && response.length > 0) {
+                    let faqTemplate = $('.faq-card-template');
+                    $.each(response, function (index, value) {
+                        try {
+                            let newItem = faqTemplate.clone();
+                            newItem.removeClass('faq-card-template');
+                            newItem.addClass('faq-card');
+                            newItem.find('.card-header').attr('id', 'heading-' + value.ID);
+                            newItem.find('.card-header a').html(value.post_title);
+                            newItem.find('.card-header a').attr('data-target', '#collapse-' + value.ID);
+                            newItem.find('.card-header a').attr('aria-controls', 'collapse-' + value.ID);
+                            newItem.find('.answer-content').html(value.post_content);
+                            newItem.find('.answer').attr('id', 'collapse-' + value.ID);
+                            newItem.find('.answer').attr('aria-labelledby', 'heading-' + value.ID);
+                            if (value.acf && value.acf.attached) {
+                                $.each(value.acf.attached, function (i, attached) {
+                                    let attachedItem = '<li><a href="' + attached.url + '" download>' + attached.filename + '</a></li>';
+                                    newItem.find('ul.attached-list').append(attachedItem);
+                                });
+                            }
+                            newItem.show();
+                            $('#accordionFAQ').append(newItem);
+                        } catch (e) {
+                            console.error(e.message)
+                        }
+                    });
+
+                    if (response.length < 10) {
+                        $('.faq-load-more').prop('disabled', true);
+                    }
+                } else {
+                    if (!isLoadMore) {
+                        $('#accordionFAQ').find('.faq-card').remove();
+                    }
+                    $('.no-faq-search-result').show();
+                    $('.faq-load-more').prop('disabled', true);
+                }
+            }
+        });
+    }
+
+    $('.faq-load-more').click(function () {
+        let page = $('.faq-page').val();
+        $('.faq-page').val(+page + 1);
+        getSearchFaq(true);
+    });
 });

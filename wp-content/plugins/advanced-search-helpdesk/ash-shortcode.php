@@ -240,6 +240,34 @@ function project_actions_selector($args, $content)
 //[helpdesk_advance_subject_selector_project_action]
 add_shortcode('helpdesk_advance_subject_selector_project_action', 'project_actions_selector');
 
+function projects_selector($args, $content)
+{ ?>
+    <div class="form-group mb-0">
+        <?php $projects = get_posts(array(
+            'numberposts' => -1,
+            'post_type' => 'project',
+            'hierarchical' => 1,
+            'meta_key' => 'project_number',
+            'orderby' => 'meta_value',
+            'order' => 'ASC'
+        )); ?>
+
+        <select name="project" class="form-control form-control-sm select-project">
+            <option value="">+ Chọn dự án</option>
+            <?php foreach ($projects as $project) { ?>
+                <option value="<?= $project->ID ?>">
+                    <?= !empty(get_field('project_number', $project->ID)) ? (get_field('project_number', $project->ID) . ' -') : ''; ?>
+                    <?= get_the_title($project) ?>
+                </option>
+            <?php } ?>
+        </select>
+    </div>
+    <?php
+}
+
+//[helpdesk_projects_selector]
+add_shortcode('helpdesk_projects_selector', 'projects_selector');
+
 function helpdesk_content_radio_group($agrs, $content)
 {
     ?>
@@ -323,7 +351,10 @@ function create_search_project_directory($args, $content)
                     <select name="du_an" class="form-control form-control-sm select-project">
                         <option value="">+ Chọn dự án</option>
                         <?php foreach ($projects as $project) : ?>
-                            <option value="<?= $project->ID ?>" <?= (isset($_GET['du_an']) && $_GET['du_an'] == $project->ID) ? 'selected' : '' ?>><?= get_the_title($project) ?></option>
+                            <option value="<?= $project->ID ?>" <?= (isset($_GET['du_an']) && $_GET['du_an'] == $project->ID) ? 'selected' : '' ?>>
+                                <?= !empty(get_field('project_number', $project->ID)) ? (get_field('project_number', $project->ID) . ' -') : ''; ?>
+                                <?= get_the_title($project) ?>
+                            </option>
                         <?php endforeach; ?>
                     </select>
                 </div>
@@ -701,4 +732,95 @@ function suggestions_form_shortcode($args, $content)
 
 //[helpdesk_suggestions_form]
 add_shortcode('helpdesk_suggestions_form', 'suggestions_form_shortcode');
+
+function faq_search_form_shortcode($args, $content)
+{ ?>
+    <form class="search-form faq-search-form" action="<?= !empty($args["action"]) ? $args["action"] : '' ?>"
+          method="GET">
+        <input type="hidden" class="faq-page" name="page" value="1"/>
+        <input type="hidden" name="numberposts" value="10"/>
+        <div class="row mb-2">
+            <div class="col-12 col-md-4 col-lg-2">
+                <span class="search-form-label"><?= __('Tìm kiếm') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-10">
+                <div class="form-group mb-0">
+                    <input type="text" class="form-control form-control-sm" id="search" name="search"
+                           placeholder="Từ khóa tìm kiếm"/>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-2">
+            <div class="col-12 col-md-4 col-lg-2">
+                <span class="search-form-label"><?= __('Dự án/Tiểu dự án') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-10">
+                <?php echo do_shortcode('[helpdesk_projects_selector]'); ?>
+            </div>
+        </div>
+        <div class="row mb-2">
+            <div class="col-12 col-md-4 col-lg-2">
+                <span class="search-form-label"><?= __('Hoạt động') ?></span>
+            </div>
+            <div class="col-12 col-md-8 col-lg-10">
+                <select name="action" class="form-control form-control-sm faq-select-action">
+                    <option value="">+ Chọn hoạt động</option>
+                </select>
+            </div>
+        </div>
+        <div class="row mb-2 helpdesk-submit-search">
+            <div class="col-12 m-auto text-center">
+                <input type="submit" class="btn search-btn" value="Tìm kiếm" name="submit"/>
+            </div>
+        </div>
+    </form>
+    <?php
+}
+
+//[helpdesk_faq_search_form]
+add_shortcode('helpdesk_faq_search_form', 'faq_search_form_shortcode');
+
+function faq_search_result_shortcode($args, $content)
+{ ?>
+    <div class="row">
+        <div class="col-12">
+            <div class="accordion" id="accordionFAQ">
+                <div class="card faq-card-template" style="display: none">
+                    <div class="card-header" id="heading-00">
+                        <h2 class="mb-0">
+                            <a class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                               data-target="#collapse-00" aria-expanded="false" aria-controls="collapse-00">
+                            </a>
+                        </h2>
+                    </div>
+
+                    <div id="collapse-00" class="collapse answer" aria-labelledby="heading-00"
+                         data-parent="#accordionFAQ">
+                        <div class="card-body">
+                            <div class="answer-content"></div>
+                            <div class="attached">
+                                <p class="attached-title font-weight-bold">Các tài liệu đính kèm</p>
+                                <ul class="attached-list"></ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="loader faq-loading" style="display: none"></div>
+
+            <p class="no-faq-search-result" style="display: none">
+                Không có kết quà nào được tìm thấy.
+            </p>
+
+            <div class="pagination">
+                <button type="button" class="btn faq-load-more" name="load-more">Xem thêm</button>
+            </div>
+        </div>
+    </div>
+    <?php
+}
+
+//[helpdesk_faq_search_result]
+add_shortcode('helpdesk_faq_search_result', 'faq_search_result_shortcode');
 

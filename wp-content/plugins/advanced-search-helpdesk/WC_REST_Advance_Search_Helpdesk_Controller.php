@@ -20,7 +20,8 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         'project_directory',                  // Danh bạ dự án
         'suggestion',                         // Đánh giá, góp ý
         'helpdesk',                           // Nội dung hướng dẫn
-        'helpdesk_category'                   // Phân loại nội dung hướng dẫn (Taxonomy)
+        'helpdesk_category',                  // Phân loại nội dung hướng dẫn (Taxonomy)
+        'faq',                                // FAQ
     );
 
     public function __construct()
@@ -126,6 +127,15 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             array(
                 'methods' => 'POST',
                 'callback' => array($this, 'new_suggestion'),
+            )
+        );
+
+        register_rest_route(
+            $this->namespace,
+            '/faq',
+            array(
+                'methods' => 'GET',
+                'callback' => array($this, 'get_faq'),
             )
         );
     }
@@ -623,6 +633,65 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         $suggestion['acf'] = get_fields($suggestion_id);
 
         return $suggestion;
+    }
+
+    public function get_faq(\WP_REST_Request $request)
+    {
+        $args = array(
+            'post_type' => 'faq',
+            'paged' => 1,
+            'numberposts' => 10
+        );
+
+        if (!empty($request->get_param('page'))) {
+            $args['paged'] = $request->get_param('page');
+        }
+
+        if (!empty($request->get_param('numberposts'))) {
+            $args['numberposts'] = $request->get_param('numberposts');
+        }
+
+        if (!empty($request->get_param('search'))) {
+            $args['s'] = $request->get_param('search');
+        }
+
+        $meta_query = array();
+
+        if (!empty($request->get_param('project'))) {
+            $meta_query[] = array(
+                'key' => 'project_id',
+                'value' => $request->get_param('project'),
+            );
+        }
+
+        if (!empty($request->get_param('action'))) {
+            $meta_query[] = array(
+                'key' => 'action_id',
+                'value' => $request->get_param('project'),
+            );
+        }
+
+        if (!empty($request->get_param('helpdesk'))) {
+            $meta_query[] = array(
+                'key' => 'helpdesk_id',
+                'value' => $request->get_param('project'),
+            );
+        }
+
+        if (sizeof($meta_query) > 0) {
+            $meta_query['relation'] = 'OR';
+            $args['meta_query'] = $meta_query;
+        }
+
+        $result = get_posts($args);
+        $faqs = array();
+        foreach ($result as $item) {
+            $faq = (array)$item;
+            $faq['acf'] = get_fields($item->ID);
+            $faqs[] = $faq;
+        }
+
+        return $faqs;
     }
 }
 

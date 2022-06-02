@@ -216,4 +216,62 @@ $project_action_ids = array();
         </div>
     </section>
 
+    <section class="container faq">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="title"><?= __('Câu hỏi thường gặp'); ?></h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <?php
+                $faq_args = array(
+                    'post_type' => 'faq',
+                    'page' => 1,
+                    'numberposts' => 10,
+                    'meta_key' => 'action_id',
+                    'meta_value' => get_the_ID(),
+                );
+
+                $faqs = get_posts($faq_args);
+                ?>
+                <div class="accordion" id="accordionFAQ">
+                    <?php foreach ($faqs as $key => $faq) : ?>
+                        <div class="card">
+                            <div class="card-header" id="heading-<?= $key ?>">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                            data-target="#collapse-<?= $key ?>" aria-expanded="false"
+                                            aria-controls="collapse-<?= $key ?>">
+                                        <?= get_the_title($faq) ?>
+                                    </button>
+                                </h2>
+                            </div>
+
+                            <div id="collapse-<?= $key ?>" class="collapse" aria-labelledby="heading-<?= $key ?>"
+                                 data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <?= get_the_content(null, false, $faq); ?>
+
+                                    <?php $attached = get_field('attached', $faq->ID); ?>
+                                    <?php if (!empty($attached)): ?>
+                                        <p class="attached-title font-weight-bold"><?= __('Các tài liệu đính kèm') ?></p>
+                                        <ul class="attached-list">
+                                            <?php foreach ($attached as $fileItem): ?>
+                                                <li>
+                                                    <a href="<?= $fileItem['url']; ?>" download><?= $fileItem['filename']; ?></a>
+                                                </li>
+                                            <?php endforeach; ?>
+                                        </ul>
+                                    <?php endif; ?>
+                                </div>
+                            </div>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+        </div>
+    </section>
+
 <?php get_footer(); ?>
