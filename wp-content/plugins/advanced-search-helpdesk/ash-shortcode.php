@@ -3,6 +3,8 @@
 function create_search_form_shortcode($args, $content)
 { ?>
     <form class="search-form" action="<?= !empty($args["action"]) ? $args["action"] : '' ?>" method="get">
+        <input type="hidden" class="page" name="page" value="1" />
+        <input type="hidden" class="numberposts" name="numberposts" value="10" />
         <div class="row mb-2 subject">
             <div class="col-12 col-md-12 col-lg-3 pb-md-2">
                 <span class="search-form-label"><?= __('Quý vị là ai?') ?></span>
@@ -52,7 +54,7 @@ function create_search_form_shortcode($args, $content)
 add_shortcode('helpdesk_advance_search_form', 'create_search_form_shortcode');
 
 // Shortcode for search result
-function search_result_shortcode($args, $content)
+function helpdesk_search_result_shortcode($args, $content)
 {
     $args = array(
         'post_type' => 'helpdesk',
@@ -167,7 +169,37 @@ function search_result_shortcode($args, $content)
 }
 
 //[helpdesk_advance_search_result]
-add_shortcode('helpdesk_advance_search_result', 'search_result_shortcode');
+add_shortcode('helpdesk_advance_search_result', 'helpdesk_search_result_shortcode');
+
+// Shortcode for search result
+function ajax_helpdesk_search_result_shortcode($args, $content)
+{
+    ?>
+    <div class="helpdesk-search-result w-100">
+        <div class="helpdesk-list">
+            <div class="row helpdesk-item-template mb-3" style="display: none">
+                <div class="col-12 helpdesk-title">
+                    <h3 class="mb-0"><a href=""></a></h3>
+                </div>
+                <div class="col-12 helpdesk-excerpt"></div>
+            </div>
+        </div>
+
+        <div class="loader" style="display: none"></div>
+
+        <p class="no-search-result" style="display: none">
+            Không có kết quà nào được tìm thấy.
+        </p>
+
+        <div class="pagination">
+            <button type="button" class="btn load-more" name="load-more">Xem thêm</button>
+        </div>
+    </div>
+    <?php
+}
+
+//[helpdesk_advance_ajax_search_result]
+add_shortcode('helpdesk_advance_ajax_search_result', 'ajax_helpdesk_search_result_shortcode');
 
 function selection_address_advance($args, $content)
 {

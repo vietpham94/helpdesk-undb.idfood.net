@@ -30,6 +30,18 @@ jQuery(document).ready(function ($) {
         $('.select-province').select2();
     }
 
+    if ($('.select-district').length > 0) {
+        $('.select-district').select2();
+    }
+
+    if ($('.select-wards').length > 0) {
+        $('.select-wards').select2();
+    }
+
+    if ($('.select-position').length > 0) {
+        $('.select-position').select2();
+    }
+
     $('.select-province').change(function () {
         let url = '/wp-json/ash/v1/provinces/districts';
         let data = {province_id: $(this).val()};
@@ -273,8 +285,11 @@ jQuery(document).ready(function ($) {
             context: this,
             beforeSend: function () {
                 $('#enterpriseList').empty();
+                $('#enterpriseList').append('<div class="loader faq-loading"></div>');
             },
             success: function (response) {
+                $('#enterpriseList').find('.loader').remove();
+
                 let template = $('.template-enterprise-item');
                 if (response.length == 0) {
                     $('#enterpriseList').append('<div class="col-12 no-result">Không tìm thấy đơn vị nào!</div>');
@@ -468,4 +483,83 @@ jQuery(document).ready(function ($) {
         $('.faq-page').val(+page + 1);
         getSearchFaq(true);
     });
+
+    /**
+     * huong-dan-thuc-hien-chuong-trinh -------------------------------------------------------
+     */
+    if ($('.helpdesk-search-result').length > 0) {
+        getListHelpdesk();
+    }
+
+    $('.search-form').submit(function () {
+        if ($('.helpdesk-search-result').length > 0) {
+            getListHelpdesk();
+            return false;
+        }
+    });
+
+    $('.helpdesk-search-result .load-more').click(function () {
+        let page = $('.page').val();
+        $('.page').val(+page + 1);
+        getListHelpdesk(true);
+    });
+
+    function getListHelpdesk(isLoadMore = false) {
+        if ($('.search-form').length == 0) {
+            return;
+        }
+
+        let url = '/wp-json/ash/v1/helpdesk-contents';
+        let data = $('.search-form').serialize();
+
+        data = data.replace('tinh', 'province');
+        data = data.replace('huyen', 'district');
+        data = data.replace('xa', 'ward');
+
+        $.ajax({
+            type: "get",
+            dataType: "json",
+            url: url,
+            data: data,
+            context: this,
+            beforeSend: function () {
+                if (!isLoadMore) {
+                    $('.helpdesk-list').find('.helpdesk-item').remove();
+                }
+                $('.helpdesk-search-result .load-more').prop('disabled', false);
+                $('.helpdesk-search-result .loader').show();
+                $('.helpdesk-search-result .no-search-result').hide();
+            },
+            success: function (response) {
+                $('.helpdesk-search-result .loader').hide();
+                if (response && response.length > 0) {
+                    let helpdeskTemplate = $('.helpdesk-item-template');
+                    $.each(response, function (index, value) {
+                        try {
+                            let newItem = helpdeskTemplate.clone();
+                            newItem.removeClass('helpdesk-item-template');
+                            newItem.addClass('helpdesk-item');
+                            newItem.find('.helpdesk-title a').html(value.post_title);
+                            newItem.find('.helpdesk-title a').attr('href', value.url);
+                            newItem.find('.helpdesk-excerpt').html(value.post_excerpt);
+                            newItem.show();
+                            $('.helpdesk-list').append(newItem);
+                        } catch (e) {
+                            console.error(e.message)
+                        }
+                    });
+
+                    if (response.length < 10) {
+                        $('.helpdesk-search-result .load-more').prop('disabled', true);
+                    }
+                } else {
+                    if (!isLoadMore) {
+                        $('.helpdesk-list').find('.helpdesk-item').remove();
+                    }
+                    $('.helpdesk-search-result .no-search-result').show();
+                    $('.helpdesk-search-result .load-more').prop('disabled', true);
+                }
+            }
+        });
+    }
 });

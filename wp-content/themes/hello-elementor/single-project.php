@@ -1,4 +1,6 @@
 <?php
+global $post;
+
 $children_project = get_posts(array(
     'post_type' => 'project',
     'posts_per_page' => -1,
@@ -7,6 +9,17 @@ $children_project = get_posts(array(
     'orderby' => 'meta_value',
     'order' => 'ASC'
 ));
+
+if ($post->post_parent != 0) {
+    $children_project = get_posts(array(
+        'post_type' => 'project',
+        'posts_per_page' => -1,
+        'post_parent' => $post->post_parent,
+        'meta_key' => 'project_number',
+        'orderby' => 'meta_value',
+        'order' => 'ASC'
+    ));
+}
 
 $project_actions = get_posts(array(
     'numberposts' => -1,
@@ -47,7 +60,8 @@ $project_action_ids = array();
                             <select name="subproject" class="form-control form-control-sm select-subproject">
                                 <option value="">+ Chọn tiểu dự án</option>
                                 <?php foreach ($children_project as $child_project) { ?>
-                                    <option value="<?= get_the_permalink($child_project); ?>">
+                                    <option value="<?= get_the_permalink($child_project); ?>"
+                                        <?= ($post->ID == $child_project->ID) ? 'selected' : '' ?>>
                                         <?= get_field('project_number', $child_project->ID) ?> -
                                         <?= get_the_title($child_project) ?>
                                     </option>
@@ -297,11 +311,12 @@ $project_action_ids = array();
                                     <?php if (!empty($attached)): ?>
                                         <p class="attached-title font-weight-bold"><?= __('Các tài liệu đính kèm') ?></p>
                                         <ul class="attached-list">
-                                        <?php foreach ($attached as $fileItem): ?>
-                                            <li>
-                                                <a href="<?= $fileItem['url']; ?>" download><?= $fileItem['filename']; ?></a>
-                                            </li>
-                                        <?php endforeach; ?>
+                                            <?php foreach ($attached as $fileItem): ?>
+                                                <li>
+                                                    <a href="<?= $fileItem['url']; ?>"
+                                                       download><?= $fileItem['filename']; ?></a>
+                                                </li>
+                                            <?php endforeach; ?>
                                         </ul>
                                     <?php endif; ?>
                                 </div>

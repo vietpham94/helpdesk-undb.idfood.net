@@ -1,15 +1,28 @@
 <?php
+global $post;
+
 $children_actions = get_posts(array(
     'post_type' => 'project_action',
     'posts_per_page' => -1,
     'post_parent' => get_the_ID(),
 ));
+
+$project = get_field('project', $post->ID);
+
+$project_actions = get_posts(array(
+    'numberposts' => -1,
+    'post_type' => 'project_action',
+    'meta_key' => 'project',
+    'meta_value' => $project->ID
+));
+
 $helpdesk_contents = get_posts(array(
     'numberposts' => -1,
     'post_type' => 'helpdesk',
     'meta_key' => 'helpdesk_action',
     'meta_value' => get_the_ID()
 ));
+
 $project_action_ids = array();
 ?>
 <?php get_header(); ?>
@@ -21,6 +34,28 @@ $project_action_ids = array();
         </div>
         <form class="subproject-form" action="" method="get">
             <div class="row subproject-form">
+                <?php if (sizeof($project_actions) > 0) { ?>
+                    <div class="col-12 col-md-4 col-lg-3">
+                        <?= __('Chọn hoạt động cần tra cứu'); ?>
+                    </div>
+                    <div class="col-12 col-md-8 col-lg-9">
+                        <div class="form-group mb-0">
+                            <select name="action" class="form-control form-control-sm select-action">
+                                <option value="">+ Chọn hoạt động</option>
+                                <?php foreach ($project_actions as $project_action) { ?>
+                                    <?php if (!in_array($project_action->ID, $project_action_ids)) {
+                                        $project_action_ids[] = $project_action->ID;
+                                    } ?>
+                                    <option value="<?= get_the_permalink($project_action); ?>"
+                                        <?= ($post->ID == $project_action->ID) ? 'selected' : '' ?>>
+                                        <?= get_the_title($project_action) ?>
+                                    </option>
+                                <?php } ?>
+                            </select>
+                        </div>
+                    </div>
+                <?php } ?>
+
                 <?php if (sizeof($children_actions) > 0) { ?>
                     <div class="col-12 col-md-4 col-lg-3">
                         <?= __('Chọn nội dung chi tiết'); ?>
@@ -94,7 +129,7 @@ $project_action_ids = array();
                 </div>
             <?php endif;?>
         </div>
-        <div class="row">
+        <div class="row d-none">
             <div class="col-12 text-center">
                 <button type="button"><?= __('Thông tin chi tiết dự án'); ?></button>
             </div>

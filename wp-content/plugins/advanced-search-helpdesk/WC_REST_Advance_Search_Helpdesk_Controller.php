@@ -144,12 +144,16 @@ class WC_REST_Advance_Search_Helpdesk_Controller
     {
         $args = array(
             'post_type' => 'helpdesk',
-            'posts_per_page' => 10,
+            'numberposts' => 10,
             'page' => 1
         );
 
         if (!empty($request->get_param('page'))) {
-            $args['page'] = $request->get_param('page');
+            $args['paged'] = $request->get_param('page');
+        }
+
+        if (!empty($request->get_param('numberposts'))) {
+            $args['numberposts'] = $request->get_param('numberposts');
         }
 
         $meta_query = array();
@@ -238,9 +242,15 @@ class WC_REST_Advance_Search_Helpdesk_Controller
 
         if (!empty($request->get_param('helpdesk_category'))) {
             $tax_query = array(
+                'relation' => 'OR',
                 array(
                     'taxonomy' => 'helpdesk_category',
                     'field' => 'slug',
+                    'terms' => $request->get_param('helpdesk_category'),
+                ),
+                array(
+                    'taxonomy' => 'helpdesk_category',
+                    'field' => 'term_id',
                     'terms' => $request->get_param('helpdesk_category'),
                 ),
             );
@@ -255,6 +265,8 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         foreach ($helpdesk_contents as $content) {
             $item = (array)$content;
             $item['acf'] = get_fields($content->ID);
+            $item['url'] = get_permalink($content->ID);
+            $item['post_excerpt'] = wp_trim_words($content->post_content);
             $item['terms'] = wp_get_post_terms($content->ID, 'helpdesk_category');
             $result[] = $item;
         }
@@ -285,7 +297,7 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         }
 
         if (!empty($request->get_param('page'))) {
-            $args['page'] = $request->get_param('page');
+            $args['paged'] = $request->get_param('page');
         }
 
         $args = array(
