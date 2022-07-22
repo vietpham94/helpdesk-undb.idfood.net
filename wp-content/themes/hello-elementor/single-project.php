@@ -31,8 +31,17 @@ $project_actions = get_posts(array(
 $helpdesk_contents = get_posts(array(
     'numberposts' => -1,
     'post_type' => 'helpdesk',
-    'meta_key' => 'helpdesk_project',
-    'meta_value' => get_the_ID()
+    'meta_query' => array(
+        'relation' => 'OR',
+        array(
+            'key' => 'helpdesk_project',
+            'value' => get_the_ID(),
+        ),
+        array(
+            'key' => 'helpdesk_project',
+            'value' => '',
+        )
+    )
 ));
 
 $project_action_ids = array();
@@ -43,7 +52,7 @@ $project_action_ids = array();
         <div class="row">
             <div class="col-12">
                 <h2 class="title">
-                    <?= get_field('project_number', get_the_ID()) ?> -
+                    <?php //get_field('project_number', get_the_ID()) ?>
                     <?= get_the_title(); ?>
                 </h2>
             </div>
