@@ -266,7 +266,7 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $item = (array)$content;
             $item['acf'] = get_fields($content->ID);
             $item['url'] = get_permalink($content->ID);
-            $item['post_excerpt'] = wp_trim_words($content->post_content);
+            $item['post_excerpt'] = empty($content->post_excerpt) ? wp_trim_words($content->post_content) : $content->post_excerpt;
             $item['terms'] = wp_get_post_terms($content->ID, 'helpdesk_category');
             $result[] = $item;
         }
@@ -286,6 +286,11 @@ class WC_REST_Advance_Search_Helpdesk_Controller
 
             $pluginElementor = \Elementor\Plugin::instance();
             $contentElementor = $pluginElementor->frontend->get_builder_content($post_ID, true);
+        }
+
+        if (empty($contentElementor)) {
+            $helpdesk = get_post($request->get_param('id'));
+            $contentElementor = isset($helpdesk) ? $helpdesk->post_content : '';
         }
         return $contentElementor;
     }
@@ -695,7 +700,9 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $args['meta_query'] = $meta_query;
         }
 
+        add_filter( 'posts_where', 'my_filter_post_where' );
         $result = get_posts($args);
+        remove_filter( 'posts_where', 'my_filter_post_where' );
         $faqs = array();
         foreach ($result as $item) {
             $faq = (array)$item;
@@ -704,6 +711,13 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         }
 
         return $faqs;
+    }
+
+    private function my_filter_post_where( $where) {
+        global $wpdb;
+        global $keyword;
+        $where .= ' AND ' . $wpdb->posts . '.post_title NOT LIKE \'%' . esc_sql( like_escape( $keyword ) ) . '%\'';
+        return $where;
     }
 }
 

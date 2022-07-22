@@ -57,11 +57,11 @@ $project_action_ids = array();
 
                     <div class="col-12 col-md-8 col-lg-9">
                         <div class="form-group mb-0">
-                            <select name="subproject" class="form-control form-control-sm select-subproject">
+                            <select name="subproject" class="form-control form-control-sm select-subproject" data-start="<?= $post->post_parent == 0 ?>">
                                 <option value="">+ Chọn tiểu dự án</option>
-                                <?php foreach ($children_project as $child_project) { ?>
+                                <?php foreach ($children_project as $index => $child_project) { ?>
                                     <option value="<?= get_the_permalink($child_project); ?>"
-                                        <?= ($post->ID == $child_project->ID) ? 'selected' : '' ?>>
+                                        <?= $index == 0 ? 'selected' : '' ?>>
                                         <?= get_field('project_number', $child_project->ID) ?> -
                                         <?= get_the_title($child_project) ?>
                                     </option>
@@ -93,7 +93,7 @@ $project_action_ids = array();
         </form>
     </section>
 
-    <section class="container about-project">
+    <section class="container about-project d-none">
         <div class="row">
             <div class="col-12">
                 <h2 class="title"><?= __('Tổng quan'); ?></h2>

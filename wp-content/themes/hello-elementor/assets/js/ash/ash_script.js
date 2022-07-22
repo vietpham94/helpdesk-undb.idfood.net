@@ -125,7 +125,6 @@ jQuery(document).ready(function ($) {
         });
     }
 
-
     /**
      * Project detail page ----------------------------------------------------------------
      */
@@ -136,6 +135,10 @@ jQuery(document).ready(function ($) {
     $('.subproject-form .select-action').change(function () {
         location.href = $(this).val();
     });
+
+    if ($('.subproject-form .select-subproject').val() && $('.subproject-form .select-subproject').data('start')) {
+        location.href = $('.subproject-form .select-subproject').val();
+    }
 
     /**
      * Project directory --------------------------------------------------------------------
@@ -493,6 +496,7 @@ jQuery(document).ready(function ($) {
 
     $('.search-form').submit(function () {
         if ($('.helpdesk-search-result').length > 0) {
+            $('.page').val(1);
             getListHelpdesk();
             return false;
         }
@@ -500,7 +504,7 @@ jQuery(document).ready(function ($) {
 
     $('.helpdesk-search-result .load-more').click(function () {
         let page = $('.page').val();
-        $('.page').val(+page + 1);
+        $('.page').val(page ? +page + 1 : 2);
         getListHelpdesk(true);
     });
 

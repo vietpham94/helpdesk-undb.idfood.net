@@ -9,6 +9,17 @@ $children_actions = get_posts(array(
 
 $project = get_field('project', $post->ID);
 
+if ($project->post_parent != 0) {
+    $children_project = get_posts(array(
+        'post_type' => 'project',
+        'posts_per_page' => -1,
+        'post_parent' => $project->post_parent,
+        'meta_key' => 'project_number',
+        'orderby' => 'meta_value',
+        'order' => 'ASC'
+    ));
+}
+
 $project_actions = get_posts(array(
     'numberposts' => -1,
     'post_type' => 'project_action',
@@ -34,6 +45,27 @@ $project_action_ids = array();
         </div>
         <form class="subproject-form" action="" method="get">
             <div class="row subproject-form">
+                <?php if (sizeof($children_project) > 0) { ?>
+                    <div class="col-12 col-md-4 col-lg-3">
+                        <?= __('Chọn tiểu dự án cần tra cứu'); ?>
+                    </div>
+
+                    <div class="col-12 col-md-8 col-lg-9">
+                        <div class="form-group mb-0">
+                            <select name="subproject" class="form-control form-control-sm select-subproject">
+                                <option value="">+ Chọn tiểu dự án</option>
+                                <?php foreach ($children_project as $child_project) { ?>
+                                    <option value="<?= get_the_permalink($child_project); ?>"
+                                        <?= ($project->ID == $child_project->ID) ? 'selected' : '' ?>>
+                                        <?= get_field('project_number', $child_project->ID) ?> -
+                                        <?= get_the_title($child_project) ?>
+                                    </option>
+                                <?php } ?>
+                            </select>
+                        </div>
+                    </div>
+                <?php } ?>
+
                 <?php if (sizeof($project_actions) > 0) { ?>
                     <div class="col-12 col-md-4 col-lg-3">
                         <?= __('Chọn hoạt động cần tra cứu'); ?>
@@ -46,10 +78,7 @@ $project_action_ids = array();
                                     <?php if (!in_array($project_action->ID, $project_action_ids)) {
                                         $project_action_ids[] = $project_action->ID;
                                     } ?>
-                                    <option value="<?= get_the_permalink($project_action); ?>"
-                                        <?= ($post->ID == $project_action->ID) ? 'selected' : '' ?>>
-                                        <?= get_the_title($project_action) ?>
-                                    </option>
+                                    <option value="<?= get_the_permalink($project_action); ?>" <?= $project_action->ID == get_the_ID() ? 'selected':'' ?>><?= get_the_title($project_action) ?></option>
                                 <?php } ?>
                             </select>
                         </div>
@@ -76,7 +105,7 @@ $project_action_ids = array();
         </form>
     </section>
 
-    <section class="container about-project">
+    <section class="container about-project d-none">
         <div class="row">
             <div class="col-12">
                 <h2 class="title"><?= __('Tổng quan'); ?></h2>
@@ -121,13 +150,13 @@ $project_action_ids = array();
                 </ul>
                 </p>
             </div>
-            <?php if(!empty($action_metadata['action_source_of_capital']['value'])): ?>
+            <?php if (!empty($action_metadata['action_source_of_capital']['value'])): ?>
                 <div class="col-12 col-md-4 col-lg-5">
                     <img class="project-source-of-capital-img"
                          src="<?= $action_metadata['action_source_of_capital']['value']; ?>"
                          alt="<?= $action_metadata['action_source_of_capital']['label']; ?>">
                 </div>
-            <?php endif;?>
+            <?php endif; ?>
         </div>
         <div class="row d-none">
             <div class="col-12 text-center">
@@ -145,19 +174,20 @@ $project_action_ids = array();
         <div class="row">
             <div class="col-12">
                 <?php $helpdesk_categories = get_terms(array('taxonomy' => 'helpdesk_category', 'hide_empty' => true)); ?>
-                <?php if(sizeof($helpdesk_contents) > 0): ?>
+                <?php if (sizeof($helpdesk_contents) > 0): ?>
                     <?php foreach ($helpdesk_categories as $helpdesk_category) { ?>
                         <p class="helpdesk-category"><?= $helpdesk_category->name; ?></p>
                         <ul class="helpdesk-list">
                             <?php foreach ($helpdesk_contents as $content) { ?>
                                 <?php $hd_cat = get_the_terms($content->ID, 'helpdesk_category'); ?>
                                 <?php if (in_array($helpdesk_category, $hd_cat)) { ?>
-                                    <li><a href="<?= get_the_permalink($content) ?>"><?= $content->post_title; ?></a></li>
+                                    <li><a href="<?= get_the_permalink($content) ?>"><?= $content->post_title; ?></a>
+                                    </li>
                                 <?php } ?>
                             <?php }; ?>
                         </ul>
                     <?php } ?>
-                <?php endif;?>
+                <?php endif; ?>
             </div>
         </div>
     </section>
@@ -295,7 +325,8 @@ $project_action_ids = array();
                                         <ul class="attached-list">
                                             <?php foreach ($attached as $fileItem): ?>
                                                 <li>
-                                                    <a href="<?= $fileItem['url']; ?>" download><?= $fileItem['filename']; ?></a>
+                                                    <a href="<?= $fileItem['url']; ?>"
+                                                       download><?= $fileItem['filename']; ?></a>
                                                 </li>
                                             <?php endforeach; ?>
                                         </ul>
