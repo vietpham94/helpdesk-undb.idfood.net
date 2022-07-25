@@ -194,7 +194,8 @@ jQuery(document).ready(function ($) {
                     $('.select-subproject').append(option);
 
                     $.each(response, function (index, value) {
-                        let optionTitle = (value.acf && value.acf.project_number) ? value.acf.project_number + ' - ' + value.title.rendered : value.title.rendered;
+                        // let optionTitle = (value.acf && value.acf.project_number) ? value.acf.project_number + ' - ' + value.title.rendered : value.title.rendered;
+                        let optionTitle = value.title.rendered;
                         let newState = new Option(optionTitle, value.id, false, selectedSubPj == value.id);
                         $('.select-subproject').append(newState);
 
