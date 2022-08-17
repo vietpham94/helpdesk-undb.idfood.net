@@ -3,8 +3,8 @@
 function create_search_form_shortcode($args, $content)
 { ?>
     <form class="search-form" action="<?= !empty($args["action"]) ? $args["action"] : '' ?>" method="get">
-        <input type="hidden" class="page" name="page" value="1" />
-        <input type="hidden" class="numberposts" name="numberposts" value="10" />
+        <input type="hidden" class="page" name="page" value="1"/>
+        <input type="hidden" class="numberposts" name="numberposts" value="10"/>
         <div class="row mb-2 subject">
             <div class="col-12 col-md-12 col-lg-3 pb-md-2">
                 <span class="search-form-label"><?= __('Quý vị là ai?') ?></span>
@@ -54,17 +54,14 @@ function create_search_form_shortcode($args, $content)
 add_shortcode('helpdesk_advance_search_form', 'create_search_form_shortcode');
 
 // Shortcode for search result
-function helpdesk_search_result_shortcode($args, $content)
+function helpdesk_search_result_shortcode($params, $content)
 {
     $args = array(
         'post_type' => 'helpdesk',
         'posts_per_page' => 10,
-        'page' => 1
     );
 
-    if (!empty($_GET['page'])) {
-        $args['page'] = $_GET['page'];
-    }
+    $args['paged'] = (get_query_var('paged')) ? get_query_var('paged') : 1;
 
     $meta_query = array();
 
@@ -154,18 +151,44 @@ function helpdesk_search_result_shortcode($args, $content)
         $args['tax_query'] = $tax_query;
     }
 
-    $helpdesk_contents = get_posts($args);
-    ?>
-    <ul class="search-result-list">
-        <?php foreach ($helpdesk_contents as $content) { ?>
-            <li>
-                <a href="<?= get_the_permalink($content) ?>" title="<?= get_the_title($content); ?>">
-                    <?= get_the_title($content); ?>
-                </a>
-            </li>
-        <?php } ?>
-    </ul>
-    <?php
+    $helpdesk_contents = new WP_Query($args);
+    // $helpdesk_contents = get_posts($args);
+
+    if (!empty($params['total_posts'])) {
+        if ($helpdesk_contents->found_posts > 0) {
+            echo '<p class="total-posts">' . _('(Có tất cả ') . $helpdesk_contents->found_posts . _(' kết quả được tìm thấy)') . '</p>';
+        } else {
+            echo '<p class="total-posts">' . _('(Không có kết quả nào được tìm thấy)') . '</p>';
+        }
+    } else {
+        ?>
+        <ul class="search-result-list">
+            <?php foreach ($helpdesk_contents->posts as $content) { ?>
+                <li>
+                    <a href="<?= get_the_permalink($content) ?>" title="<?= get_the_title($content); ?>">
+                        <?= get_the_title($content); ?>
+                    </a>
+                </li>
+            <?php } ?>
+        </ul>
+
+        <div class="pagination">
+            <?=
+            paginate_links(array(
+                'total' => $helpdesk_contents->max_num_pages,
+                'current' => max(1, get_query_var('paged')),
+                'show_all' => false,
+                'type' => 'plain',
+                'end_size' => 2,
+                'mid_size' => 1,
+                'prev_next' => false,
+                'add_args' => false,
+                'add_fragment' => '',
+            ));
+            ?>
+        </div>
+        <?php
+    }
 }
 
 //[helpdesk_advance_search_result]
@@ -177,11 +200,12 @@ function ajax_helpdesk_search_result_shortcode($args, $content)
     ?>
     <div class="helpdesk-search-result w-100">
         <div class="helpdesk-list">
+            <p class="total-found font-italic font-weight-bold"></p>
             <div class="row helpdesk-item-template mb-3" style="display: none">
                 <div class="col-12 helpdesk-title">
                     <h3 class="mb-0"><a href=""></a></h3>
                 </div>
-                <div class="col-12 helpdesk-excerpt"></div>
+                <div class="col-12 helpdesk-excerpt d-none"></div>
             </div>
         </div>
 
@@ -345,7 +369,12 @@ function create_search_project_directory($args, $content)
             <div class="col-12 col-md-4 col-lg-3 m-auto">
                 <span class="search-form-label"><?= __('Nơi thực hiện?') ?></span>
             </div>
-            <?php echo do_shortcode('[helpdesk_advance_address_selection]'); ?>
+
+            <div class="col-12 col-md-8 col-lg-9 m-auto">
+                <div class="row">
+                    <?php echo do_shortcode('[helpdesk_advance_address_selection]'); ?>
+                </div>
+            </div>
         </div>
 
         <div class="row mb-2 subject">
@@ -454,11 +483,11 @@ function directory_search_result_shortcode($args, $content)
     $args = array(
         'post_type' => 'enterprise',
         'numberposts' => 10,
-        'page' => 1
+        'paged' => 1
     );
 
     if (!empty($_GET['page'])) {
-        $args['page'] = $_GET['page'];
+        $args['paged'] = $_GET['page'];
     }
 
     if (!empty($_GET['search'])) {
@@ -560,6 +589,9 @@ function directory_search_result_shortcode($args, $content)
 
     ?>
     <div class="directory_search_result">
+        <?php if (sizeof($enterprises) > 0) { ?>
+            <p class="total-found font-italic font-weight-bold"><?= _('(Có tất cả ') . sizeof($enterprises) . ' kết quả được tìm thấy)'; ?></p>
+        <?php } ?>
         <?php foreach ($enterprises as $item) { ?>
             <div class="row enterprise-item">
                 <div class="col-12 col-md-4 col-lg-3">
@@ -581,6 +613,10 @@ function directory_search_result_shortcode($args, $content)
                     </p>
                 </div>
             </div>
+        <?php } ?>
+
+        <?php if (sizeof($enterprises) == 0) { ?>
+            <p class="no-results"><?= _('Không có kết quả nào được tìm thấy'); ?></p>
         <?php } ?>
     </div>
     <?php
@@ -816,6 +852,8 @@ function faq_search_result_shortcode($args, $content)
 { ?>
     <div class="row">
         <div class="col-12">
+            <p class="total-found font-italic font-weight-bold"></p>
+
             <div class="accordion" id="accordionFAQ">
                 <div class="card faq-card-template" style="display: none">
                     <div class="card-header" id="heading-00">

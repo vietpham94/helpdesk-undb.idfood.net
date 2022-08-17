@@ -145,7 +145,7 @@ class WC_REST_Advance_Search_Helpdesk_Controller
         $args = array(
             'post_type' => 'helpdesk',
             'numberposts' => 10,
-            'page' => 1
+            'paged' => 1
         );
 
         if (!empty($request->get_param('page'))) {
@@ -270,6 +270,12 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $item['terms'] = wp_get_post_terms($content->ID, 'helpdesk_category');
             $result[] = $item;
         }
+
+        if ($args['paged'] == 1) {
+            $args['numberposts'] = -1;
+            $result[] = array('total_found' => count(get_posts($args)));
+        }
+
         return $result;
     }
 
@@ -708,6 +714,11 @@ class WC_REST_Advance_Search_Helpdesk_Controller
             $faq = (array)$item;
             $faq['acf'] = get_fields($item->ID);
             $faqs[] = $faq;
+        }
+
+        if ($args['paged'] == 1) {
+            $args['numberposts'] = -1;
+            $faqs[] = array('total_found' => count(get_posts($args)));
         }
 
         return $faqs;

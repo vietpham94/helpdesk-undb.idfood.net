@@ -444,27 +444,41 @@ jQuery(document).ready(function ($) {
                 if (response && response.length > 0) {
                     let faqTemplate = $('.faq-card-template');
                     $.each(response, function (index, value) {
-                        try {
-                            let newItem = faqTemplate.clone();
-                            newItem.removeClass('faq-card-template');
-                            newItem.addClass('faq-card');
-                            newItem.find('.card-header').attr('id', 'heading-' + value.ID);
-                            newItem.find('.card-header a').html(value.post_title);
-                            newItem.find('.card-header a').attr('data-target', '#collapse-' + value.ID);
-                            newItem.find('.card-header a').attr('aria-controls', 'collapse-' + value.ID);
-                            newItem.find('.answer-content').html(value.post_content);
-                            newItem.find('.answer').attr('id', 'collapse-' + value.ID);
-                            newItem.find('.answer').attr('aria-labelledby', 'heading-' + value.ID);
-                            if (value.acf && value.acf.attached) {
-                                $.each(value.acf.attached, function (i, attached) {
-                                    let attachedItem = '<li><a href="' + attached.url + '" download>' + attached.filename + '</a></li>';
-                                    newItem.find('ul.attached-list').append(attachedItem);
-                                });
+                        if (value.total_found != null) {
+                            if (response.length > 1) {
+                                $('.total-found').text('(Có tất cả ' + value.total_found + ' kết quả được tìm thấy)');
+                                $('.total-found').show();
+                            } else {
+                                $('.total-found').hide();
+                                if (!isLoadMore) {
+                                    $('#accordionFAQ').find('.faq-card').remove();
+                                }
+                                $('.no-faq-search-result').show();
+                                $('.faq-load-more').prop('disabled', true);
                             }
-                            newItem.show();
-                            $('#accordionFAQ').append(newItem);
-                        } catch (e) {
-                            console.error(e.message)
+                        } else {
+                            try {
+                                let newItem = faqTemplate.clone();
+                                newItem.removeClass('faq-card-template');
+                                newItem.addClass('faq-card');
+                                newItem.find('.card-header').attr('id', 'heading-' + value.ID);
+                                newItem.find('.card-header a').html(value.post_title);
+                                newItem.find('.card-header a').attr('data-target', '#collapse-' + value.ID);
+                                newItem.find('.card-header a').attr('aria-controls', 'collapse-' + value.ID);
+                                newItem.find('.answer-content').html(value.post_content);
+                                newItem.find('.answer').attr('id', 'collapse-' + value.ID);
+                                newItem.find('.answer').attr('aria-labelledby', 'heading-' + value.ID);
+                                if (value.acf && value.acf.attached) {
+                                    $.each(value.acf.attached, function (i, attached) {
+                                        let attachedItem = '<li><a href="' + attached.url + '" download>' + attached.filename + '</a></li>';
+                                        newItem.find('ul.attached-list').append(attachedItem);
+                                    });
+                                }
+                                newItem.show();
+                                $('#accordionFAQ').append(newItem);
+                            } catch (e) {
+                                console.error(e.message)
+                            }
                         }
                     });
 
@@ -541,16 +555,30 @@ jQuery(document).ready(function ($) {
                     let helpdeskTemplate = $('.helpdesk-item-template');
                     $.each(response, function (index, value) {
                         try {
-                            let newItem = helpdeskTemplate.clone();
-                            newItem.removeClass('helpdesk-item-template');
-                            newItem.addClass('helpdesk-item');
-                            newItem.find('.helpdesk-title a').html(value.post_title);
-                            newItem.find('.helpdesk-title a').attr('href', value.url);
-                            newItem.find('.helpdesk-excerpt').html(value.post_excerpt);
-                            newItem.show();
-                            $('.helpdesk-list').append(newItem);
+                            if (value.total_found != null) {
+                                if (response.length > 1) {
+                                    $('.total-found').text('(Có tất cả ' + value.total_found + ' kết quả được tìm thấy)');
+                                    $('.total-found').show();
+                                } else {
+                                    $('.total-found').hide();
+                                    if (!isLoadMore) {
+                                        $('.helpdesk-list').find('.helpdesk-item').remove();
+                                    }
+                                    $('.helpdesk-search-result .no-search-result').show();
+                                    $('.helpdesk-search-result .load-more').prop('disabled', true);
+                                }
+                            } else {
+                                let newItem = helpdeskTemplate.clone();
+                                newItem.removeClass('helpdesk-item-template');
+                                newItem.addClass('helpdesk-item');
+                                newItem.find('.helpdesk-title a').html(value.post_title);
+                                newItem.find('.helpdesk-title a').attr('href', value.url);
+                                newItem.find('.helpdesk-excerpt').html(value.post_excerpt);
+                                newItem.show();
+                                $('.helpdesk-list').append(newItem);
+                            }
                         } catch (e) {
-                            console.error(e.message)
+                            console.error(e);
                         }
                     });
 
