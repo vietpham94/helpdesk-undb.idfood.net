@@ -212,7 +212,7 @@ function ajax_helpdesk_search_result_shortcode($args, $content)
         <div class="loader" style="display: none"></div>
 
         <p class="no-search-result" style="display: none">
-            Không có kết quà nào được tìm thấy.
+            Không có kết quả nào được tìm thấy.
         </p>
 
         <div class="pagination">
@@ -312,7 +312,7 @@ function projects_selector($args, $content)
             <option value="">+ Chọn dự án</option>
             <?php foreach ($projects as $project) { ?>
                 <option value="<?= $project->ID ?>">
-                    <?= !empty(get_field('project_number', $project->ID)) ? (get_field('project_number', $project->ID) . ' -') : ''; ?>
+                    <?php //!empty(get_field('project_number', $project->ID)) ? (get_field('project_number', $project->ID) . ' -') : ''; ?>
                     <?= get_the_title($project) ?>
                 </option>
             <?php } ?>
@@ -413,7 +413,7 @@ function create_search_project_directory($args, $content)
                         <option value="">+ Chọn dự án</option>
                         <?php foreach ($projects as $project) : ?>
                             <option value="<?= $project->ID ?>" <?= (isset($_GET['du_an']) && $_GET['du_an'] == $project->ID) ? 'selected' : '' ?>>
-                                <?= !empty(get_field('project_number', $project->ID)) ? (get_field('project_number', $project->ID) . ' -') : ''; ?>
+                                <?php //!empty(get_field('project_number', $project->ID)) ? (get_field('project_number', $project->ID) . ' -') : ''; ?>
                                 <?= get_the_title($project) ?>
                             </option>
                         <?php endforeach; ?>
@@ -662,6 +662,7 @@ function suggestions_form_shortcode($args, $content)
         <?= __('Cám ơn đánh giá, góp ý của bạn cho chương trình !') ?>
     </div>
 <?php endif; ?>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <form class="search-form" action="<?= !empty($args["action"]) ? $args["action"] : '' ?>" method="POST">
         <div class="row mb-2 info-title">
             <h2>1. Thông tin cá nhân</h2>
@@ -744,6 +745,9 @@ function suggestions_form_shortcode($args, $content)
                               required></textarea>
                 </div>
             </div>
+        </div>
+        <div class="row mb-2 recaptcha">
+            <div class="col-md-8 offset-md-4 col-lg-9 offset-lg-3 g-recaptcha" data-sitekey="<?= !empty($args["captcha_key"]) ? $args["captcha_key"] : '' ?>"></div>
         </div>
         <div class="row mb-2 helpdesk-submit-search">
             <div class="col-12 m-auto text-center">
@@ -880,7 +884,7 @@ function faq_search_result_shortcode($args, $content)
             <div class="loader faq-loading" style="display: none"></div>
 
             <p class="no-faq-search-result" style="display: none">
-                Không có kết quà nào được tìm thấy.
+                Không có kết quả nào được tìm thấy.
             </p>
 
             <div class="pagination">
