@@ -30,4 +30,5 @@ function on_deactivation()
 
 // Include functions
 include_once(plugin_dir_path(__FILE__) . 'ash-shortcode.php');
+include_once(plugin_dir_path(__FILE__) . 'ash-widgets.php');
 include_once(plugin_dir_path(__FILE__) . 'WC_REST_Advance_Search_Helpdesk_Controller.php');
